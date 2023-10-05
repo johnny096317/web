@@ -1,0 +1,7 @@
+2023-10-05 15:42:36，執行：mailbox create，開始 
+2023-10-05 15:42:45，執行：mailbox create，start 
+2023-10-05 15:42:47，執行：mailbox create，step 1：1 
+2023-10-05 15:42:49，執行：mailbox create，step 2 error：案件編號：20231005566170,錯誤訊息：取得token失敗 
+2023-10-05 15:42:50，執行：mailbox create，end 
+2023-10-05 15:42:51，執行：mailbox create，執行時間：0小時0分鐘14秒 
+2023-10-05 15:42:52，執行：mailbox create，結束 

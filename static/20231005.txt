@@ -928,3 +928,14 @@
 2023-10-05 11:56:30，執行：static，end 
 2023-10-05 11:56:31，執行：static，執行時間：0小時1分鐘21秒 
 2023-10-05 11:56:32，執行：static，結束 
+2023-10-05 12:00:09，執行：static，開始 
+2023-10-05 12:00:10，執行：static，start 
+2023-10-05 12:00:23，執行：static，allTrueData count：2319 
+2023-10-05 12:00:24，執行：static，newTrueData count：44 
+2023-10-05 12:00:25，執行：static，falseData count：1132 
+2023-10-05 12:00:27，執行：static，onData OnData1 
+2023-10-05 12:01:25，執行：static，onData OnData2 
+2023-10-05 12:01:26，執行：static，isLiveSaveStatic 
+2023-10-05 12:01:29，執行：static，end 
+2023-10-05 12:01:30，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-05 12:01:31，執行：static，結束 

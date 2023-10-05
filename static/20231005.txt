@@ -1951,3 +1951,14 @@
 2023-10-05 21:26:14，執行：static，end 
 2023-10-05 21:26:16，執行：static，執行時間：0小時1分鐘7秒 
 2023-10-05 21:26:18，執行：static，結束 
+2023-10-05 21:30:09，執行：static，開始 
+2023-10-05 21:30:11，執行：static，start 
+2023-10-05 21:30:23，執行：static，allTrueData count：2319 
+2023-10-05 21:30:25，執行：static，newTrueData count：44 
+2023-10-05 21:30:26，執行：static，falseData count：1132 
+2023-10-05 21:30:28，執行：static，onData OnData1 
+2023-10-05 21:31:07，執行：static，onData OnData2 
+2023-10-05 21:31:09，執行：static，isLiveSaveStatic 
+2023-10-05 21:31:13，執行：static，end 
+2023-10-05 21:31:14，執行：static，執行時間：0小時1分鐘5秒 
+2023-10-05 21:31:16，執行：static，結束 

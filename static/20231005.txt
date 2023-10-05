@@ -1,0 +1,556 @@
+2023-10-05 00:01:00，執行:static ，開始時間：2023-10-05 00:01:00 
+2023-10-05 00:01:02，執行:static，Start static 
+2023-10-05 00:01:15，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:01:16，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:01:17，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:01:19，執行:static，-- str OnData OnData1---   
+2023-10-05 00:02:12，執行:static，-- str OnData OnData2---   
+2023-10-05 00:02:14，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:02:17，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:02:18，執行:static，END static 
+2023-10-05 00:02:19，執行:static ，結束時間 :2023-10-05 00:02:19，執行時間共花費:0小時1分鐘19秒 
+2023-10-05 00:08:39，執行:static ，開始時間：2023-10-05 00:08:39 
+2023-10-05 00:08:39，執行:static，Start static 
+2023-10-05 00:08:52，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:08:53，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:08:53，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:08:54，執行:static，-- str OnData OnData1---   
+2023-10-05 00:09:46，執行:static，-- str OnData OnData2---   
+2023-10-05 00:09:47，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:09:49，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:09:50，執行:static，END static 
+2023-10-05 00:09:51，執行:static ，結束時間 :2023-10-05 00:09:51，執行時間共花費:0小時1分鐘12秒 
+2023-10-05 00:14:43，執行:static ，開始時間：2023-10-05 00:14:43 
+2023-10-05 00:14:45，執行:static，Start static 
+2023-10-05 00:14:59，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:15:00，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:15:01，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:15:03，執行:static，-- str OnData OnData1---   
+2023-10-05 00:15:57，執行:static，-- str OnData OnData2---   
+2023-10-05 00:15:58，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:16:01，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:16:03，執行:static，END static 
+2023-10-05 00:16:04，執行:static ，結束時間 :2023-10-05 00:16:04，執行時間共花費:0小時1分鐘20秒 
+2023-10-05 00:16:11，執行:static ，開始時間：2023-10-05 00:16:10 
+2023-10-05 00:16:13，執行:static，Start static 
+2023-10-05 00:16:25，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:16:26，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:16:27，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:16:28，執行:static，-- str OnData OnData1---   
+2023-10-05 00:17:22，執行:static，-- str OnData OnData2---   
+2023-10-05 00:17:23，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:17:26，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:17:27，執行:static，END static 
+2023-10-05 00:17:28，執行:static ，結束時間 :2023-10-05 00:17:28，執行時間共花費:0小時1分鐘18秒 
+2023-10-05 00:20:59，執行:static ，開始時間：2023-10-05 00:20:59 
+2023-10-05 00:21:00，執行:static，Start static 
+2023-10-05 00:21:13，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:21:15，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:21:16，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:21:18，執行:static，-- str OnData OnData1---   
+2023-10-05 00:22:12，執行:static，-- str OnData OnData2---   
+2023-10-05 00:22:13，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:22:15，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:22:15，執行:static，END static 
+2023-10-05 00:22:16，執行:static ，結束時間 :2023-10-05 00:22:16，執行時間共花費:0小時1分鐘16秒 
+2023-10-05 00:30:51，執行:static ，開始時間：2023-10-05 00:30:50 
+2023-10-05 00:30:51，執行:static，Start static 
+2023-10-05 00:31:02，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:31:03，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:31:03，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:31:04，執行:static，-- str OnData OnData1---   
+2023-10-05 00:31:56，執行:static，-- str OnData OnData2---   
+2023-10-05 00:31:58，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:32:00，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:32:01，執行:static，END static 
+2023-10-05 00:32:02，執行:static ，結束時間 :2023-10-05 00:32:02，執行時間共花費:0小時1分鐘11秒 
+2023-10-05 00:41:51，執行:static ，開始時間：2023-10-05 00:41:51 
+2023-10-05 00:41:52，執行:static，Start static 
+2023-10-05 00:42:06，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:42:07，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:42:09，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:42:10，執行:static，-- str OnData OnData1---   
+2023-10-05 00:43:05，執行:static，-- str OnData OnData2---   
+2023-10-05 00:43:06，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:43:08，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:43:09，執行:static，END static 
+2023-10-05 00:43:10，執行:static ，結束時間 :2023-10-05 00:43:10，執行時間共花費:0小時1分鐘19秒 
+2023-10-05 00:48:43，執行:static ，開始時間：2023-10-05 00:48:43 
+2023-10-05 00:48:44，執行:static，Start static 
+2023-10-05 00:48:57，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:48:57，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:48:58，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:48:59，執行:static，-- str OnData OnData1---   
+2023-10-05 00:49:53，執行:static，-- str OnData OnData2---   
+2023-10-05 00:49:54，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 00:49:56，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 00:49:56，執行:static，END static 
+2023-10-05 00:49:57，執行:static ，結束時間 :2023-10-05 00:49:57，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 00:56:04，執行:static ，開始時間：2023-10-05 00:56:04 
+2023-10-05 00:56:05，執行:static，Start static 
+2023-10-05 00:56:19，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 00:56:20，執行:static，-- NewTrueData count ---  44 
+2023-10-05 00:56:20，執行:static，-- FalseData count ---  1132 
+2023-10-05 00:56:22，執行:static，-- str OnData OnData1---   
+2023-10-05 01:00:55，執行:static ，開始時間：2023-10-05 01:00:55 
+2023-10-05 01:00:56，執行:static，Start static 
+2023-10-05 01:01:10，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:01:11，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:01:11，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:01:12，執行:static，-- str OnData OnData1---   
+2023-10-05 01:02:06，執行:static，-- str OnData OnData2---   
+2023-10-05 01:02:07，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:02:10，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:02:11，執行:static，END static 
+2023-10-05 01:02:13，執行:static ，結束時間 :2023-10-05 01:02:13，執行時間共花費:0小時1分鐘17秒 
+2023-10-05 01:08:18，執行:static ，開始時間：2023-10-05 01:08:18 
+2023-10-05 01:08:19，執行:static，Start static 
+2023-10-05 01:08:30，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:08:30，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:08:31，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:08:32，執行:static，-- str OnData OnData1---   
+2023-10-05 01:09:07，執行:static，Start static 
+2023-10-05 01:09:21，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:09:22，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:09:24，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:09:25，執行:static，-- str OnData OnData1---   
+2023-10-05 01:10:19，執行:static，-- str OnData OnData2---   
+2023-10-05 01:10:20，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:10:23，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:10:24，執行:static，END static 
+2023-10-05 01:10:25，執行:static ，結束時間 :2023-10-05 01:10:25，執行時間共花費:0小時1分鐘20秒 
+2023-10-05 01:13:14，執行:static ，開始時間：2023-10-05 01:13:14 
+2023-10-05 01:13:16，執行:static，Start static 
+2023-10-05 01:13:28，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:13:29，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:13:30，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:13:31，執行:static，-- str OnData OnData1---   
+2023-10-05 01:14:22，執行:static，-- str OnData OnData2---   
+2023-10-05 01:14:23，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:14:25，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:14:25，執行:static，END static 
+2023-10-05 01:14:26，執行:static ，結束時間 :2023-10-05 01:14:26，執行時間共花費:0小時1分鐘11秒 
+2023-10-05 01:15:36，執行:static ，開始時間：2023-10-05 01:15:36 
+2023-10-05 01:15:37，執行:static，Start static 
+2023-10-05 01:15:49，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:15:50，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:15:51，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:15:51，執行:static，-- str OnData OnData1---   
+2023-10-05 01:16:44，執行:static，-- str OnData OnData2---   
+2023-10-05 01:16:44，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:16:46，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:16:47，執行:static，END static 
+2023-10-05 01:16:48，執行:static ，結束時間 :2023-10-05 01:16:48，執行時間共花費:0小時1分鐘12秒 
+2023-10-05 01:26:02，執行:static ，開始時間：2023-10-05 01:26:02 
+2023-10-05 01:26:04，執行:static，Start static 
+2023-10-05 01:26:17，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:26:18，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:26:19，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:26:20，執行:static，-- str OnData OnData1---   
+2023-10-05 01:27:12，執行:static，-- str OnData OnData2---   
+2023-10-05 01:27:14，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:27:16，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:27:17，執行:static，END static 
+2023-10-05 01:27:18，執行:static ，結束時間 :2023-10-05 01:27:18，執行時間共花費:0小時1分鐘15秒 
+2023-10-05 01:36:55，執行:static ，開始時間：2023-10-05 01:36:55 
+2023-10-05 01:36:56，執行:static，Start static 
+2023-10-05 01:37:09，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:37:10，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:37:11，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:37:12，執行:static，-- str OnData OnData1---   
+2023-10-05 01:38:04，執行:static，-- str OnData OnData2---   
+2023-10-05 01:38:05，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:38:07，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:38:08，執行:static，END static 
+2023-10-05 01:38:09，執行:static ，結束時間 :2023-10-05 01:38:09，執行時間共花費:0小時1分鐘13秒 
+2023-10-05 01:43:14，執行:static ，開始時間：2023-10-05 01:43:14 
+2023-10-05 01:43:15，執行:static，Start static 
+2023-10-05 01:43:26，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:43:27，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:43:28，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:43:29，執行:static，-- str OnData OnData1---   
+2023-10-05 01:44:21，執行:static，-- str OnData OnData2---   
+2023-10-05 01:44:22，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:44:24，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:44:25，執行:static，END static 
+2023-10-05 01:44:25，執行:static ，結束時間 :2023-10-05 01:44:25，執行時間共花費:0小時1分鐘11秒 
+2023-10-05 01:48:36，執行:static ，開始時間：2023-10-05 01:48:36 
+2023-10-05 01:48:37，執行:static，Start static 
+2023-10-05 01:48:50，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:48:51，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:48:51，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:48:52，執行:static，-- str OnData OnData1---   
+2023-10-05 01:49:45，執行:static，-- str OnData OnData2---   
+2023-10-05 01:49:45，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:49:48，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:49:48，執行:static，END static 
+2023-10-05 01:49:49，執行:static ，結束時間 :2023-10-05 01:49:49，執行時間共花費:0小時1分鐘12秒 
+2023-10-05 01:53:29，執行:static ，開始時間：2023-10-05 01:53:29 
+2023-10-05 01:53:30，執行:static，Start static 
+2023-10-05 01:53:41，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:53:42，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:53:42，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:53:43，執行:static，-- str OnData OnData1---   
+2023-10-05 01:54:35，執行:static，-- str OnData OnData2---   
+2023-10-05 01:54:35，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:54:37，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:54:38，執行:static，END static 
+2023-10-05 01:54:39，執行:static ，結束時間 :2023-10-05 01:54:39，執行時間共花費:0小時1分鐘9秒 
+2023-10-05 01:55:51，執行:static ，開始時間：2023-10-05 01:55:51 
+2023-10-05 01:55:52，執行:static，Start static 
+2023-10-05 01:56:03，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 01:56:04，執行:static，-- NewTrueData count ---  44 
+2023-10-05 01:56:04，執行:static，-- FalseData count ---  1132 
+2023-10-05 01:56:05，執行:static，-- str OnData OnData1---   
+2023-10-05 01:56:56，執行:static，-- str OnData OnData2---   
+2023-10-05 01:56:57，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 01:56:59，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 01:57:00，執行:static，END static 
+2023-10-05 01:57:00，執行:static ，結束時間 :2023-10-05 01:57:00，執行時間共花費:0小時1分鐘9秒 
+2023-10-05 02:00:47，執行:static ，開始時間：2023-10-05 02:00:47 
+2023-10-05 02:00:48，執行:static，Start static 
+2023-10-05 02:01:01，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:01:02，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:01:03，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:01:03，執行:static，-- str OnData OnData1---   
+2023-10-05 02:01:56，執行:static，-- str OnData OnData2---   
+2023-10-05 02:01:57，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:01:59，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:02:01，執行:static，END static 
+2023-10-05 02:02:01，執行:static ，結束時間 :2023-10-05 02:02:01，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 02:03:38，執行:static ，開始時間：2023-10-05 02:03:38 
+2023-10-05 02:03:39，執行:static，Start static 
+2023-10-05 02:03:50，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:03:50，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:03:51，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:03:52，執行:static，-- str OnData OnData1---   
+2023-10-05 02:04:43，執行:static，-- str OnData OnData2---   
+2023-10-05 02:04:43，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:04:45，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:04:46，執行:static，END static 
+2023-10-05 02:04:47，執行:static ，結束時間 :2023-10-05 02:04:47，執行時間共花費:0小時1分鐘8秒 
+2023-10-05 02:09:18，執行:static ，開始時間：2023-10-05 02:09:18 
+2023-10-05 02:09:19，執行:static，Start static 
+2023-10-05 02:09:32，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:09:33，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:09:33，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:09:35，執行:static，-- str OnData OnData1---   
+2023-10-05 02:10:28，執行:static，-- str OnData OnData2---   
+2023-10-05 02:10:29，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:10:31，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:10:32，執行:static，END static 
+2023-10-05 02:10:32，執行:static ，結束時間 :2023-10-05 02:10:32，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 02:15:49，執行:static ，開始時間：2023-10-05 02:15:49 
+2023-10-05 02:15:50，執行:static，Start static 
+2023-10-05 02:16:02，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:16:02，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:16:03，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:16:04，執行:static，-- str OnData OnData1---   
+2023-10-05 02:16:56，執行:static，-- str OnData OnData2---   
+2023-10-05 02:16:57，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:16:58，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:16:59，執行:static，END static 
+2023-10-05 02:17:00，執行:static ，結束時間 :2023-10-05 02:17:00，執行時間共花費:0小時1分鐘10秒 
+2023-10-05 02:23:12，執行:static ，開始時間：2023-10-05 02:23:12 
+2023-10-05 02:23:13，執行:static，Start static 
+2023-10-05 02:23:26，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:23:26，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:23:27，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:23:28，執行:static，-- str OnData OnData1---   
+2023-10-05 02:24:20，執行:static，-- str OnData OnData2---   
+2023-10-05 02:24:21，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:24:23，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:24:23，執行:static，END static 
+2023-10-05 02:24:24，執行:static ，結束時間 :2023-10-05 02:24:24，執行時間共花費:0小時1分鐘12秒 
+2023-10-05 02:29:35，執行:static ，開始時間：2023-10-05 02:29:35 
+2023-10-05 02:29:36，執行:static，Start static 
+2023-10-05 02:29:49，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:29:50，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:29:50，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:29:52，執行:static，-- str OnData OnData1---   
+2023-10-05 02:30:45，執行:static，-- str OnData OnData2---   
+2023-10-05 02:30:46，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:30:48，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:30:49，執行:static，END static 
+2023-10-05 02:30:50，執行:static ，結束時間 :2023-10-05 02:30:50，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 02:30:54，執行:static，Start static 
+2023-10-05 02:31:09，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:31:10，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:31:11，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:31:13，執行:static，-- str OnData OnData1---   
+2023-10-05 02:32:07，執行:static，-- str OnData OnData2---   
+2023-10-05 02:32:08，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:32:10，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:32:12，執行:static，END static 
+2023-10-05 02:32:13，執行:static ，結束時間 :2023-10-05 02:32:13，執行時間共花費:0小時1分鐘20秒 
+2023-10-05 02:45:52，執行:static ，開始時間：2023-10-05 02:45:52 
+2023-10-05 02:45:53，執行:static，Start static 
+2023-10-05 02:46:04，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:46:05，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:46:06，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:46:07，執行:static，-- str OnData OnData1---   
+2023-10-05 02:46:58，執行:static，-- str OnData OnData2---   
+2023-10-05 02:46:59，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:47:00，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:47:01，執行:static，END static 
+2023-10-05 02:47:02，執行:static ，結束時間 :2023-10-05 02:47:02，執行時間共花費:0小時1分鐘10秒 
+2023-10-05 02:52:01，執行:static ，開始時間：2023-10-05 02:52:01 
+2023-10-05 02:52:02，執行:static，Start static 
+2023-10-05 02:52:14，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:52:15，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:52:15，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:52:16，執行:static，-- str OnData OnData1---   
+2023-10-05 02:53:08，執行:static，-- str OnData OnData2---   
+2023-10-05 02:53:09，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 02:53:10，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 02:53:11，執行:static，END static 
+2023-10-05 02:53:12，執行:static ，結束時間 :2023-10-05 02:53:12，執行時間共花費:0小時1分鐘10秒 
+2023-10-05 02:59:35，執行:static ，開始時間：2023-10-05 02:59:35 
+2023-10-05 02:59:36，執行:static，Start static 
+2023-10-05 02:59:49，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 02:59:50，執行:static，-- NewTrueData count ---  44 
+2023-10-05 02:59:51，執行:static，-- FalseData count ---  1132 
+2023-10-05 02:59:52，執行:static，-- str OnData OnData1---   
+2023-10-05 03:00:44，執行:static，-- str OnData OnData2---   
+2023-10-05 03:00:45，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:00:47，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:00:48，執行:static，END static 
+2023-10-05 03:00:48，執行:static ，結束時間 :2023-10-05 03:00:48，執行時間共花費:0小時1分鐘13秒 
+2023-10-05 03:04:25，執行:static ，開始時間：2023-10-05 03:04:25 
+2023-10-05 03:04:27，執行:static，Start static 
+2023-10-05 03:04:40，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:04:41，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:04:42，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:04:44，執行:static，-- str OnData OnData1---   
+2023-10-05 03:05:35，執行:static，-- str OnData OnData2---   
+2023-10-05 03:05:37，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:05:39，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:05:40，執行:static，END static 
+2023-10-05 03:05:41，執行:static ，結束時間 :2023-10-05 03:05:41，執行時間共花費:0小時1分鐘16秒 
+2023-10-05 03:05:58，執行:static，Start static 
+2023-10-05 03:06:12，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:06:13，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:06:15，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:06:16，執行:static，-- str OnData OnData1---   
+2023-10-05 03:07:10，執行:static，-- str OnData OnData2---   
+2023-10-05 03:07:11，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:07:15，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:07:17，執行:static，END static 
+2023-10-05 03:07:18，執行:static ，結束時間 :2023-10-05 03:07:18，執行時間共花費:0小時1分鐘22秒 
+2023-10-05 03:11:06，執行:static ，開始時間：2023-10-05 03:11:06 
+2023-10-05 03:11:07，執行:static，Start static 
+2023-10-05 03:11:20，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:11:21，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:11:21，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:11:22，執行:static，-- str OnData OnData1---   
+2023-10-05 03:12:15，執行:static，-- str OnData OnData2---   
+2023-10-05 03:12:16，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:12:18，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:12:19，執行:static，END static 
+2023-10-05 03:12:19，執行:static ，結束時間 :2023-10-05 03:12:19，執行時間共花費:0小時1分鐘13秒 
+2023-10-05 03:18:13，執行:static ，開始時間：2023-10-05 03:18:13 
+2023-10-05 03:18:14，執行:static，Start static 
+2023-10-05 03:18:25，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:18:25，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:18:26，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:18:27，執行:static，-- str OnData OnData1---   
+2023-10-05 03:19:06，執行:static，Start static 
+2023-10-05 03:19:19，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:19:21，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:19:22，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:19:24，執行:static，-- str OnData OnData1---   
+2023-10-05 03:20:17，執行:static，-- str OnData OnData2---   
+2023-10-05 03:20:19，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:20:21，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:20:22，執行:static，END static 
+2023-10-05 03:20:23，執行:static ，結束時間 :2023-10-05 03:20:23，執行時間共花費:0小時1分鐘18秒 
+2023-10-05 03:25:52，執行:static ，開始時間：2023-10-05 03:25:52 
+2023-10-05 03:25:53，執行:static，Start static 
+2023-10-05 03:26:04，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:26:04，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:26:05，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:26:06，執行:static，-- str OnData OnData1---   
+2023-10-05 03:26:58，執行:static，-- str OnData OnData2---   
+2023-10-05 03:26:59，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:27:01，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:27:01，執行:static，END static 
+2023-10-05 03:27:02，執行:static ，結束時間 :2023-10-05 03:27:02，執行時間共花費:0小時1分鐘10秒 
+2023-10-05 03:32:02，執行:static ，開始時間：2023-10-05 03:32:02 
+2023-10-05 03:32:03，執行:static，Start static 
+2023-10-05 03:32:14，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:32:14，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:32:15，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:32:16，執行:static，-- str OnData OnData1---   
+2023-10-05 03:33:06，執行:static，-- str OnData OnData2---   
+2023-10-05 03:33:07，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:33:09，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:33:09，執行:static，END static 
+2023-10-05 03:33:10，執行:static ，結束時間 :2023-10-05 03:33:10，執行時間共花費:0小時1分鐘8秒 
+2023-10-05 03:38:32，執行:static ，開始時間：2023-10-05 03:38:31 
+2023-10-05 03:38:32，執行:static，Start static 
+2023-10-05 03:38:48，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:38:48，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:38:49，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:38:50，執行:static，-- str OnData OnData1---   
+2023-10-05 03:39:08，執行:static，Start static 
+2023-10-05 03:39:20，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:39:21，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:39:22，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:39:23，執行:static，-- str OnData OnData1---   
+2023-10-05 03:40:14，執行:static，-- str OnData OnData2---   
+2023-10-05 03:40:16，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:40:19，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:40:20，執行:static，END static 
+2023-10-05 03:40:21，執行:static ，結束時間 :2023-10-05 03:40:21，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 03:45:58，執行:static ，開始時間：2023-10-05 03:45:58 
+2023-10-05 03:45:59，執行:static，Start static 
+2023-10-05 03:46:12，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:46:13，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:46:14，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:46:15，執行:static，-- str OnData OnData1---   
+2023-10-05 03:47:08，執行:static，-- str OnData OnData2---   
+2023-10-05 03:47:09，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:47:11，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:47:12，執行:static，END static 
+2023-10-05 03:47:13，執行:static ，結束時間 :2023-10-05 03:47:13，執行時間共花費:0小時1分鐘14秒 
+2023-10-05 03:47:53，執行:static，Start static 
+2023-10-05 03:48:04，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:48:05，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:48:06，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:48:07，執行:static，-- str OnData OnData1---   
+2023-10-05 03:48:57，執行:static，-- str OnData OnData2---   
+2023-10-05 03:48:58，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:49:00，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:49:00，執行:static，END static 
+2023-10-05 03:49:01，執行:static ，結束時間 :2023-10-05 03:49:01，執行時間共花費:0小時1分鐘8秒 
+2023-10-05 03:57:03，執行:static ，開始時間：2023-10-05 03:57:03 
+2023-10-05 03:57:04，執行:static，Start static 
+2023-10-05 03:57:17，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 03:57:18，執行:static，-- NewTrueData count ---  44 
+2023-10-05 03:57:19，執行:static，-- FalseData count ---  1132 
+2023-10-05 03:57:20，執行:static，-- str OnData OnData1---   
+2023-10-05 03:58:14，執行:static，-- str OnData OnData2---   
+2023-10-05 03:58:16，執行:static，-- str Update  IsLiveSaveStatic---   
+2023-10-05 03:58:18，執行:static，end Update  IsLiveSaveStatic--- 
+2023-10-05 03:58:20，執行:static，END static 
+2023-10-05 03:58:21，執行:static ，結束時間 :2023-10-05 03:58:21，執行時間共花費:0小時1分鐘17秒 
+2023-10-05 04:05:51，執行:static ，開始時間：2023-10-05 04:05:50 
+2023-10-05 04:05:51，執行:static，Start static 
+2023-10-05 04:06:02，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:06:03，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:06:04，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:06:05，執行:static，-- str OnData OnData1---   
+2023-10-05 04:14:29，執行:static ，開始時間：2023-10-05 04:14:29 
+2023-10-05 04:14:30，執行:static，Start static 
+2023-10-05 04:14:43，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:14:44，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:14:45，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:14:46，執行:static，-- str OnData OnData1---   
+2023-10-05 04:16:00，執行:static ，開始時間：2023-10-05 04:16:00 
+2023-10-05 04:16:01，執行:static，Start static 
+2023-10-05 04:16:15，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:16:16，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:16:17，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:16:18，執行:static，-- str OnData OnData1---   
+2023-10-05 04:24:51，執行:static ，開始時間：2023-10-05 04:24:51 
+2023-10-05 04:24:52，執行:static，Start static 
+2023-10-05 04:25:07，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:25:08，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:25:09，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:25:10，執行:static，-- str OnData OnData1---   
+2023-10-05 04:25:58，執行:static，Start static 
+2023-10-05 04:26:15，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:26:16，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:26:18，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:26:19，執行:static，-- str OnData OnData1---   
+2023-10-05 04:30:48，執行:static ，開始時間：2023-10-05 04:30:48 
+2023-10-05 04:30:49，執行:static，Start static 
+2023-10-05 04:31:01，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:31:02，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:31:03，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:31:04，執行:static，-- str OnData OnData1---   
+2023-10-05 04:36:02，執行:static ，開始時間：2023-10-05 04:36:02 
+2023-10-05 04:36:03，執行:static，Start static 
+2023-10-05 04:36:17，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:36:18，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:36:19，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:36:20，執行:static，-- str OnData OnData1---   
+2023-10-05 04:41:01，執行:static ，開始時間：2023-10-05 04:41:01 
+2023-10-05 04:41:02，執行:static，Start static 
+2023-10-05 04:41:16，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:41:18，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:41:18，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:41:19，執行:static，-- str OnData OnData1---   
+2023-10-05 04:46:09，執行:static ，開始時間：2023-10-05 04:46:09 
+2023-10-05 04:46:10，執行:static，Start static 
+2023-10-05 04:46:24，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:46:25，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:46:26，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:46:27，執行:static，-- str OnData OnData1---   
+2023-10-05 04:50:55，執行:static ，開始時間：2023-10-05 04:50:55 
+2023-10-05 04:50:56，執行:static，Start static 
+2023-10-05 04:51:11，執行:static，-- AllTrueData count ---  2319 
+2023-10-05 04:51:12，執行:static，-- NewTrueData count ---  2319 
+2023-10-05 04:51:13，執行:static，-- FalseData count ---  1132 
+2023-10-05 04:51:14，執行:static，-- str OnData OnData1---   
+2023-10-05 04:56:01，執行：static，開始 
+2023-10-05 04:56:02，執行：static，start 
+2023-10-05 04:56:14，執行：static，allTrueData count：2319 
+2023-10-05 04:56:14，執行：static，newTrueData count：2319 
+2023-10-05 04:56:15，執行：static，falseData count：1132 
+2023-10-05 04:56:16，執行：static，onData OnData1 
+2023-10-05 05:06:01，執行：static，開始 
+2023-10-05 05:06:02，執行：static，start 
+2023-10-05 05:06:15，執行：static，allTrueData count：2319 
+2023-10-05 05:06:16，執行：static，newTrueData count：44 
+2023-10-05 05:06:18，執行：static，falseData count：1132 
+2023-10-05 05:06:19，執行：static，onData OnData1 
+2023-10-05 05:07:27，執行：static，onData OnData2 
+2023-10-05 05:07:29，執行：static，isLiveSaveStatic 
+2023-10-05 05:07:32，執行：static，end 
+2023-10-05 05:07:33，執行：static，執行時間：0小時1分鐘31秒 
+2023-10-05 05:07:34，執行：static，結束 
+2023-10-05 05:35:53，執行：static，開始 
+2023-10-05 05:35:53，執行：static，start 
+2023-10-05 05:36:07，執行：static，allTrueData count：2319 
+2023-10-05 05:36:07，執行：static，newTrueData count：44 
+2023-10-05 05:36:08，執行：static，falseData count：1132 
+2023-10-05 05:36:09，執行：static，onData OnData1 
+2023-10-05 05:37:22，執行：static，onData OnData2 
+2023-10-05 05:37:24，執行：static，isLiveSaveStatic 
+2023-10-05 05:37:27，執行：static，end 
+2023-10-05 05:37:28，執行：static，執行時間：0小時1分鐘35秒 
+2023-10-05 05:37:29，執行：static，結束 
+2023-10-05 06:00:43，執行：static，開始 
+2023-10-05 06:00:44，執行：static，start 
+2023-10-05 06:00:57，執行：static，allTrueData count：2319 
+2023-10-05 06:00:57，執行：static，newTrueData count：44 
+2023-10-05 06:00:58，執行：static，falseData count：1132 
+2023-10-05 06:00:59，執行：static，onData OnData1 
+2023-10-05 06:01:55，執行：static，onData OnData2 
+2023-10-05 06:01:55，執行：static，isLiveSaveStatic 
+2023-10-05 06:01:58，執行：static，end 
+2023-10-05 06:01:58，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-05 06:01:59，執行：static，結束 
+2023-10-05 06:12:27，執行：static，開始 
+2023-10-05 06:12:28，執行：static，start 
+2023-10-05 06:12:41，執行：static，allTrueData count：2319 
+2023-10-05 06:12:41，執行：static，newTrueData count：44 
+2023-10-05 06:12:42，執行：static，falseData count：1132 
+2023-10-05 06:12:43，執行：static，onData OnData1 
+2023-10-05 06:13:40，執行：static，onData OnData2 
+2023-10-05 06:13:41，執行：static，isLiveSaveStatic 
+2023-10-05 06:13:43，執行：static，end 
+2023-10-05 06:13:44，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-05 06:13:44，執行：static，結束 
+2023-10-05 06:20:48，執行：static，開始 
+2023-10-05 06:20:49，執行：static，start 
+2023-10-05 06:21:03，執行：static，allTrueData count：2319 
+2023-10-05 06:21:04，執行：static，newTrueData count：44 
+2023-10-05 06:21:05，執行：static，falseData count：1132 
+2023-10-05 06:21:06，執行：static，onData OnData1 
+2023-10-05 06:22:04，執行：static，onData OnData2 
+2023-10-05 06:22:05，執行：static，isLiveSaveStatic 
+2023-10-05 06:22:07，執行：static，end 
+2023-10-05 06:22:08，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-05 06:22:09，執行：static，結束 

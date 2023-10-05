@@ -1962,3 +1962,14 @@
 2023-10-05 21:31:13，執行：static，end 
 2023-10-05 21:31:14，執行：static，執行時間：0小時1分鐘5秒 
 2023-10-05 21:31:16，執行：static，結束 
+2023-10-05 21:35:08，執行：static，開始 
+2023-10-05 21:35:10，執行：static，start 
+2023-10-05 21:35:22，執行：static，allTrueData count：2319 
+2023-10-05 21:35:23，執行：static，newTrueData count：44 
+2023-10-05 21:35:24，執行：static，falseData count：1132 
+2023-10-05 21:35:25，執行：static，onData OnData1 
+2023-10-05 21:36:06，執行：static，onData OnData2 
+2023-10-05 21:36:07，執行：static，isLiveSaveStatic 
+2023-10-05 21:36:10，執行：static，end 
+2023-10-05 21:36:11，執行：static，執行時間：0小時1分鐘2秒 
+2023-10-05 21:36:12，執行：static，結束 

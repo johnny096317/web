@@ -1896,3 +1896,14 @@
 2023-10-05 20:41:15，執行：static，end 
 2023-10-05 20:41:17，執行：static，執行時間：0小時1分鐘7秒 
 2023-10-05 20:41:18，執行：static，結束 
+2023-10-05 20:50:09，執行：static，開始 
+2023-10-05 20:50:11，執行：static，start 
+2023-10-05 20:50:24，執行：static，allTrueData count：2319 
+2023-10-05 20:50:26，執行：static，newTrueData count：44 
+2023-10-05 20:50:28，執行：static，falseData count：1132 
+2023-10-05 20:50:30，執行：static，onData OnData1 
+2023-10-05 20:51:13，執行：static，onData OnData2 
+2023-10-05 20:51:15，執行：static，isLiveSaveStatic 
+2023-10-05 20:51:18，執行：static，end 
+2023-10-05 20:51:20，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-05 20:51:21，執行：static，結束 

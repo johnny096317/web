@@ -40,3 +40,17 @@
 2023-10-06 03:54:23，執行：mailbox create，end 
 2023-10-06 03:54:25，執行：mailbox create，執行時間：0小時0分鐘14秒 
 2023-10-06 03:54:26，執行：mailbox create，結束 
+2023-10-06 03:59:00，執行：mailbox create，開始 
+2023-10-06 03:59:08，執行：mailbox create，start 
+2023-10-06 03:59:09，執行：mailbox create，step 1：1 
+2023-10-06 03:59:11，執行：mailbox create，step 2 error：案件編號：20231005566170,錯誤訊息：取得token失敗 
+2023-10-06 03:59:13，執行：mailbox create，end 
+2023-10-06 03:59:14，執行：mailbox create，執行時間：0小時0分鐘14秒 
+2023-10-06 03:59:15，執行：mailbox create，結束 
+2023-10-06 04:02:53，執行：mailbox create，開始 
+2023-10-06 04:03:00，執行：mailbox create，start 
+2023-10-06 04:03:01，執行：mailbox create，step 1：1 
+2023-10-06 04:03:03，執行：mailbox create，step 2 error：案件編號：20231005566170,錯誤訊息：取得token失敗 
+2023-10-06 04:03:04，執行：mailbox create，end 
+2023-10-06 04:03:05，執行：mailbox create，執行時間：0小時0分鐘11秒 
+2023-10-06 04:03:06，執行：mailbox create，結束 

@@ -416,3 +416,15 @@
 2023-10-06 03:51:21，執行：static，end 
 2023-10-06 03:51:22，執行：static，執行時間：0小時1分鐘13秒 
 2023-10-06 03:51:24，執行：static，結束 
+2023-10-06 04:00:08，執行：static，開始 
+2023-10-06 04:00:10，執行：static，start 
+2023-10-06 04:00:23，執行：static，allTrueData count：2319 
+2023-10-06 04:00:24，執行：static，newTrueData count：2319 
+2023-10-06 04:00:25，執行：static，falseData count：1132 
+2023-10-06 04:00:26，執行：static，onData OnData1 
+2023-10-06 04:20:07，執行：static，開始 
+2023-10-06 04:20:09，執行：static，start 
+2023-10-06 04:20:20，執行：static，allTrueData count：2319 
+2023-10-06 04:20:22，執行：static，newTrueData count：2319 
+2023-10-06 04:20:23，執行：static，falseData count：1132 
+2023-10-06 04:20:25，執行：static，onData OnData1 

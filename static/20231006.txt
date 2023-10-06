@@ -504,3 +504,14 @@
 2023-10-06 05:41:15，執行：static，end 
 2023-10-06 05:41:15，執行：static，執行時間：0小時1分鐘6秒 
 2023-10-06 05:41:16，執行：static，結束 
+2023-10-06 05:45:10，執行：static，開始 
+2023-10-06 05:45:12，執行：static，start 
+2023-10-06 05:45:24，執行：static，allTrueData count：2319 
+2023-10-06 05:45:25，執行：static，newTrueData count：44 
+2023-10-06 05:45:26，執行：static，falseData count：1132 
+2023-10-06 05:45:28，執行：static，onData OnData1 
+2023-10-06 05:46:15，執行：static，onData OnData2 
+2023-10-06 05:46:16，執行：static，isLiveSaveStatic 
+2023-10-06 05:46:19，執行：static，end 
+2023-10-06 05:46:20，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-06 05:46:21，執行：static，結束 

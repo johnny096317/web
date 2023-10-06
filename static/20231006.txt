@@ -383,3 +383,14 @@
 2023-10-06 03:31:31，執行：static，end 
 2023-10-06 03:31:32，執行：static，執行時間：0小時1分鐘23秒 
 2023-10-06 03:31:33，執行：static，結束 
+2023-10-06 03:35:10，執行：static，開始 
+2023-10-06 03:35:12，執行：static，start 
+2023-10-06 03:35:24，執行：static，allTrueData count：2319 
+2023-10-06 03:35:26，執行：static，newTrueData count：44 
+2023-10-06 03:35:27，執行：static，falseData count：1132 
+2023-10-06 03:35:28，執行：static，onData OnData1 
+2023-10-06 03:36:15，執行：static，onData OnData2 
+2023-10-06 03:36:17，執行：static，isLiveSaveStatic 
+2023-10-06 03:36:19，執行：static，end 
+2023-10-06 03:36:20，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-06 03:36:22，執行：static，結束 

@@ -1,0 +1,3367 @@
+2023-10-10 00:00:20，執行：static，開始 
+2023-10-10 00:00:22，執行：static，start 
+2023-10-10 00:00:35，執行：static，allTrueData count：2319 
+2023-10-10 00:00:36，執行：static，newTrueData count：44 
+2023-10-10 00:00:37，執行：static，falseData count：1132 
+2023-10-10 00:00:39，執行：static，onData OnData1 
+2023-10-10 00:01:30，執行：static，onData OnData2 
+2023-10-10 00:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 00:01:34，執行：static，end 
+2023-10-10 00:01:36，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 00:01:37，執行：static，結束 
+2023-10-10 00:03:21，執行：static，開始 
+2023-10-10 00:03:22，執行：static，start 
+2023-10-10 00:03:34，執行：static，allTrueData count：2319 
+2023-10-10 00:03:35，執行：static，newTrueData count：44 
+2023-10-10 00:03:36，執行：static，falseData count：1132 
+2023-10-10 00:03:37，執行：static，onData OnData1 
+2023-10-10 00:04:31，執行：static，onData OnData2 
+2023-10-10 00:04:33，執行：static，isLiveSaveStatic 
+2023-10-10 00:04:35，執行：static，end 
+2023-10-10 00:04:36，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 00:04:37，執行：static，結束 
+2023-10-10 00:06:21，執行：static，開始 
+2023-10-10 00:06:22，執行：static，start 
+2023-10-10 00:06:34，執行：static，allTrueData count：2319 
+2023-10-10 00:06:35，執行：static，newTrueData count：44 
+2023-10-10 00:06:36，執行：static，falseData count：1132 
+2023-10-10 00:06:38，執行：static，onData OnData1 
+2023-10-10 00:07:28，執行：static，onData OnData2 
+2023-10-10 00:07:30，執行：static，isLiveSaveStatic 
+2023-10-10 00:07:32，執行：static，end 
+2023-10-10 00:07:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 00:07:34，執行：static，結束 
+2023-10-10 00:09:19，執行：static，開始 
+2023-10-10 00:09:19，執行：static，start 
+2023-10-10 00:09:31，執行：static，allTrueData count：2319 
+2023-10-10 00:09:32，執行：static，newTrueData count：44 
+2023-10-10 00:09:33，執行：static，falseData count：1132 
+2023-10-10 00:09:34，執行：static，onData OnData1 
+2023-10-10 00:10:26，執行：static，onData OnData2 
+2023-10-10 00:10:27，執行：static，isLiveSaveStatic 
+2023-10-10 00:10:30，執行：static，end 
+2023-10-10 00:10:31，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 00:10:32，執行：static，結束 
+2023-10-10 00:12:20，執行：static，開始 
+2023-10-10 00:12:21，執行：static，start 
+2023-10-10 00:12:33，執行：static，allTrueData count：2319 
+2023-10-10 00:12:35，執行：static，newTrueData count：44 
+2023-10-10 00:12:35，執行：static，falseData count：1132 
+2023-10-10 00:12:37，執行：static，onData OnData1 
+2023-10-10 00:13:29，執行：static，onData OnData2 
+2023-10-10 00:13:30，執行：static，isLiveSaveStatic 
+2023-10-10 00:13:33，執行：static，end 
+2023-10-10 00:13:34，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 00:13:35，執行：static，結束 
+2023-10-10 00:15:22，執行：static，開始 
+2023-10-10 00:15:23，執行：static，start 
+2023-10-10 00:15:35，執行：static，allTrueData count：2319 
+2023-10-10 00:15:36，執行：static，newTrueData count：44 
+2023-10-10 00:15:37，執行：static，falseData count：1132 
+2023-10-10 00:15:38，執行：static，onData OnData1 
+2023-10-10 00:16:30，執行：static，onData OnData2 
+2023-10-10 00:16:31，執行：static，isLiveSaveStatic 
+2023-10-10 00:16:34，執行：static，end 
+2023-10-10 00:16:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 00:16:36，執行：static，結束 
+2023-10-10 00:18:14，執行：static，開始 
+2023-10-10 00:18:15，執行：static，start 
+2023-10-10 00:18:27，執行：static，allTrueData count：2319 
+2023-10-10 00:18:28，執行：static，newTrueData count：44 
+2023-10-10 00:18:28，執行：static，falseData count：1132 
+2023-10-10 00:18:30，執行：static，onData OnData1 
+2023-10-10 00:19:20，執行：static，onData OnData2 
+2023-10-10 00:19:21，執行：static，isLiveSaveStatic 
+2023-10-10 00:19:23，執行：static，end 
+2023-10-10 00:19:24，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 00:19:24，執行：static，結束 
+2023-10-10 00:21:22，執行：static，開始 
+2023-10-10 00:21:23，執行：static，start 
+2023-10-10 00:21:35，執行：static，allTrueData count：2319 
+2023-10-10 00:21:35，執行：static，newTrueData count：44 
+2023-10-10 00:21:36，執行：static，falseData count：1132 
+2023-10-10 00:21:38，執行：static，onData OnData1 
+2023-10-10 00:22:30，執行：static，onData OnData2 
+2023-10-10 00:22:31，執行：static，isLiveSaveStatic 
+2023-10-10 00:22:34，執行：static，end 
+2023-10-10 00:22:35，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 00:22:37，執行：static，結束 
+2023-10-10 00:24:23，執行：static，開始 
+2023-10-10 00:24:24，執行：static，start 
+2023-10-10 00:24:36，執行：static，allTrueData count：2319 
+2023-10-10 00:24:37，執行：static，newTrueData count：44 
+2023-10-10 00:24:38，執行：static，falseData count：1132 
+2023-10-10 00:24:40，執行：static，onData OnData1 
+2023-10-10 00:25:29，執行：static，onData OnData2 
+2023-10-10 00:25:30，執行：static，isLiveSaveStatic 
+2023-10-10 00:25:32，執行：static，end 
+2023-10-10 00:25:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 00:25:35，執行：static，結束 
+2023-10-10 00:27:23，執行：static，開始 
+2023-10-10 00:27:24，執行：static，start 
+2023-10-10 00:27:35，執行：static，allTrueData count：2319 
+2023-10-10 00:27:35，執行：static，newTrueData count：44 
+2023-10-10 00:27:36，執行：static，falseData count：1132 
+2023-10-10 00:27:37，執行：static，onData OnData1 
+2023-10-10 00:28:27，執行：static，onData OnData2 
+2023-10-10 00:28:29，執行：static，isLiveSaveStatic 
+2023-10-10 00:28:31，執行：static，end 
+2023-10-10 00:28:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 00:28:34，執行：static，結束 
+2023-10-10 00:30:19，執行：static，開始 
+2023-10-10 00:30:20，執行：static，start 
+2023-10-10 00:30:32，執行：static，allTrueData count：2319 
+2023-10-10 00:30:34，執行：static，newTrueData count：44 
+2023-10-10 00:30:35，執行：static，falseData count：1132 
+2023-10-10 00:30:37，執行：static，onData OnData1 
+2023-10-10 00:31:26，執行：static，onData OnData2 
+2023-10-10 00:31:27，執行：static，isLiveSaveStatic 
+2023-10-10 00:31:29，執行：static，end 
+2023-10-10 00:31:30，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 00:31:32，執行：static，結束 
+2023-10-10 00:33:21，執行：static，開始 
+2023-10-10 00:33:22，執行：static，start 
+2023-10-10 00:33:34，執行：static，allTrueData count：2319 
+2023-10-10 00:33:35，執行：static，newTrueData count：44 
+2023-10-10 00:33:36，執行：static，falseData count：1132 
+2023-10-10 00:33:37，執行：static，onData OnData1 
+2023-10-10 00:34:28，執行：static，onData OnData2 
+2023-10-10 00:34:29，執行：static，isLiveSaveStatic 
+2023-10-10 00:34:31，執行：static，end 
+2023-10-10 00:34:32，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 00:34:34，執行：static，結束 
+2023-10-10 00:36:23，執行：static，開始 
+2023-10-10 00:36:24，執行：static，start 
+2023-10-10 00:36:36，執行：static，allTrueData count：2319 
+2023-10-10 00:36:37，執行：static，newTrueData count：44 
+2023-10-10 00:36:38，執行：static，falseData count：1132 
+2023-10-10 00:36:40，執行：static，onData OnData1 
+2023-10-10 00:37:32，執行：static，onData OnData2 
+2023-10-10 00:37:34，執行：static，isLiveSaveStatic 
+2023-10-10 00:37:37，執行：static，end 
+2023-10-10 00:37:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 00:37:38，執行：static，結束 
+2023-10-10 00:39:24，執行：static，開始 
+2023-10-10 00:39:25，執行：static，start 
+2023-10-10 00:39:37，執行：static，allTrueData count：2319 
+2023-10-10 00:39:37，執行：static，newTrueData count：44 
+2023-10-10 00:39:38，執行：static，falseData count：1132 
+2023-10-10 00:39:39，執行：static，onData OnData1 
+2023-10-10 00:40:32，執行：static，onData OnData2 
+2023-10-10 00:40:33，執行：static，isLiveSaveStatic 
+2023-10-10 00:40:35，執行：static，end 
+2023-10-10 00:40:36，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 00:40:37，執行：static，結束 
+2023-10-10 00:42:24，執行：static，開始 
+2023-10-10 00:42:25，執行：static，start 
+2023-10-10 00:42:37，執行：static，allTrueData count：2319 
+2023-10-10 00:42:38，執行：static，newTrueData count：44 
+2023-10-10 00:42:38，執行：static，falseData count：1132 
+2023-10-10 00:42:40，執行：static，onData OnData1 
+2023-10-10 00:43:29，執行：static，onData OnData2 
+2023-10-10 00:43:31，執行：static，isLiveSaveStatic 
+2023-10-10 00:43:33，執行：static，end 
+2023-10-10 00:43:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 00:43:36，執行：static，結束 
+2023-10-10 00:45:21，執行：static，開始 
+2023-10-10 00:45:22，執行：static，start 
+2023-10-10 00:45:35，執行：static，allTrueData count：2319 
+2023-10-10 00:45:36，執行：static，newTrueData count：44 
+2023-10-10 00:45:36，執行：static，falseData count：1132 
+2023-10-10 00:45:38，執行：static，onData OnData1 
+2023-10-10 00:46:32，執行：static，onData OnData2 
+2023-10-10 00:46:33，執行：static，isLiveSaveStatic 
+2023-10-10 00:46:36，執行：static，end 
+2023-10-10 00:46:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 00:46:38，執行：static，結束 
+2023-10-10 00:48:18，執行：static，開始 
+2023-10-10 00:48:19，執行：static，start 
+2023-10-10 00:48:31，執行：static，allTrueData count：2319 
+2023-10-10 00:48:32，執行：static，newTrueData count：44 
+2023-10-10 00:48:33，執行：static，falseData count：1132 
+2023-10-10 00:48:35，執行：static，onData OnData1 
+2023-10-10 00:49:23，執行：static，onData OnData2 
+2023-10-10 00:49:24，執行：static，isLiveSaveStatic 
+2023-10-10 00:49:26，執行：static，end 
+2023-10-10 00:49:27，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 00:49:27，執行：static，結束 
+2023-10-10 00:51:22，執行：static，開始 
+2023-10-10 00:51:23，執行：static，start 
+2023-10-10 00:51:35，執行：static，allTrueData count：2319 
+2023-10-10 00:51:37，執行：static，newTrueData count：44 
+2023-10-10 00:51:38，執行：static，falseData count：1132 
+2023-10-10 00:51:40，執行：static，onData OnData1 
+2023-10-10 00:52:32，執行：static，onData OnData2 
+2023-10-10 00:52:34，執行：static，isLiveSaveStatic 
+2023-10-10 00:52:36，執行：static，end 
+2023-10-10 00:52:37，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 00:52:37，執行：static，結束 
+2023-10-10 00:54:20，執行：static，開始 
+2023-10-10 00:54:21，執行：static，start 
+2023-10-10 00:54:33，執行：static，allTrueData count：2319 
+2023-10-10 00:54:34，執行：static，newTrueData count：44 
+2023-10-10 00:54:35，執行：static，falseData count：1132 
+2023-10-10 00:54:37，執行：static，onData OnData1 
+2023-10-10 00:55:25，執行：static，onData OnData2 
+2023-10-10 00:55:26，執行：static，isLiveSaveStatic 
+2023-10-10 00:55:29，執行：static，end 
+2023-10-10 00:55:30，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 00:55:31，執行：static，結束 
+2023-10-10 00:57:23，執行：static，開始 
+2023-10-10 00:57:24，執行：static，start 
+2023-10-10 00:57:36，執行：static，allTrueData count：2319 
+2023-10-10 00:57:36，執行：static，newTrueData count：44 
+2023-10-10 00:57:37，執行：static，falseData count：1132 
+2023-10-10 00:57:38，執行：static，onData OnData1 
+2023-10-10 00:58:30，執行：static，onData OnData2 
+2023-10-10 00:58:31，執行：static，isLiveSaveStatic 
+2023-10-10 00:58:34，執行：static，end 
+2023-10-10 00:58:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 00:58:37，執行：static，結束 
+2023-10-10 01:00:20，執行：static，開始 
+2023-10-10 01:00:21，執行：static，start 
+2023-10-10 01:00:32，執行：static，allTrueData count：2319 
+2023-10-10 01:00:33，執行：static，newTrueData count：44 
+2023-10-10 01:00:34，執行：static，falseData count：1132 
+2023-10-10 01:00:35，執行：static，onData OnData1 
+2023-10-10 01:01:24，執行：static，onData OnData2 
+2023-10-10 01:01:25，執行：static，isLiveSaveStatic 
+2023-10-10 01:01:28，執行：static，end 
+2023-10-10 01:01:29，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 01:01:29，執行：static，結束 
+2023-10-10 01:03:23，執行：static，開始 
+2023-10-10 01:03:24，執行：static，start 
+2023-10-10 01:03:35，執行：static，allTrueData count：2319 
+2023-10-10 01:03:36，執行：static，newTrueData count：44 
+2023-10-10 01:03:37，執行：static，falseData count：1132 
+2023-10-10 01:03:38，執行：static，onData OnData1 
+2023-10-10 01:04:27，執行：static，onData OnData2 
+2023-10-10 01:04:28，執行：static，isLiveSaveStatic 
+2023-10-10 01:04:31，執行：static，end 
+2023-10-10 01:04:33，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 01:04:34，執行：static，結束 
+2023-10-10 01:06:21，執行：static，開始 
+2023-10-10 01:06:22，執行：static，start 
+2023-10-10 01:06:34，執行：static，allTrueData count：2319 
+2023-10-10 01:06:34，執行：static，newTrueData count：44 
+2023-10-10 01:06:35，執行：static，falseData count：1132 
+2023-10-10 01:06:37，執行：static，onData OnData1 
+2023-10-10 01:07:30，執行：static，onData OnData2 
+2023-10-10 01:07:31，執行：static，isLiveSaveStatic 
+2023-10-10 01:07:34，執行：static，end 
+2023-10-10 01:07:35，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 01:07:36，執行：static，結束 
+2023-10-10 01:09:23，執行：static，開始 
+2023-10-10 01:09:25，執行：static，start 
+2023-10-10 01:09:37，執行：static，allTrueData count：2319 
+2023-10-10 01:09:38，執行：static，newTrueData count：44 
+2023-10-10 01:09:39，執行：static，falseData count：1132 
+2023-10-10 01:09:41，執行：static，onData OnData1 
+2023-10-10 01:10:30，執行：static，onData OnData2 
+2023-10-10 01:10:31，執行：static，isLiveSaveStatic 
+2023-10-10 01:10:34，執行：static，end 
+2023-10-10 01:10:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 01:10:36，執行：static，結束 
+2023-10-10 01:12:14，執行：static，開始 
+2023-10-10 01:12:14，執行：static，start 
+2023-10-10 01:12:26，執行：static，allTrueData count：2319 
+2023-10-10 01:12:26，執行：static，newTrueData count：44 
+2023-10-10 01:12:27，執行：static，falseData count：1132 
+2023-10-10 01:12:28，執行：static，onData OnData1 
+2023-10-10 01:13:17，執行：static，onData OnData2 
+2023-10-10 01:13:18，執行：static，isLiveSaveStatic 
+2023-10-10 01:13:20，執行：static，end 
+2023-10-10 01:13:21，執行：static，執行時間：0小時1分鐘7秒 
+2023-10-10 01:13:22，執行：static，結束 
+2023-10-10 01:15:22，執行：static，開始 
+2023-10-10 01:15:24，執行：static，start 
+2023-10-10 01:15:37，執行：static，allTrueData count：2319 
+2023-10-10 01:15:38，執行：static，newTrueData count：44 
+2023-10-10 01:15:40，執行：static，falseData count：1132 
+2023-10-10 01:15:41，執行：static，onData OnData1 
+2023-10-10 01:16:35，執行：static，onData OnData2 
+2023-10-10 01:16:36，執行：static，isLiveSaveStatic 
+2023-10-10 01:16:39，執行：static，end 
+2023-10-10 01:16:40，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 01:16:41，執行：static，結束 
+2023-10-10 01:18:22，執行：static，開始 
+2023-10-10 01:18:23，執行：static，start 
+2023-10-10 01:18:37，執行：static，allTrueData count：2319 
+2023-10-10 01:18:38，執行：static，newTrueData count：44 
+2023-10-10 01:18:39，執行：static，falseData count：1132 
+2023-10-10 01:18:41，執行：static，onData OnData1 
+2023-10-10 01:19:31，執行：static，onData OnData2 
+2023-10-10 01:19:32，執行：static，isLiveSaveStatic 
+2023-10-10 01:19:35，執行：static，end 
+2023-10-10 01:19:35，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 01:19:37，執行：static，結束 
+2023-10-10 01:21:21，執行：static，開始 
+2023-10-10 01:21:22，執行：static，start 
+2023-10-10 01:21:34，執行：static，allTrueData count：2319 
+2023-10-10 01:21:35，執行：static，newTrueData count：44 
+2023-10-10 01:21:36，執行：static，falseData count：1132 
+2023-10-10 01:21:37，執行：static，onData OnData1 
+2023-10-10 01:22:27，執行：static，onData OnData2 
+2023-10-10 01:22:28，執行：static，isLiveSaveStatic 
+2023-10-10 01:22:31，執行：static，end 
+2023-10-10 01:22:32，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 01:22:33，執行：static，結束 
+2023-10-10 01:24:22，執行：static，開始 
+2023-10-10 01:24:23，執行：static，start 
+2023-10-10 01:24:34，執行：static，allTrueData count：2319 
+2023-10-10 01:24:35，執行：static，newTrueData count：44 
+2023-10-10 01:24:36，執行：static，falseData count：1132 
+2023-10-10 01:24:38，執行：static，onData OnData1 
+2023-10-10 01:25:27，執行：static，onData OnData2 
+2023-10-10 01:25:29，執行：static，isLiveSaveStatic 
+2023-10-10 01:25:31，執行：static，end 
+2023-10-10 01:25:32，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 01:25:33，執行：static，結束 
+2023-10-10 01:27:23，執行：static，開始 
+2023-10-10 01:27:24，執行：static，start 
+2023-10-10 01:27:36，執行：static，allTrueData count：2319 
+2023-10-10 01:27:37，執行：static，newTrueData count：44 
+2023-10-10 01:27:38，執行：static，falseData count：1132 
+2023-10-10 01:27:39，執行：static，onData OnData1 
+2023-10-10 01:28:31，執行：static，onData OnData2 
+2023-10-10 01:28:33，執行：static，isLiveSaveStatic 
+2023-10-10 01:28:36，執行：static，end 
+2023-10-10 01:28:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 01:28:38，執行：static，結束 
+2023-10-10 01:30:23，執行：static，開始 
+2023-10-10 01:30:24，執行：static，start 
+2023-10-10 01:30:36，執行：static，allTrueData count：2319 
+2023-10-10 01:30:37，執行：static，newTrueData count：44 
+2023-10-10 01:30:37，執行：static，falseData count：1132 
+2023-10-10 01:30:39，執行：static，onData OnData1 
+2023-10-10 01:31:29，執行：static，onData OnData2 
+2023-10-10 01:31:30，執行：static，isLiveSaveStatic 
+2023-10-10 01:31:33，執行：static，end 
+2023-10-10 01:31:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 01:31:35，執行：static，結束 
+2023-10-10 01:33:23，執行：static，開始 
+2023-10-10 01:33:24，執行：static，start 
+2023-10-10 01:33:35，執行：static，allTrueData count：2319 
+2023-10-10 01:33:36，執行：static，newTrueData count：44 
+2023-10-10 01:33:36，執行：static，falseData count：1132 
+2023-10-10 01:33:38，執行：static，onData OnData1 
+2023-10-10 01:34:31，執行：static，onData OnData2 
+2023-10-10 01:34:32，執行：static，isLiveSaveStatic 
+2023-10-10 01:34:35，執行：static，end 
+2023-10-10 01:34:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 01:34:37，執行：static，結束 
+2023-10-10 01:36:23，執行：static，開始 
+2023-10-10 01:36:24，執行：static，start 
+2023-10-10 01:36:36，執行：static，allTrueData count：2319 
+2023-10-10 01:36:37，執行：static，newTrueData count：44 
+2023-10-10 01:36:38，執行：static，falseData count：1132 
+2023-10-10 01:36:39，執行：static，onData OnData1 
+2023-10-10 01:37:30，執行：static，onData OnData2 
+2023-10-10 01:37:32，執行：static，isLiveSaveStatic 
+2023-10-10 01:37:34，執行：static，end 
+2023-10-10 01:37:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 01:37:37，執行：static，結束 
+2023-10-10 01:39:23，執行：static，開始 
+2023-10-10 01:39:24，執行：static，start 
+2023-10-10 01:39:36，執行：static，allTrueData count：2319 
+2023-10-10 01:39:37，執行：static，newTrueData count：44 
+2023-10-10 01:39:38，執行：static，falseData count：1132 
+2023-10-10 01:39:39，執行：static，onData OnData1 
+2023-10-10 01:40:29，執行：static，onData OnData2 
+2023-10-10 01:40:30，執行：static，isLiveSaveStatic 
+2023-10-10 01:40:33，執行：static，end 
+2023-10-10 01:40:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 01:40:35，執行：static，結束 
+2023-10-10 01:42:22，執行：static，開始 
+2023-10-10 01:42:23，執行：static，start 
+2023-10-10 01:42:36，執行：static，allTrueData count：2319 
+2023-10-10 01:42:37，執行：static，newTrueData count：44 
+2023-10-10 01:42:38，執行：static，falseData count：1132 
+2023-10-10 01:42:39，執行：static，onData OnData1 
+2023-10-10 01:43:28，執行：static，onData OnData2 
+2023-10-10 01:43:29，執行：static，isLiveSaveStatic 
+2023-10-10 01:43:32，執行：static，end 
+2023-10-10 01:43:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 01:43:34，執行：static，結束 
+2023-10-10 01:45:24，執行：static，開始 
+2023-10-10 01:45:25，執行：static，start 
+2023-10-10 01:45:37，執行：static，allTrueData count：2319 
+2023-10-10 01:45:37，執行：static，newTrueData count：44 
+2023-10-10 01:45:38，執行：static，falseData count：1132 
+2023-10-10 01:45:39，執行：static，onData OnData1 
+2023-10-10 01:46:32，執行：static，onData OnData2 
+2023-10-10 01:46:34，執行：static，isLiveSaveStatic 
+2023-10-10 01:46:36，執行：static，end 
+2023-10-10 01:46:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 01:46:39，執行：static，結束 
+2023-10-10 01:48:20，執行：static，開始 
+2023-10-10 01:48:21，執行：static，start 
+2023-10-10 01:48:33，執行：static，allTrueData count：2319 
+2023-10-10 01:48:34，執行：static，newTrueData count：44 
+2023-10-10 01:48:35，執行：static，falseData count：1132 
+2023-10-10 01:48:37，執行：static，onData OnData1 
+2023-10-10 01:49:29，執行：static，onData OnData2 
+2023-10-10 01:49:31，執行：static，isLiveSaveStatic 
+2023-10-10 01:49:33，執行：static，end 
+2023-10-10 01:49:34，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 01:49:35，執行：static，結束 
+2023-10-10 01:51:21，執行：static，開始 
+2023-10-10 01:51:22，執行：static，start 
+2023-10-10 01:51:34，執行：static，allTrueData count：2319 
+2023-10-10 01:51:35，執行：static，newTrueData count：44 
+2023-10-10 01:51:35，執行：static，falseData count：1132 
+2023-10-10 01:51:37，執行：static，onData OnData1 
+2023-10-10 01:52:25，執行：static，onData OnData2 
+2023-10-10 01:52:27，執行：static，isLiveSaveStatic 
+2023-10-10 01:52:30，執行：static，end 
+2023-10-10 01:52:31，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 01:52:32，執行：static，結束 
+2023-10-10 01:54:16，執行：static，開始 
+2023-10-10 01:54:17，執行：static，start 
+2023-10-10 01:54:29，執行：static，allTrueData count：2319 
+2023-10-10 01:54:29，執行：static，newTrueData count：44 
+2023-10-10 01:54:30，執行：static，falseData count：1132 
+2023-10-10 01:54:31，執行：static，onData OnData1 
+2023-10-10 01:55:20，執行：static，onData OnData2 
+2023-10-10 01:55:21，執行：static，isLiveSaveStatic 
+2023-10-10 01:55:23，執行：static，end 
+2023-10-10 01:55:24，執行：static，執行時間：0小時1分鐘7秒 
+2023-10-10 01:55:24，執行：static，結束 
+2023-10-10 01:57:23，執行：static，開始 
+2023-10-10 01:57:24，執行：static，start 
+2023-10-10 01:57:36，執行：static，allTrueData count：2319 
+2023-10-10 01:57:36，執行：static，newTrueData count：44 
+2023-10-10 01:57:37，執行：static，falseData count：1132 
+2023-10-10 01:57:38，執行：static，onData OnData1 
+2023-10-10 01:58:30，執行：static，onData OnData2 
+2023-10-10 01:58:32，執行：static，isLiveSaveStatic 
+2023-10-10 01:58:35，執行：static，end 
+2023-10-10 01:58:36，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 01:58:37，執行：static，結束 
+2023-10-10 02:00:14，執行：static，開始 
+2023-10-10 02:00:15，執行：static，start 
+2023-10-10 02:00:27，執行：static，allTrueData count：2319 
+2023-10-10 02:00:28，執行：static，newTrueData count：44 
+2023-10-10 02:00:29，執行：static，falseData count：1132 
+2023-10-10 02:00:30，執行：static，onData OnData1 
+2023-10-10 02:01:24，執行：static，onData OnData2 
+2023-10-10 02:01:25，執行：static，isLiveSaveStatic 
+2023-10-10 02:01:28，執行：static，end 
+2023-10-10 02:01:29，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 02:01:30，執行：static，結束 
+2023-10-10 02:03:21，執行：static，開始 
+2023-10-10 02:03:22，執行：static，start 
+2023-10-10 02:03:34，執行：static，allTrueData count：2319 
+2023-10-10 02:03:35，執行：static，newTrueData count：44 
+2023-10-10 02:03:36，執行：static，falseData count：1132 
+2023-10-10 02:03:37，執行：static，onData OnData1 
+2023-10-10 02:04:29，執行：static，onData OnData2 
+2023-10-10 02:04:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:04:33，執行：static，end 
+2023-10-10 02:04:34，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 02:04:35，執行：static，結束 
+2023-10-10 02:06:22，執行：static，開始 
+2023-10-10 02:06:23，執行：static，start 
+2023-10-10 02:06:35，執行：static，allTrueData count：2319 
+2023-10-10 02:06:36，執行：static，newTrueData count：44 
+2023-10-10 02:06:37，執行：static，falseData count：1132 
+2023-10-10 02:06:38，執行：static，onData OnData1 
+2023-10-10 02:07:29，執行：static，onData OnData2 
+2023-10-10 02:07:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:07:33，執行：static，end 
+2023-10-10 02:07:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:07:35，執行：static，結束 
+2023-10-10 02:09:22，執行：static，開始 
+2023-10-10 02:09:23，執行：static，start 
+2023-10-10 02:09:35，執行：static，allTrueData count：2319 
+2023-10-10 02:09:35，執行：static，newTrueData count：44 
+2023-10-10 02:09:36，執行：static，falseData count：1132 
+2023-10-10 02:09:37，執行：static，onData OnData1 
+2023-10-10 02:10:28，執行：static，onData OnData2 
+2023-10-10 02:10:29，執行：static，isLiveSaveStatic 
+2023-10-10 02:10:32，執行：static，end 
+2023-10-10 02:10:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:10:34，執行：static，結束 
+2023-10-10 02:12:23，執行：static，開始 
+2023-10-10 02:12:24，執行：static，start 
+2023-10-10 02:12:36，執行：static，allTrueData count：2319 
+2023-10-10 02:12:37，執行：static，newTrueData count：44 
+2023-10-10 02:12:38，執行：static，falseData count：1132 
+2023-10-10 02:12:39，執行：static，onData OnData1 
+2023-10-10 02:13:28，執行：static，onData OnData2 
+2023-10-10 02:13:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:13:32，執行：static，end 
+2023-10-10 02:13:33，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 02:13:34，執行：static，結束 
+2023-10-10 02:15:24，執行：static，開始 
+2023-10-10 02:15:26，執行：static，start 
+2023-10-10 02:15:38，執行：static，allTrueData count：2319 
+2023-10-10 02:15:39，執行：static，newTrueData count：44 
+2023-10-10 02:15:40，執行：static，falseData count：1132 
+2023-10-10 02:15:42，執行：static，onData OnData1 
+2023-10-10 02:16:31，執行：static，onData OnData2 
+2023-10-10 02:16:33，執行：static，isLiveSaveStatic 
+2023-10-10 02:16:35，執行：static，end 
+2023-10-10 02:16:36，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 02:16:38，執行：static，結束 
+2023-10-10 02:18:21，執行：static，開始 
+2023-10-10 02:18:22，執行：static，start 
+2023-10-10 02:18:34，執行：static，allTrueData count：2319 
+2023-10-10 02:18:35，執行：static，newTrueData count：44 
+2023-10-10 02:18:36，執行：static，falseData count：1132 
+2023-10-10 02:18:38，執行：static，onData OnData1 
+2023-10-10 02:19:29，執行：static，onData OnData2 
+2023-10-10 02:19:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:19:33，執行：static，end 
+2023-10-10 02:19:34，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 02:19:35，執行：static，結束 
+2023-10-10 02:21:22，執行：static，開始 
+2023-10-10 02:21:23，執行：static，start 
+2023-10-10 02:21:35，執行：static，allTrueData count：2319 
+2023-10-10 02:21:36，執行：static，newTrueData count：44 
+2023-10-10 02:21:36，執行：static，falseData count：1132 
+2023-10-10 02:21:38，執行：static，onData OnData1 
+2023-10-10 02:22:26，執行：static，onData OnData2 
+2023-10-10 02:22:28，執行：static，isLiveSaveStatic 
+2023-10-10 02:22:30，執行：static，end 
+2023-10-10 02:22:32，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 02:22:33，執行：static，結束 
+2023-10-10 02:24:23，執行：static，開始 
+2023-10-10 02:24:24，執行：static，start 
+2023-10-10 02:24:36，執行：static，allTrueData count：2319 
+2023-10-10 02:24:36，執行：static，newTrueData count：44 
+2023-10-10 02:24:37，執行：static，falseData count：1132 
+2023-10-10 02:24:39，執行：static，onData OnData1 
+2023-10-10 02:25:28，執行：static，onData OnData2 
+2023-10-10 02:25:29，執行：static，isLiveSaveStatic 
+2023-10-10 02:25:32，執行：static，end 
+2023-10-10 02:25:33，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 02:25:34，執行：static，結束 
+2023-10-10 02:27:23，執行：static，開始 
+2023-10-10 02:27:25，執行：static，start 
+2023-10-10 02:27:37，執行：static，allTrueData count：2319 
+2023-10-10 02:27:38，執行：static，newTrueData count：44 
+2023-10-10 02:27:39，執行：static，falseData count：1132 
+2023-10-10 02:27:41，執行：static，onData OnData1 
+2023-10-10 02:28:31，執行：static，onData OnData2 
+2023-10-10 02:28:33，執行：static，isLiveSaveStatic 
+2023-10-10 02:28:35，執行：static，end 
+2023-10-10 02:28:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 02:28:37，執行：static，結束 
+2023-10-10 02:30:23，執行：static，開始 
+2023-10-10 02:30:24，執行：static，start 
+2023-10-10 02:30:37，執行：static，allTrueData count：2319 
+2023-10-10 02:30:37，執行：static，newTrueData count：44 
+2023-10-10 02:30:38，執行：static，falseData count：1132 
+2023-10-10 02:30:39，執行：static，onData OnData1 
+2023-10-10 02:31:32，執行：static，onData OnData2 
+2023-10-10 02:31:34，執行：static，isLiveSaveStatic 
+2023-10-10 02:31:37，執行：static，end 
+2023-10-10 02:31:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 02:31:39，執行：static，結束 
+2023-10-10 02:33:23，執行：static，開始 
+2023-10-10 02:33:23，執行：static，start 
+2023-10-10 02:33:35，執行：static，allTrueData count：2319 
+2023-10-10 02:33:36，執行：static，newTrueData count：44 
+2023-10-10 02:33:37，執行：static，falseData count：1132 
+2023-10-10 02:33:38，執行：static，onData OnData1 
+2023-10-10 02:34:29，執行：static，onData OnData2 
+2023-10-10 02:34:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:34:33，執行：static，end 
+2023-10-10 02:34:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:34:35，執行：static，結束 
+2023-10-10 02:36:14，執行：static，開始 
+2023-10-10 02:36:15，執行：static，start 
+2023-10-10 02:36:27，執行：static，allTrueData count：2319 
+2023-10-10 02:36:28，執行：static，newTrueData count：44 
+2023-10-10 02:36:29，執行：static，falseData count：1132 
+2023-10-10 02:36:30，執行：static，onData OnData1 
+2023-10-10 02:37:21，執行：static，onData OnData2 
+2023-10-10 02:37:21，執行：static，isLiveSaveStatic 
+2023-10-10 02:37:23，執行：static，end 
+2023-10-10 02:37:24，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 02:37:25，執行：static，結束 
+2023-10-10 02:39:21，執行：static，開始 
+2023-10-10 02:39:21，執行：static，start 
+2023-10-10 02:39:33，執行：static，allTrueData count：2319 
+2023-10-10 02:39:35，執行：static，newTrueData count：44 
+2023-10-10 02:39:36，執行：static，falseData count：1132 
+2023-10-10 02:39:38，執行：static，onData OnData1 
+2023-10-10 02:40:28，執行：static，onData OnData2 
+2023-10-10 02:40:28，執行：static，isLiveSaveStatic 
+2023-10-10 02:40:31，執行：static，end 
+2023-10-10 02:40:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:40:33，執行：static，結束 
+2023-10-10 02:42:25，執行：static，開始 
+2023-10-10 02:42:27，執行：static，start 
+2023-10-10 02:42:39，執行：static，allTrueData count：2319 
+2023-10-10 02:42:41，執行：static，newTrueData count：44 
+2023-10-10 02:42:42，執行：static，falseData count：1132 
+2023-10-10 02:42:43，執行：static，onData OnData1 
+2023-10-10 02:43:34，執行：static，onData OnData2 
+2023-10-10 02:43:36，執行：static，isLiveSaveStatic 
+2023-10-10 02:43:38，執行：static，end 
+2023-10-10 02:43:40，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 02:43:41，執行：static，結束 
+2023-10-10 02:45:23，執行：static，開始 
+2023-10-10 02:45:24，執行：static，start 
+2023-10-10 02:45:36，執行：static，allTrueData count：2319 
+2023-10-10 02:45:36，執行：static，newTrueData count：44 
+2023-10-10 02:45:37，執行：static，falseData count：1132 
+2023-10-10 02:45:38，執行：static，onData OnData1 
+2023-10-10 02:46:31，執行：static，onData OnData2 
+2023-10-10 02:46:33，執行：static，isLiveSaveStatic 
+2023-10-10 02:46:35，執行：static，end 
+2023-10-10 02:46:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 02:46:38，執行：static，結束 
+2023-10-10 02:48:20，執行：static，開始 
+2023-10-10 02:48:21，執行：static，start 
+2023-10-10 02:48:33，執行：static，allTrueData count：2319 
+2023-10-10 02:48:34，執行：static，newTrueData count：44 
+2023-10-10 02:48:34，執行：static，falseData count：1132 
+2023-10-10 02:48:36，執行：static，onData OnData1 
+2023-10-10 02:49:29，執行：static，onData OnData2 
+2023-10-10 02:49:30，執行：static，isLiveSaveStatic 
+2023-10-10 02:49:32，執行：static，end 
+2023-10-10 02:49:33，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 02:49:34，執行：static，結束 
+2023-10-10 02:51:23，執行：static，開始 
+2023-10-10 02:51:24，執行：static，start 
+2023-10-10 02:51:36，執行：static，allTrueData count：2319 
+2023-10-10 02:51:38，執行：static，newTrueData count：44 
+2023-10-10 02:51:39，執行：static，falseData count：1132 
+2023-10-10 02:51:41，執行：static，onData OnData1 
+2023-10-10 02:52:30，執行：static，onData OnData2 
+2023-10-10 02:52:31，執行：static，isLiveSaveStatic 
+2023-10-10 02:52:34，執行：static，end 
+2023-10-10 02:52:35，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:52:36，執行：static，結束 
+2023-10-10 02:54:22，執行：static，開始 
+2023-10-10 02:54:23，執行：static，start 
+2023-10-10 02:54:34，執行：static，allTrueData count：2319 
+2023-10-10 02:54:35，執行：static，newTrueData count：44 
+2023-10-10 02:54:36，執行：static，falseData count：1132 
+2023-10-10 02:54:38，執行：static，onData OnData1 
+2023-10-10 02:55:28，執行：static，onData OnData2 
+2023-10-10 02:55:29，執行：static，isLiveSaveStatic 
+2023-10-10 02:55:32，執行：static，end 
+2023-10-10 02:55:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 02:55:34，執行：static，結束 
+2023-10-10 02:57:24，執行：static，開始 
+2023-10-10 02:57:26，執行：static，start 
+2023-10-10 02:57:39，執行：static，allTrueData count：2319 
+2023-10-10 02:57:40，執行：static，newTrueData count：44 
+2023-10-10 02:57:41，執行：static，falseData count：1132 
+2023-10-10 02:57:43，執行：static，onData OnData1 
+2023-10-10 02:58:36，執行：static，onData OnData2 
+2023-10-10 02:58:37，執行：static，isLiveSaveStatic 
+2023-10-10 02:58:39，執行：static，end 
+2023-10-10 02:58:41，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 02:58:41，執行：static，結束 
+2023-10-10 03:00:23，執行：static，開始 
+2023-10-10 03:00:24，執行：static，start 
+2023-10-10 03:00:37，執行：static，allTrueData count：2319 
+2023-10-10 03:00:38，執行：static，newTrueData count：44 
+2023-10-10 03:00:39，執行：static，falseData count：1132 
+2023-10-10 03:00:41，執行：static，onData OnData1 
+2023-10-10 03:01:35，執行：static，onData OnData2 
+2023-10-10 03:01:36，執行：static，isLiveSaveStatic 
+2023-10-10 03:01:38，執行：static，end 
+2023-10-10 03:01:40，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 03:01:40，執行：static，結束 
+2023-10-10 03:03:23，執行：static，開始 
+2023-10-10 03:03:24，執行：static，start 
+2023-10-10 03:03:35，執行：static，allTrueData count：2319 
+2023-10-10 03:03:36，執行：static，newTrueData count：44 
+2023-10-10 03:03:37，執行：static，falseData count：1132 
+2023-10-10 03:03:38，執行：static，onData OnData1 
+2023-10-10 03:04:28，執行：static，onData OnData2 
+2023-10-10 03:04:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:04:32，執行：static，end 
+2023-10-10 03:04:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 03:04:34，執行：static，結束 
+2023-10-10 03:06:23，執行：static，開始 
+2023-10-10 03:06:24，執行：static，start 
+2023-10-10 03:06:35，執行：static，allTrueData count：2319 
+2023-10-10 03:06:36，執行：static，newTrueData count：44 
+2023-10-10 03:06:37，執行：static，falseData count：1132 
+2023-10-10 03:06:38，執行：static，onData OnData1 
+2023-10-10 03:07:29，執行：static，onData OnData2 
+2023-10-10 03:07:30，執行：static，isLiveSaveStatic 
+2023-10-10 03:07:33，執行：static，end 
+2023-10-10 03:07:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 03:07:35，執行：static，結束 
+2023-10-10 03:09:22，執行：static，開始 
+2023-10-10 03:09:24，執行：static，start 
+2023-10-10 03:09:36，執行：static，allTrueData count：2319 
+2023-10-10 03:09:37，執行：static，newTrueData count：44 
+2023-10-10 03:09:37，執行：static，falseData count：1132 
+2023-10-10 03:09:39，執行：static，onData OnData1 
+2023-10-10 03:10:30，執行：static，onData OnData2 
+2023-10-10 03:10:32，執行：static，isLiveSaveStatic 
+2023-10-10 03:10:34，執行：static，end 
+2023-10-10 03:10:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 03:10:36，執行：static，結束 
+2023-10-10 03:12:21，執行：static，開始 
+2023-10-10 03:12:22，執行：static，start 
+2023-10-10 03:12:34，執行：static，allTrueData count：2319 
+2023-10-10 03:12:35，執行：static，newTrueData count：44 
+2023-10-10 03:12:36，執行：static，falseData count：1132 
+2023-10-10 03:12:37，執行：static，onData OnData1 
+2023-10-10 03:13:30，執行：static，onData OnData2 
+2023-10-10 03:13:31，執行：static，isLiveSaveStatic 
+2023-10-10 03:13:34，執行：static，end 
+2023-10-10 03:13:35，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 03:13:36，執行：static，結束 
+2023-10-10 03:15:21，執行：static，開始 
+2023-10-10 03:15:22，執行：static，start 
+2023-10-10 03:15:34，執行：static，allTrueData count：2319 
+2023-10-10 03:15:35，執行：static，newTrueData count：44 
+2023-10-10 03:15:36，執行：static，falseData count：1132 
+2023-10-10 03:15:37，執行：static，onData OnData1 
+2023-10-10 03:16:28，執行：static，onData OnData2 
+2023-10-10 03:16:30，執行：static，isLiveSaveStatic 
+2023-10-10 03:16:32，執行：static，end 
+2023-10-10 03:16:33，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 03:16:34，執行：static，結束 
+2023-10-10 03:18:21，執行：static，開始 
+2023-10-10 03:18:22，執行：static，start 
+2023-10-10 03:18:33，執行：static，allTrueData count：2319 
+2023-10-10 03:18:34，執行：static，newTrueData count：44 
+2023-10-10 03:18:35，執行：static，falseData count：1132 
+2023-10-10 03:18:36，執行：static，onData OnData1 
+2023-10-10 03:19:28，執行：static，onData OnData2 
+2023-10-10 03:19:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:19:32，執行：static，end 
+2023-10-10 03:19:33，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 03:19:34，執行：static，結束 
+2023-10-10 03:21:23，執行：static，開始 
+2023-10-10 03:21:24，執行：static，start 
+2023-10-10 03:21:36，執行：static，allTrueData count：2319 
+2023-10-10 03:21:37，執行：static，newTrueData count：44 
+2023-10-10 03:21:37，執行：static，falseData count：1132 
+2023-10-10 03:21:39，執行：static，onData OnData1 
+2023-10-10 03:22:33，執行：static，onData OnData2 
+2023-10-10 03:22:34，執行：static，isLiveSaveStatic 
+2023-10-10 03:22:37，執行：static，end 
+2023-10-10 03:22:38，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 03:22:39，執行：static，結束 
+2023-10-10 03:24:21，執行：static，開始 
+2023-10-10 03:24:21，執行：static，start 
+2023-10-10 03:24:34，執行：static，allTrueData count：2319 
+2023-10-10 03:24:35，執行：static，newTrueData count：44 
+2023-10-10 03:24:36，執行：static，falseData count：1132 
+2023-10-10 03:24:37，執行：static，onData OnData1 
+2023-10-10 03:25:29，執行：static，onData OnData2 
+2023-10-10 03:25:31，執行：static，isLiveSaveStatic 
+2023-10-10 03:25:33，執行：static，end 
+2023-10-10 03:25:35，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 03:25:36，執行：static，結束 
+2023-10-10 03:27:24，執行：static，開始 
+2023-10-10 03:27:26，執行：static，start 
+2023-10-10 03:27:38，執行：static，allTrueData count：2319 
+2023-10-10 03:27:39，執行：static，newTrueData count：44 
+2023-10-10 03:27:39，執行：static，falseData count：1132 
+2023-10-10 03:27:41，執行：static，onData OnData1 
+2023-10-10 03:28:34，執行：static，onData OnData2 
+2023-10-10 03:28:36，執行：static，isLiveSaveStatic 
+2023-10-10 03:28:38，執行：static，end 
+2023-10-10 03:28:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 03:28:40，執行：static，結束 
+2023-10-10 03:30:22，執行：static，開始 
+2023-10-10 03:30:23，執行：static，start 
+2023-10-10 03:30:35，執行：static，allTrueData count：2319 
+2023-10-10 03:30:36，執行：static，newTrueData count：44 
+2023-10-10 03:30:37，執行：static，falseData count：1132 
+2023-10-10 03:30:38，執行：static，onData OnData1 
+2023-10-10 03:31:33，執行：static，onData OnData2 
+2023-10-10 03:31:34，執行：static，isLiveSaveStatic 
+2023-10-10 03:31:36，執行：static，end 
+2023-10-10 03:31:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 03:31:38，執行：static，結束 
+2023-10-10 03:33:22，執行：static，開始 
+2023-10-10 03:33:24，執行：static，start 
+2023-10-10 03:33:37，執行：static，allTrueData count：2319 
+2023-10-10 03:33:38，執行：static，newTrueData count：44 
+2023-10-10 03:33:39，執行：static，falseData count：1132 
+2023-10-10 03:33:41，執行：static，onData OnData1 
+2023-10-10 03:34:32，執行：static，onData OnData2 
+2023-10-10 03:34:33，執行：static，isLiveSaveStatic 
+2023-10-10 03:34:36，執行：static，end 
+2023-10-10 03:34:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 03:34:38，執行：static，結束 
+2023-10-10 03:36:20，執行：static，開始 
+2023-10-10 03:36:21，執行：static，start 
+2023-10-10 03:36:33，執行：static，allTrueData count：2319 
+2023-10-10 03:36:34，執行：static，newTrueData count：44 
+2023-10-10 03:36:35，執行：static，falseData count：1132 
+2023-10-10 03:36:37，執行：static，onData OnData1 
+2023-10-10 03:37:27，執行：static，onData OnData2 
+2023-10-10 03:37:28，執行：static，isLiveSaveStatic 
+2023-10-10 03:37:30，執行：static，end 
+2023-10-10 03:37:31，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 03:37:33，執行：static，結束 
+2023-10-10 03:39:24，執行：static，開始 
+2023-10-10 03:39:24，執行：static，start 
+2023-10-10 03:39:36，執行：static，allTrueData count：2319 
+2023-10-10 03:39:37，執行：static，newTrueData count：44 
+2023-10-10 03:39:37，執行：static，falseData count：1132 
+2023-10-10 03:39:39，執行：static，onData OnData1 
+2023-10-10 03:40:28，執行：static，onData OnData2 
+2023-10-10 03:40:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:40:32，執行：static，end 
+2023-10-10 03:40:33，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 03:40:34，執行：static，結束 
+2023-10-10 03:42:22，執行：static，開始 
+2023-10-10 03:42:23，執行：static，start 
+2023-10-10 03:42:34，執行：static，allTrueData count：2319 
+2023-10-10 03:42:35，執行：static，newTrueData count：44 
+2023-10-10 03:42:36，執行：static，falseData count：1132 
+2023-10-10 03:42:38，執行：static，onData OnData1 
+2023-10-10 03:43:27，執行：static，onData OnData2 
+2023-10-10 03:43:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:43:31，執行：static，end 
+2023-10-10 03:43:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 03:43:34，執行：static，結束 
+2023-10-10 03:45:22，執行：static，開始 
+2023-10-10 03:45:23，執行：static，start 
+2023-10-10 03:45:35，執行：static，allTrueData count：2319 
+2023-10-10 03:45:37，執行：static，newTrueData count：44 
+2023-10-10 03:45:38，執行：static，falseData count：1132 
+2023-10-10 03:45:39，執行：static，onData OnData1 
+2023-10-10 03:46:28，執行：static，onData OnData2 
+2023-10-10 03:46:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:46:31，執行：static，end 
+2023-10-10 03:46:32，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 03:46:33，執行：static，結束 
+2023-10-10 03:48:20，執行：static，開始 
+2023-10-10 03:48:21，執行：static，start 
+2023-10-10 03:48:33，執行：static，allTrueData count：2319 
+2023-10-10 03:48:34，執行：static，newTrueData count：44 
+2023-10-10 03:48:35，執行：static，falseData count：1132 
+2023-10-10 03:48:37，執行：static，onData OnData1 
+2023-10-10 03:49:28，執行：static，onData OnData2 
+2023-10-10 03:49:29，執行：static，isLiveSaveStatic 
+2023-10-10 03:49:31，執行：static，end 
+2023-10-10 03:49:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 03:49:33，執行：static，結束 
+2023-10-10 03:51:23，執行：static，開始 
+2023-10-10 03:51:23，執行：static，start 
+2023-10-10 03:51:35，執行：static，allTrueData count：2319 
+2023-10-10 03:51:36，執行：static，newTrueData count：44 
+2023-10-10 03:51:36，執行：static，falseData count：1132 
+2023-10-10 03:51:38，執行：static，onData OnData1 
+2023-10-10 03:52:29，執行：static，onData OnData2 
+2023-10-10 03:52:30，執行：static，isLiveSaveStatic 
+2023-10-10 03:52:32，執行：static，end 
+2023-10-10 03:52:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 03:52:34，執行：static，結束 
+2023-10-10 03:54:23，執行：static，開始 
+2023-10-10 03:54:24，執行：static，start 
+2023-10-10 03:54:36，執行：static，allTrueData count：2319 
+2023-10-10 03:54:37，執行：static，newTrueData count：44 
+2023-10-10 03:54:38，執行：static，falseData count：1132 
+2023-10-10 03:54:39，執行：static，onData OnData1 
+2023-10-10 03:55:32，執行：static，onData OnData2 
+2023-10-10 03:55:34，執行：static，isLiveSaveStatic 
+2023-10-10 03:55:36，執行：static，end 
+2023-10-10 03:55:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 03:55:39，執行：static，結束 
+2023-10-10 03:57:23，執行：static，開始 
+2023-10-10 03:57:24，執行：static，start 
+2023-10-10 03:57:36，執行：static，allTrueData count：2319 
+2023-10-10 03:57:38，執行：static，newTrueData count：44 
+2023-10-10 03:57:39，執行：static，falseData count：1132 
+2023-10-10 03:57:41，執行：static，onData OnData1 
+2023-10-10 03:58:31，執行：static，onData OnData2 
+2023-10-10 03:58:32，執行：static，isLiveSaveStatic 
+2023-10-10 03:58:35，執行：static，end 
+2023-10-10 03:58:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 03:58:36，執行：static，結束 
+2023-10-10 04:00:24，執行：static，開始 
+2023-10-10 04:00:25，執行：static，start 
+2023-10-10 04:00:36，執行：static，allTrueData count：2319 
+2023-10-10 04:00:38，執行：static，newTrueData count：2319 
+2023-10-10 04:00:39，執行：static，falseData count：1132 
+2023-10-10 04:00:40，執行：static，onData OnData1 
+2023-10-10 04:28:01，執行：static，onData OnData2 
+2023-10-10 04:28:02，執行：static，isLiveSaveStatic 
+2023-10-10 04:28:09，執行：static，end 
+2023-10-10 04:28:11，執行：static，執行時間：0小時27分鐘46秒 
+2023-10-10 04:28:12，執行：static，結束 
+2023-10-10 04:30:00，執行：static，開始 
+2023-10-10 04:30:01，執行：static，start 
+2023-10-10 04:30:14，執行：static，allTrueData count：2319 
+2023-10-10 04:30:16，執行：static，newTrueData count：2319 
+2023-10-10 04:30:17，執行：static，falseData count：1132 
+2023-10-10 04:30:19，執行：static，onData OnData1 
+2023-10-10 04:57:38，執行：static，onData OnData2 
+2023-10-10 04:57:39，執行：static，isLiveSaveStatic 
+2023-10-10 04:57:46，執行：static，end 
+2023-10-10 04:57:47，執行：static，執行時間：0小時27分鐘47秒 
+2023-10-10 04:57:49，執行：static，結束 
+2023-10-10 04:59:11，執行：static，開始 
+2023-10-10 04:59:12，執行：static，start 
+2023-10-10 04:59:24，執行：static，allTrueData count：2319 
+2023-10-10 04:59:25，執行：static，newTrueData count：2319 
+2023-10-10 04:59:25，執行：static，falseData count：1132 
+2023-10-10 04:59:28，執行：static，onData OnData1 
+2023-10-10 05:26:41，執行：static，onData OnData2 
+2023-10-10 05:26:43，執行：static，isLiveSaveStatic 
+2023-10-10 05:26:49，執行：static，end 
+2023-10-10 05:26:51，執行：static，執行時間：0小時27分鐘39秒 
+2023-10-10 05:26:52，執行：static，結束 
+2023-10-10 05:28:28，執行：static，開始 
+2023-10-10 05:28:29，執行：static，start 
+2023-10-10 05:28:42，執行：static，allTrueData count：2319 
+2023-10-10 05:28:42，執行：static，newTrueData count：44 
+2023-10-10 05:28:43，執行：static，falseData count：1132 
+2023-10-10 05:28:44，執行：static，onData OnData1 
+2023-10-10 05:29:35，執行：static，onData OnData2 
+2023-10-10 05:29:36，執行：static，isLiveSaveStatic 
+2023-10-10 05:29:38，執行：static，end 
+2023-10-10 05:29:39，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 05:29:41，執行：static，結束 
+2023-10-10 05:30:58，執行：static，開始 
+2023-10-10 05:30:59，執行：static，start 
+2023-10-10 05:31:12，執行：static，allTrueData count：2319 
+2023-10-10 05:31:13，執行：static，newTrueData count：44 
+2023-10-10 05:31:14，執行：static，falseData count：1132 
+2023-10-10 05:31:15，執行：static，onData OnData1 
+2023-10-10 05:32:04，執行：static，onData OnData2 
+2023-10-10 05:32:05，執行：static，isLiveSaveStatic 
+2023-10-10 05:32:08，執行：static，end 
+2023-10-10 05:32:09，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 05:32:11，執行：static，結束 
+2023-10-10 05:33:28，執行：static，開始 
+2023-10-10 05:33:31，執行：static，start 
+2023-10-10 05:33:43，執行：static，allTrueData count：2319 
+2023-10-10 05:33:44，執行：static，newTrueData count：44 
+2023-10-10 05:33:46，執行：static，falseData count：1132 
+2023-10-10 05:33:48，執行：static，onData OnData1 
+2023-10-10 05:34:40，執行：static，onData OnData2 
+2023-10-10 05:34:42，執行：static，isLiveSaveStatic 
+2023-10-10 05:34:44，執行：static，end 
+2023-10-10 05:34:45，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 05:34:47，執行：static，結束 
+2023-10-10 05:36:23，執行：static，開始 
+2023-10-10 05:36:24，執行：static，start 
+2023-10-10 05:36:35，執行：static，allTrueData count：2319 
+2023-10-10 05:36:36，執行：static，newTrueData count：44 
+2023-10-10 05:36:37，執行：static，falseData count：1132 
+2023-10-10 05:36:38，執行：static，onData OnData1 
+2023-10-10 05:37:27，執行：static，onData OnData2 
+2023-10-10 05:37:28，執行：static，isLiveSaveStatic 
+2023-10-10 05:37:31，執行：static，end 
+2023-10-10 05:37:32，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 05:37:33，執行：static，結束 
+2023-10-10 05:39:23，執行：static，開始 
+2023-10-10 05:39:24，執行：static，start 
+2023-10-10 05:39:36，執行：static，allTrueData count：2319 
+2023-10-10 05:39:37，執行：static，newTrueData count：44 
+2023-10-10 05:39:39，執行：static，falseData count：1132 
+2023-10-10 05:39:41，執行：static，onData OnData1 
+2023-10-10 05:40:30，執行：static，onData OnData2 
+2023-10-10 05:40:31，執行：static，isLiveSaveStatic 
+2023-10-10 05:40:33，執行：static，end 
+2023-10-10 05:40:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 05:40:35，執行：static，結束 
+2023-10-10 05:42:19，執行：static，開始 
+2023-10-10 05:42:20，執行：static，start 
+2023-10-10 05:42:32，執行：static，allTrueData count：2319 
+2023-10-10 05:42:32，執行：static，newTrueData count：44 
+2023-10-10 05:42:33，執行：static，falseData count：1132 
+2023-10-10 05:42:34，執行：static，onData OnData1 
+2023-10-10 05:43:22，執行：static，onData OnData2 
+2023-10-10 05:43:23，執行：static，isLiveSaveStatic 
+2023-10-10 05:43:26，執行：static，end 
+2023-10-10 05:43:27，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 05:43:28，執行：static，結束 
+2023-10-10 05:45:14，執行：static，開始 
+2023-10-10 05:45:15，執行：static，start 
+2023-10-10 05:45:27，執行：static，allTrueData count：2319 
+2023-10-10 05:45:28，執行：static，newTrueData count：44 
+2023-10-10 05:45:28，執行：static，falseData count：1132 
+2023-10-10 05:45:30，執行：static，onData OnData1 
+2023-10-10 05:46:22，執行：static，onData OnData2 
+2023-10-10 05:46:23，執行：static，isLiveSaveStatic 
+2023-10-10 05:46:25，執行：static，end 
+2023-10-10 05:46:26，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 05:46:26，執行：static，結束 
+2023-10-10 05:48:22，執行：static，開始 
+2023-10-10 05:48:23，執行：static，start 
+2023-10-10 05:48:36，執行：static，allTrueData count：2319 
+2023-10-10 05:48:36，執行：static，newTrueData count：44 
+2023-10-10 05:48:37，執行：static，falseData count：1132 
+2023-10-10 05:48:39，執行：static，onData OnData1 
+2023-10-10 05:49:30，執行：static，onData OnData2 
+2023-10-10 05:49:31，執行：static，isLiveSaveStatic 
+2023-10-10 05:49:34，執行：static，end 
+2023-10-10 05:49:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 05:49:36，執行：static，結束 
+2023-10-10 05:51:23，執行：static，開始 
+2023-10-10 05:51:24，執行：static，start 
+2023-10-10 05:51:35，執行：static，allTrueData count：2319 
+2023-10-10 05:51:36，執行：static，newTrueData count：44 
+2023-10-10 05:51:37，執行：static，falseData count：1132 
+2023-10-10 05:51:38，執行：static，onData OnData1 
+2023-10-10 05:52:26，執行：static，onData OnData2 
+2023-10-10 05:52:28，執行：static，isLiveSaveStatic 
+2023-10-10 05:52:31，執行：static，end 
+2023-10-10 05:52:32，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 05:52:33，執行：static，結束 
+2023-10-10 05:54:23，執行：static，開始 
+2023-10-10 05:54:24，執行：static，start 
+2023-10-10 05:54:35，執行：static，allTrueData count：2319 
+2023-10-10 05:54:36，執行：static，newTrueData count：44 
+2023-10-10 05:54:37，執行：static，falseData count：1132 
+2023-10-10 05:54:38，執行：static，onData OnData1 
+2023-10-10 05:55:26，執行：static，onData OnData2 
+2023-10-10 05:55:27，執行：static，isLiveSaveStatic 
+2023-10-10 05:55:30，執行：static，end 
+2023-10-10 05:55:31，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 05:55:33，執行：static，結束 
+2023-10-10 05:57:23，執行：static，開始 
+2023-10-10 05:57:24，執行：static，start 
+2023-10-10 05:57:36，執行：static，allTrueData count：2319 
+2023-10-10 05:57:37，執行：static，newTrueData count：44 
+2023-10-10 05:57:38，執行：static，falseData count：1132 
+2023-10-10 05:57:39，執行：static，onData OnData1 
+2023-10-10 05:58:28，執行：static，onData OnData2 
+2023-10-10 05:58:28，執行：static，isLiveSaveStatic 
+2023-10-10 05:58:31，執行：static，end 
+2023-10-10 05:58:31，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 05:58:32，執行：static，結束 
+2023-10-10 06:00:23，執行：static，開始 
+2023-10-10 06:00:25，執行：static，start 
+2023-10-10 06:00:37，執行：static，allTrueData count：2319 
+2023-10-10 06:00:39，執行：static，newTrueData count：44 
+2023-10-10 06:00:40，執行：static，falseData count：1132 
+2023-10-10 06:00:42，執行：static，onData OnData1 
+2023-10-10 06:01:32，執行：static，onData OnData2 
+2023-10-10 06:01:33，執行：static，isLiveSaveStatic 
+2023-10-10 06:01:36，執行：static，end 
+2023-10-10 06:01:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 06:01:38，執行：static，結束 
+2023-10-10 06:03:21，執行：static，開始 
+2023-10-10 06:03:22，執行：static，start 
+2023-10-10 06:03:34，執行：static，allTrueData count：2319 
+2023-10-10 06:03:34，執行：static，newTrueData count：44 
+2023-10-10 06:03:35，執行：static，falseData count：1132 
+2023-10-10 06:03:36，執行：static，onData OnData1 
+2023-10-10 06:04:26，執行：static，onData OnData2 
+2023-10-10 06:04:28，執行：static，isLiveSaveStatic 
+2023-10-10 06:04:31，執行：static，end 
+2023-10-10 06:04:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 06:04:33，執行：static，結束 
+2023-10-10 06:06:22，執行：static，開始 
+2023-10-10 06:06:24，執行：static，start 
+2023-10-10 06:06:36，執行：static，allTrueData count：2319 
+2023-10-10 06:06:37，執行：static，newTrueData count：44 
+2023-10-10 06:06:39，執行：static，falseData count：1132 
+2023-10-10 06:06:40，執行：static，onData OnData1 
+2023-10-10 06:07:30，執行：static，onData OnData2 
+2023-10-10 06:07:31，執行：static，isLiveSaveStatic 
+2023-10-10 06:07:33，執行：static，end 
+2023-10-10 06:07:34，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 06:07:35，執行：static，結束 
+2023-10-10 06:09:19，執行：static，開始 
+2023-10-10 06:09:20，執行：static，start 
+2023-10-10 06:09:32，執行：static，allTrueData count：2319 
+2023-10-10 06:09:33，執行：static，newTrueData count：44 
+2023-10-10 06:09:34，執行：static，falseData count：1132 
+2023-10-10 06:09:35，執行：static，onData OnData1 
+2023-10-10 06:10:26，執行：static，onData OnData2 
+2023-10-10 06:10:27，執行：static，isLiveSaveStatic 
+2023-10-10 06:10:30，執行：static，end 
+2023-10-10 06:10:31，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 06:10:33，執行：static，結束 
+2023-10-10 06:12:22，執行：static，開始 
+2023-10-10 06:12:23，執行：static，start 
+2023-10-10 06:12:36，執行：static，allTrueData count：2319 
+2023-10-10 06:12:37，執行：static，newTrueData count：44 
+2023-10-10 06:12:38，執行：static，falseData count：1132 
+2023-10-10 06:12:40，執行：static，onData OnData1 
+2023-10-10 06:13:31，執行：static，onData OnData2 
+2023-10-10 06:13:33，執行：static，isLiveSaveStatic 
+2023-10-10 06:13:35，執行：static，end 
+2023-10-10 06:13:36，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 06:13:38，執行：static，結束 
+2023-10-10 06:15:23，執行：static，開始 
+2023-10-10 06:15:24，執行：static，start 
+2023-10-10 06:15:37，執行：static，allTrueData count：2319 
+2023-10-10 06:15:37，執行：static，newTrueData count：44 
+2023-10-10 06:15:38，執行：static，falseData count：1132 
+2023-10-10 06:15:40，執行：static，onData OnData1 
+2023-10-10 06:16:33，執行：static，onData OnData2 
+2023-10-10 06:16:35，執行：static，isLiveSaveStatic 
+2023-10-10 06:16:37，執行：static，end 
+2023-10-10 06:16:39，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 06:16:40，執行：static，結束 
+2023-10-10 06:18:22，執行：static，開始 
+2023-10-10 06:18:23，執行：static，start 
+2023-10-10 06:18:35，執行：static，allTrueData count：2319 
+2023-10-10 06:18:36，執行：static，newTrueData count：44 
+2023-10-10 06:18:37，執行：static，falseData count：1132 
+2023-10-10 06:18:38，執行：static，onData OnData1 
+2023-10-10 06:19:28，執行：static，onData OnData2 
+2023-10-10 06:19:30，執行：static，isLiveSaveStatic 
+2023-10-10 06:19:32，執行：static，end 
+2023-10-10 06:19:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 06:19:35，執行：static，結束 
+2023-10-10 06:21:24，執行：static，開始 
+2023-10-10 06:21:26，執行：static，start 
+2023-10-10 06:21:39，執行：static，allTrueData count：2319 
+2023-10-10 06:21:40，執行：static，newTrueData count：44 
+2023-10-10 06:21:41，執行：static，falseData count：1132 
+2023-10-10 06:21:43，執行：static，onData OnData1 
+2023-10-10 06:22:35，執行：static，onData OnData2 
+2023-10-10 06:22:36，執行：static，isLiveSaveStatic 
+2023-10-10 06:22:39，執行：static，end 
+2023-10-10 06:22:40，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 06:22:41，執行：static，結束 
+2023-10-10 06:24:24，執行：static，開始 
+2023-10-10 06:24:26，執行：static，start 
+2023-10-10 06:24:38，執行：static，allTrueData count：2319 
+2023-10-10 06:24:40，執行：static，newTrueData count：44 
+2023-10-10 06:24:41，執行：static，falseData count：1132 
+2023-10-10 06:24:43，執行：static，onData OnData1 
+2023-10-10 06:25:35，執行：static，onData OnData2 
+2023-10-10 06:25:37，執行：static，isLiveSaveStatic 
+2023-10-10 06:25:40，執行：static，end 
+2023-10-10 06:25:41，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 06:25:43，執行：static，結束 
+2023-10-10 06:27:22，執行：static，開始 
+2023-10-10 06:27:23，執行：static，start 
+2023-10-10 06:27:36，執行：static，allTrueData count：2319 
+2023-10-10 06:27:37，執行：static，newTrueData count：44 
+2023-10-10 06:27:38，執行：static，falseData count：1132 
+2023-10-10 06:27:39，執行：static，onData OnData1 
+2023-10-10 06:28:33，執行：static，onData OnData2 
+2023-10-10 06:28:34，執行：static，isLiveSaveStatic 
+2023-10-10 06:28:36，執行：static，end 
+2023-10-10 06:28:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 06:28:39，執行：static，結束 
+2023-10-10 06:30:18，執行：static，開始 
+2023-10-10 06:30:19，執行：static，start 
+2023-10-10 06:30:32，執行：static，allTrueData count：2319 
+2023-10-10 06:30:33，執行：static，newTrueData count：44 
+2023-10-10 06:30:34，執行：static，falseData count：1132 
+2023-10-10 06:30:35，執行：static，onData OnData1 
+2023-10-10 06:31:28，執行：static，onData OnData2 
+2023-10-10 06:31:29，執行：static，isLiveSaveStatic 
+2023-10-10 06:31:32，執行：static，end 
+2023-10-10 06:31:34，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 06:31:35，執行：static，結束 
+2023-10-10 06:33:22，執行：static，開始 
+2023-10-10 06:33:24，執行：static，start 
+2023-10-10 06:33:36，執行：static，allTrueData count：2319 
+2023-10-10 06:33:37，執行：static，newTrueData count：44 
+2023-10-10 06:33:38，執行：static，falseData count：1132 
+2023-10-10 06:33:39，執行：static，onData OnData1 
+2023-10-10 06:34:29，執行：static，onData OnData2 
+2023-10-10 06:34:31，執行：static，isLiveSaveStatic 
+2023-10-10 06:34:34，執行：static，end 
+2023-10-10 06:34:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 06:34:37，執行：static，結束 
+2023-10-10 06:36:22，執行：static，開始 
+2023-10-10 06:36:23，執行：static，start 
+2023-10-10 06:36:36，執行：static，allTrueData count：2319 
+2023-10-10 06:36:37，執行：static，newTrueData count：44 
+2023-10-10 06:36:38，執行：static，falseData count：1132 
+2023-10-10 06:36:40，執行：static，onData OnData1 
+2023-10-10 06:37:30，執行：static，onData OnData2 
+2023-10-10 06:37:32，執行：static，isLiveSaveStatic 
+2023-10-10 06:37:34，執行：static，end 
+2023-10-10 06:37:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 06:37:37，執行：static，結束 
+2023-10-10 06:39:20，執行：static，開始 
+2023-10-10 06:39:22，執行：static，start 
+2023-10-10 06:39:34，執行：static，allTrueData count：2319 
+2023-10-10 06:39:35，執行：static，newTrueData count：44 
+2023-10-10 06:39:36，執行：static，falseData count：1132 
+2023-10-10 06:39:38，執行：static，onData OnData1 
+2023-10-10 06:40:28，執行：static，onData OnData2 
+2023-10-10 06:40:29，執行：static，isLiveSaveStatic 
+2023-10-10 06:40:31，執行：static，end 
+2023-10-10 06:40:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 06:40:33，執行：static，結束 
+2023-10-10 06:42:21，執行：static，開始 
+2023-10-10 06:42:23，執行：static，start 
+2023-10-10 06:42:35，執行：static，allTrueData count：2319 
+2023-10-10 06:42:36，執行：static，newTrueData count：44 
+2023-10-10 06:42:37，執行：static，falseData count：1132 
+2023-10-10 06:42:39，執行：static，onData OnData1 
+2023-10-10 06:43:33，執行：static，onData OnData2 
+2023-10-10 06:43:34，執行：static，isLiveSaveStatic 
+2023-10-10 06:43:38，執行：static，end 
+2023-10-10 06:43:39，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 06:43:40，執行：static，結束 
+2023-10-10 06:45:22，執行：static，開始 
+2023-10-10 06:45:23，執行：static，start 
+2023-10-10 06:45:36，執行：static，allTrueData count：2319 
+2023-10-10 06:45:36，執行：static，newTrueData count：44 
+2023-10-10 06:45:37，執行：static，falseData count：1132 
+2023-10-10 06:45:39，執行：static，onData OnData1 
+2023-10-10 06:46:30，執行：static，onData OnData2 
+2023-10-10 06:46:31，執行：static，isLiveSaveStatic 
+2023-10-10 06:46:34，執行：static，end 
+2023-10-10 06:46:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 06:46:37，執行：static，結束 
+2023-10-10 06:48:20，執行：static，開始 
+2023-10-10 06:48:22，執行：static，start 
+2023-10-10 06:48:33，執行：static，allTrueData count：2319 
+2023-10-10 06:48:34，執行：static，newTrueData count：44 
+2023-10-10 06:48:35，執行：static，falseData count：1132 
+2023-10-10 06:48:37，執行：static，onData OnData1 
+2023-10-10 06:49:27，執行：static，onData OnData2 
+2023-10-10 06:49:28，執行：static，isLiveSaveStatic 
+2023-10-10 06:49:30，執行：static，end 
+2023-10-10 06:49:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 06:49:33，執行：static，結束 
+2023-10-10 06:51:21，執行：static，開始 
+2023-10-10 06:51:22，執行：static，start 
+2023-10-10 06:51:34，執行：static，allTrueData count：2319 
+2023-10-10 06:51:35，執行：static，newTrueData count：44 
+2023-10-10 06:51:36，執行：static，falseData count：1132 
+2023-10-10 06:51:38，執行：static，onData OnData1 
+2023-10-10 06:52:30，執行：static，onData OnData2 
+2023-10-10 06:52:32，執行：static，isLiveSaveStatic 
+2023-10-10 06:52:34，執行：static，end 
+2023-10-10 06:52:35，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 06:52:37，執行：static，結束 
+2023-10-10 06:54:19，執行：static，開始 
+2023-10-10 06:54:20，執行：static，start 
+2023-10-10 06:54:34，執行：static，allTrueData count：2319 
+2023-10-10 06:54:35，執行：static，newTrueData count：44 
+2023-10-10 06:54:36，執行：static，falseData count：1132 
+2023-10-10 06:54:37，執行：static，onData OnData1 
+2023-10-10 06:55:28，執行：static，onData OnData2 
+2023-10-10 06:55:29，執行：static，isLiveSaveStatic 
+2023-10-10 06:55:32，執行：static，end 
+2023-10-10 06:55:33，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 06:55:34，執行：static，結束 
+2023-10-10 06:57:22，執行：static，開始 
+2023-10-10 06:57:23，執行：static，start 
+2023-10-10 06:57:35，執行：static，allTrueData count：2319 
+2023-10-10 06:57:36，執行：static，newTrueData count：44 
+2023-10-10 06:57:37，執行：static，falseData count：1132 
+2023-10-10 06:57:39，執行：static，onData OnData1 
+2023-10-10 06:58:27，執行：static，onData OnData2 
+2023-10-10 06:58:29，執行：static，isLiveSaveStatic 
+2023-10-10 06:58:31，執行：static，end 
+2023-10-10 06:58:33，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 06:58:34，執行：static，結束 
+2023-10-10 07:00:23，執行：static，開始 
+2023-10-10 07:00:24，執行：static，start 
+2023-10-10 07:00:36，執行：static，allTrueData count：2319 
+2023-10-10 07:00:37，執行：static，newTrueData count：44 
+2023-10-10 07:00:38，執行：static，falseData count：1132 
+2023-10-10 07:00:40，執行：static，onData OnData1 
+2023-10-10 07:01:30，執行：static，onData OnData2 
+2023-10-10 07:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 07:01:35，執行：static，end 
+2023-10-10 07:01:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 07:01:38，執行：static，結束 
+2023-10-10 07:03:24，執行：static，開始 
+2023-10-10 07:03:25，執行：static，start 
+2023-10-10 07:03:38，執行：static，allTrueData count：2319 
+2023-10-10 07:03:39，執行：static，newTrueData count：44 
+2023-10-10 07:03:41，執行：static，falseData count：1132 
+2023-10-10 07:03:43，執行：static，onData OnData1 
+2023-10-10 07:04:34，執行：static，onData OnData2 
+2023-10-10 07:04:36，執行：static，isLiveSaveStatic 
+2023-10-10 07:04:39，執行：static，end 
+2023-10-10 07:04:41，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 07:04:42，執行：static，結束 
+2023-10-10 07:06:21，執行：static，開始 
+2023-10-10 07:06:22，執行：static，start 
+2023-10-10 07:06:34，執行：static，allTrueData count：2319 
+2023-10-10 07:06:35，執行：static，newTrueData count：44 
+2023-10-10 07:06:36，執行：static，falseData count：1132 
+2023-10-10 07:06:37，執行：static，onData OnData1 
+2023-10-10 07:07:26，執行：static，onData OnData2 
+2023-10-10 07:07:27，執行：static，isLiveSaveStatic 
+2023-10-10 07:07:30，執行：static，end 
+2023-10-10 07:07:31，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 07:07:33，執行：static，結束 
+2023-10-10 07:09:23，執行：static，開始 
+2023-10-10 07:09:24，執行：static，start 
+2023-10-10 07:09:37，執行：static，allTrueData count：2319 
+2023-10-10 07:09:37，執行：static，newTrueData count：44 
+2023-10-10 07:09:38，執行：static，falseData count：1132 
+2023-10-10 07:09:40，執行：static，onData OnData1 
+2023-10-10 07:10:32，執行：static，onData OnData2 
+2023-10-10 07:10:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:10:37，執行：static，end 
+2023-10-10 07:10:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 07:10:40，執行：static，結束 
+2023-10-10 07:12:24，執行：static，開始 
+2023-10-10 07:12:25，執行：static，start 
+2023-10-10 07:12:37，執行：static，allTrueData count：2319 
+2023-10-10 07:12:39，執行：static，newTrueData count：44 
+2023-10-10 07:12:41，執行：static，falseData count：1132 
+2023-10-10 07:12:42，執行：static，onData OnData1 
+2023-10-10 07:13:33，執行：static，onData OnData2 
+2023-10-10 07:13:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:13:37，執行：static，end 
+2023-10-10 07:13:39，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:13:40，執行：static，結束 
+2023-10-10 07:15:21，執行：static，開始 
+2023-10-10 07:15:22，執行：static，start 
+2023-10-10 07:15:34，執行：static，allTrueData count：2319 
+2023-10-10 07:15:36，執行：static，newTrueData count：44 
+2023-10-10 07:15:38，執行：static，falseData count：1132 
+2023-10-10 07:15:40，執行：static，onData OnData1 
+2023-10-10 07:16:32，執行：static，onData OnData2 
+2023-10-10 07:16:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:16:36，執行：static，end 
+2023-10-10 07:16:38，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 07:16:39，執行：static，結束 
+2023-10-10 07:18:23，執行：static，開始 
+2023-10-10 07:18:25，執行：static，start 
+2023-10-10 07:18:36，執行：static，allTrueData count：2319 
+2023-10-10 07:18:38，執行：static，newTrueData count：44 
+2023-10-10 07:18:39，執行：static，falseData count：1132 
+2023-10-10 07:18:41，執行：static，onData OnData1 
+2023-10-10 07:19:31，執行：static，onData OnData2 
+2023-10-10 07:19:33，執行：static，isLiveSaveStatic 
+2023-10-10 07:19:36，執行：static，end 
+2023-10-10 07:19:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 07:19:38，執行：static，結束 
+2023-10-10 07:21:20，執行：static，開始 
+2023-10-10 07:21:21，執行：static，start 
+2023-10-10 07:21:34，執行：static，allTrueData count：2319 
+2023-10-10 07:21:35，執行：static，newTrueData count：44 
+2023-10-10 07:21:36，執行：static，falseData count：1132 
+2023-10-10 07:21:38，執行：static，onData OnData1 
+2023-10-10 07:22:30，執行：static，onData OnData2 
+2023-10-10 07:22:31，執行：static，isLiveSaveStatic 
+2023-10-10 07:22:34，執行：static，end 
+2023-10-10 07:22:35，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:22:36，執行：static，結束 
+2023-10-10 07:24:24，執行：static，開始 
+2023-10-10 07:24:26，執行：static，start 
+2023-10-10 07:24:38，執行：static，allTrueData count：2319 
+2023-10-10 07:24:39，執行：static，newTrueData count：44 
+2023-10-10 07:24:40，執行：static，falseData count：1132 
+2023-10-10 07:24:42，執行：static，onData OnData1 
+2023-10-10 07:25:33，執行：static，onData OnData2 
+2023-10-10 07:25:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:25:37，執行：static，end 
+2023-10-10 07:25:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:25:40，執行：static，結束 
+2023-10-10 07:27:20，執行：static，開始 
+2023-10-10 07:27:21，執行：static，start 
+2023-10-10 07:27:33，執行：static，allTrueData count：2319 
+2023-10-10 07:27:34，執行：static，newTrueData count：44 
+2023-10-10 07:27:35，執行：static，falseData count：1132 
+2023-10-10 07:27:37，執行：static，onData OnData1 
+2023-10-10 07:28:26，執行：static，onData OnData2 
+2023-10-10 07:28:28，執行：static，isLiveSaveStatic 
+2023-10-10 07:28:31，執行：static，end 
+2023-10-10 07:28:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 07:28:34，執行：static，結束 
+2023-10-10 07:30:24，執行：static，開始 
+2023-10-10 07:30:25，執行：static，start 
+2023-10-10 07:30:37，執行：static，allTrueData count：2319 
+2023-10-10 07:30:38，執行：static，newTrueData count：44 
+2023-10-10 07:30:40，執行：static，falseData count：1132 
+2023-10-10 07:30:41，執行：static，onData OnData1 
+2023-10-10 07:31:33，執行：static，onData OnData2 
+2023-10-10 07:31:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:31:37，執行：static，end 
+2023-10-10 07:31:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:31:39，執行：static，結束 
+2023-10-10 07:33:23，執行：static，開始 
+2023-10-10 07:33:24，執行：static，start 
+2023-10-10 07:33:36，執行：static，allTrueData count：2319 
+2023-10-10 07:33:37，執行：static，newTrueData count：44 
+2023-10-10 07:33:38，執行：static，falseData count：1132 
+2023-10-10 07:33:40，執行：static，onData OnData1 
+2023-10-10 07:34:32，執行：static，onData OnData2 
+2023-10-10 07:34:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:34:36，執行：static，end 
+2023-10-10 07:34:38，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:34:39，執行：static，結束 
+2023-10-10 07:36:24，執行：static，開始 
+2023-10-10 07:36:26，執行：static，start 
+2023-10-10 07:36:38，執行：static，allTrueData count：2319 
+2023-10-10 07:36:40，執行：static，newTrueData count：44 
+2023-10-10 07:36:41，執行：static，falseData count：1132 
+2023-10-10 07:36:43，執行：static，onData OnData1 
+2023-10-10 07:37:34，執行：static，onData OnData2 
+2023-10-10 07:37:36，執行：static，isLiveSaveStatic 
+2023-10-10 07:37:39，執行：static，end 
+2023-10-10 07:37:40，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 07:37:42，執行：static，結束 
+2023-10-10 07:39:24，執行：static，開始 
+2023-10-10 07:39:25，執行：static，start 
+2023-10-10 07:39:38，執行：static，allTrueData count：2319 
+2023-10-10 07:39:38，執行：static，newTrueData count：44 
+2023-10-10 07:39:40，執行：static，falseData count：1132 
+2023-10-10 07:39:42，執行：static，onData OnData1 
+2023-10-10 07:40:34，執行：static，onData OnData2 
+2023-10-10 07:40:36，執行：static，isLiveSaveStatic 
+2023-10-10 07:40:38，執行：static，end 
+2023-10-10 07:40:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 07:40:41，執行：static，結束 
+2023-10-10 07:42:24，執行：static，開始 
+2023-10-10 07:42:26，執行：static，start 
+2023-10-10 07:42:38，執行：static，allTrueData count：2319 
+2023-10-10 07:42:39，執行：static，newTrueData count：44 
+2023-10-10 07:42:41，執行：static，falseData count：1132 
+2023-10-10 07:42:43，執行：static，onData OnData1 
+2023-10-10 07:43:34，執行：static，onData OnData2 
+2023-10-10 07:43:35，執行：static，isLiveSaveStatic 
+2023-10-10 07:43:38，執行：static，end 
+2023-10-10 07:43:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 07:43:40，執行：static，結束 
+2023-10-10 07:45:23，執行：static，開始 
+2023-10-10 07:45:24，執行：static，start 
+2023-10-10 07:45:36，執行：static，allTrueData count：2319 
+2023-10-10 07:45:37，執行：static，newTrueData count：44 
+2023-10-10 07:45:38，執行：static，falseData count：1132 
+2023-10-10 07:45:40，執行：static，onData OnData1 
+2023-10-10 07:46:30，執行：static，onData OnData2 
+2023-10-10 07:46:32，執行：static，isLiveSaveStatic 
+2023-10-10 07:46:35，執行：static，end 
+2023-10-10 07:46:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 07:46:38，執行：static，結束 
+2023-10-10 07:48:21，執行：static，開始 
+2023-10-10 07:48:22，執行：static，start 
+2023-10-10 07:48:34，執行：static，allTrueData count：2319 
+2023-10-10 07:48:35，執行：static，newTrueData count：44 
+2023-10-10 07:48:36，執行：static，falseData count：1132 
+2023-10-10 07:48:38，執行：static，onData OnData1 
+2023-10-10 07:49:28，執行：static，onData OnData2 
+2023-10-10 07:49:29，執行：static，isLiveSaveStatic 
+2023-10-10 07:49:31，執行：static，end 
+2023-10-10 07:49:33，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 07:49:34，執行：static，結束 
+2023-10-10 07:51:22，執行：static，開始 
+2023-10-10 07:51:23，執行：static，start 
+2023-10-10 07:51:35，執行：static，allTrueData count：2319 
+2023-10-10 07:51:37，執行：static，newTrueData count：44 
+2023-10-10 07:51:38，執行：static，falseData count：1132 
+2023-10-10 07:51:40，執行：static，onData OnData1 
+2023-10-10 07:52:32，執行：static，onData OnData2 
+2023-10-10 07:52:34，執行：static，isLiveSaveStatic 
+2023-10-10 07:52:36，執行：static，end 
+2023-10-10 07:52:37，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:52:38，執行：static，結束 
+2023-10-10 07:54:22，執行：static，開始 
+2023-10-10 07:54:23，執行：static，start 
+2023-10-10 07:54:35，執行：static，allTrueData count：2319 
+2023-10-10 07:54:36，執行：static，newTrueData count：44 
+2023-10-10 07:54:37，執行：static，falseData count：1132 
+2023-10-10 07:54:38，執行：static，onData OnData1 
+2023-10-10 07:55:33，執行：static，onData OnData2 
+2023-10-10 07:55:35，執行：static，isLiveSaveStatic 
+2023-10-10 07:55:38，執行：static，end 
+2023-10-10 07:55:39，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 07:55:41，執行：static，結束 
+2023-10-10 07:57:22，執行：static，開始 
+2023-10-10 07:57:24，執行：static，start 
+2023-10-10 07:57:35，執行：static，allTrueData count：2319 
+2023-10-10 07:57:36，執行：static，newTrueData count：44 
+2023-10-10 07:57:37，執行：static，falseData count：1132 
+2023-10-10 07:57:39，執行：static，onData OnData1 
+2023-10-10 07:58:31，執行：static，onData OnData2 
+2023-10-10 07:58:32，執行：static，isLiveSaveStatic 
+2023-10-10 07:58:35，執行：static，end 
+2023-10-10 07:58:36，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 07:58:38，執行：static，結束 
+2023-10-10 08:00:23，執行：static，開始 
+2023-10-10 08:00:25，執行：static，start 
+2023-10-10 08:00:37，執行：static，allTrueData count：2319 
+2023-10-10 08:00:38，執行：static，newTrueData count：44 
+2023-10-10 08:00:40，執行：static，falseData count：1132 
+2023-10-10 08:00:42，執行：static，onData OnData1 
+2023-10-10 08:01:31，執行：static，onData OnData2 
+2023-10-10 08:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 08:01:35，執行：static，end 
+2023-10-10 08:01:37，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 08:01:38，執行：static，結束 
+2023-10-10 08:03:24，執行：static，開始 
+2023-10-10 08:03:25，執行：static，start 
+2023-10-10 08:03:37，執行：static，allTrueData count：2319 
+2023-10-10 08:03:38，執行：static，newTrueData count：44 
+2023-10-10 08:03:39，執行：static，falseData count：1132 
+2023-10-10 08:03:41，執行：static，onData OnData1 
+2023-10-10 08:04:29，執行：static，onData OnData2 
+2023-10-10 08:04:30，執行：static，isLiveSaveStatic 
+2023-10-10 08:04:32，執行：static，end 
+2023-10-10 08:04:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 08:04:35，執行：static，結束 
+2023-10-10 08:06:22，執行：static，開始 
+2023-10-10 08:06:23，執行：static，start 
+2023-10-10 08:06:35，執行：static，allTrueData count：2319 
+2023-10-10 08:06:36，執行：static，newTrueData count：44 
+2023-10-10 08:06:37，執行：static，falseData count：1132 
+2023-10-10 08:06:39，執行：static，onData OnData1 
+2023-10-10 08:07:33，執行：static，onData OnData2 
+2023-10-10 08:07:34，執行：static，isLiveSaveStatic 
+2023-10-10 08:07:36，執行：static，end 
+2023-10-10 08:07:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 08:07:38，執行：static，結束 
+2023-10-10 08:09:22，執行：static，開始 
+2023-10-10 08:09:23，執行：static，start 
+2023-10-10 08:09:35，執行：static，allTrueData count：2319 
+2023-10-10 08:09:36，執行：static，newTrueData count：44 
+2023-10-10 08:09:37，執行：static，falseData count：1132 
+2023-10-10 08:09:39，執行：static，onData OnData1 
+2023-10-10 08:10:30，執行：static，onData OnData2 
+2023-10-10 08:10:31，執行：static，isLiveSaveStatic 
+2023-10-10 08:10:34，執行：static，end 
+2023-10-10 08:10:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 08:10:36，執行：static，結束 
+2023-10-10 08:12:16，執行：static，開始 
+2023-10-10 08:12:18，執行：static，start 
+2023-10-10 08:12:29，執行：static，allTrueData count：2319 
+2023-10-10 08:12:32，執行：static，newTrueData count：44 
+2023-10-10 08:12:33，執行：static，falseData count：1132 
+2023-10-10 08:12:34，執行：static，onData OnData1 
+2023-10-10 08:13:25，執行：static，onData OnData2 
+2023-10-10 08:13:27，執行：static，isLiveSaveStatic 
+2023-10-10 08:13:30，執行：static，end 
+2023-10-10 08:13:31，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 08:13:32，執行：static，結束 
+2023-10-10 08:15:20，執行：static，開始 
+2023-10-10 08:15:22，執行：static，start 
+2023-10-10 08:15:36，執行：static，allTrueData count：2319 
+2023-10-10 08:15:37，執行：static，newTrueData count：44 
+2023-10-10 08:15:38，執行：static，falseData count：1132 
+2023-10-10 08:15:40，執行：static，onData OnData1 
+2023-10-10 08:16:33，執行：static，onData OnData2 
+2023-10-10 08:16:35，執行：static，isLiveSaveStatic 
+2023-10-10 08:16:38，執行：static，end 
+2023-10-10 08:16:39，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 08:16:40，執行：static，結束 
+2023-10-10 08:18:22，執行：static，開始 
+2023-10-10 08:18:23，執行：static，start 
+2023-10-10 08:18:35，執行：static，allTrueData count：2319 
+2023-10-10 08:18:37，執行：static，newTrueData count：44 
+2023-10-10 08:18:38，執行：static，falseData count：1132 
+2023-10-10 08:18:41，執行：static，onData OnData1 
+2023-10-10 08:19:28，執行：static，onData OnData2 
+2023-10-10 08:19:29，執行：static，isLiveSaveStatic 
+2023-10-10 08:19:32，執行：static，end 
+2023-10-10 08:19:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:19:34，執行：static，結束 
+2023-10-10 08:21:21，執行：static，開始 
+2023-10-10 08:21:22，執行：static，start 
+2023-10-10 08:21:34，執行：static，allTrueData count：2319 
+2023-10-10 08:21:35，執行：static，newTrueData count：44 
+2023-10-10 08:21:36，執行：static，falseData count：1132 
+2023-10-10 08:21:38，執行：static，onData OnData1 
+2023-10-10 08:22:25，執行：static，onData OnData2 
+2023-10-10 08:22:26，執行：static，isLiveSaveStatic 
+2023-10-10 08:22:29，執行：static，end 
+2023-10-10 08:22:30，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 08:22:31，執行：static，結束 
+2023-10-10 08:24:21，執行：static，開始 
+2023-10-10 08:24:22，執行：static，start 
+2023-10-10 08:24:34，執行：static，allTrueData count：2319 
+2023-10-10 08:24:35，執行：static，newTrueData count：44 
+2023-10-10 08:24:36，執行：static，falseData count：1132 
+2023-10-10 08:24:37，執行：static，onData OnData1 
+2023-10-10 08:25:27，執行：static，onData OnData2 
+2023-10-10 08:25:28，執行：static，isLiveSaveStatic 
+2023-10-10 08:25:31，執行：static，end 
+2023-10-10 08:25:32，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 08:25:33，執行：static，結束 
+2023-10-10 08:27:20，執行：static，開始 
+2023-10-10 08:27:21，執行：static，start 
+2023-10-10 08:27:34，執行：static，allTrueData count：2319 
+2023-10-10 08:27:36，執行：static，newTrueData count：44 
+2023-10-10 08:27:37，執行：static，falseData count：1132 
+2023-10-10 08:27:39，執行：static，onData OnData1 
+2023-10-10 08:28:32，執行：static，onData OnData2 
+2023-10-10 08:28:32，執行：static，isLiveSaveStatic 
+2023-10-10 08:28:35，執行：static，end 
+2023-10-10 08:28:36，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 08:28:37，執行：static，結束 
+2023-10-10 08:30:23，執行：static，開始 
+2023-10-10 08:30:24，執行：static，start 
+2023-10-10 08:30:36，執行：static，allTrueData count：2319 
+2023-10-10 08:30:37，執行：static，newTrueData count：44 
+2023-10-10 08:30:38，執行：static，falseData count：1132 
+2023-10-10 08:30:40，執行：static，onData OnData1 
+2023-10-10 08:31:28，執行：static，onData OnData2 
+2023-10-10 08:31:30，執行：static，isLiveSaveStatic 
+2023-10-10 08:31:32，執行：static，end 
+2023-10-10 08:31:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 08:31:35，執行：static，結束 
+2023-10-10 08:33:21，執行：static，開始 
+2023-10-10 08:33:22，執行：static，start 
+2023-10-10 08:33:34，執行：static，allTrueData count：2319 
+2023-10-10 08:33:35，執行：static，newTrueData count：44 
+2023-10-10 08:33:36，執行：static，falseData count：1132 
+2023-10-10 08:33:37，執行：static，onData OnData1 
+2023-10-10 08:34:27，執行：static，onData OnData2 
+2023-10-10 08:34:28，執行：static，isLiveSaveStatic 
+2023-10-10 08:34:31，執行：static，end 
+2023-10-10 08:34:32，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:34:33，執行：static，結束 
+2023-10-10 08:36:20，執行：static，開始 
+2023-10-10 08:36:21，執行：static，start 
+2023-10-10 08:36:33，執行：static，allTrueData count：2319 
+2023-10-10 08:36:34，執行：static，newTrueData count：44 
+2023-10-10 08:36:35，執行：static，falseData count：1132 
+2023-10-10 08:36:37，執行：static，onData OnData1 
+2023-10-10 08:37:26，執行：static，onData OnData2 
+2023-10-10 08:37:28，執行：static，isLiveSaveStatic 
+2023-10-10 08:37:30，執行：static，end 
+2023-10-10 08:37:31，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:37:32，執行：static，結束 
+2023-10-10 08:39:13，執行：static，開始 
+2023-10-10 08:39:15，執行：static，start 
+2023-10-10 08:39:27，執行：static，allTrueData count：2319 
+2023-10-10 08:39:28，執行：static，newTrueData count：44 
+2023-10-10 08:39:28，執行：static，falseData count：1132 
+2023-10-10 08:39:30，執行：static，onData OnData1 
+2023-10-10 08:40:21，執行：static，onData OnData2 
+2023-10-10 08:40:21，執行：static，isLiveSaveStatic 
+2023-10-10 08:40:24，執行：static，end 
+2023-10-10 08:40:25，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:40:26，執行：static，結束 
+2023-10-10 08:42:23，執行：static，開始 
+2023-10-10 08:42:25，執行：static，start 
+2023-10-10 08:42:37，執行：static，allTrueData count：2319 
+2023-10-10 08:42:39，執行：static，newTrueData count：44 
+2023-10-10 08:42:40，執行：static，falseData count：1132 
+2023-10-10 08:42:42，執行：static，onData OnData1 
+2023-10-10 08:43:30，執行：static，onData OnData2 
+2023-10-10 08:43:31，執行：static，isLiveSaveStatic 
+2023-10-10 08:43:33，執行：static，end 
+2023-10-10 08:43:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:43:36，執行：static，結束 
+2023-10-10 08:45:21，執行：static，開始 
+2023-10-10 08:45:23，執行：static，start 
+2023-10-10 08:45:34，執行：static，allTrueData count：2319 
+2023-10-10 08:45:35，執行：static，newTrueData count：44 
+2023-10-10 08:45:36，執行：static，falseData count：1132 
+2023-10-10 08:45:38，執行：static，onData OnData1 
+2023-10-10 08:46:25，執行：static，onData OnData2 
+2023-10-10 08:46:27，執行：static，isLiveSaveStatic 
+2023-10-10 08:46:29，執行：static，end 
+2023-10-10 08:46:31，執行：static，執行時間：0小時1分鐘9秒 
+2023-10-10 08:46:32，執行：static，結束 
+2023-10-10 08:48:22，執行：static，開始 
+2023-10-10 08:48:23，執行：static，start 
+2023-10-10 08:48:35，執行：static，allTrueData count：2319 
+2023-10-10 08:48:36，執行：static，newTrueData count：44 
+2023-10-10 08:48:37，執行：static，falseData count：1132 
+2023-10-10 08:48:38，執行：static，onData OnData1 
+2023-10-10 08:49:28，執行：static，onData OnData2 
+2023-10-10 08:49:29，執行：static，isLiveSaveStatic 
+2023-10-10 08:49:32，執行：static，end 
+2023-10-10 08:49:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 08:49:35，執行：static，結束 
+2023-10-10 08:51:23，執行：static，開始 
+2023-10-10 08:51:25，執行：static，start 
+2023-10-10 08:51:38，執行：static，allTrueData count：2319 
+2023-10-10 08:51:39，執行：static，newTrueData count：44 
+2023-10-10 08:51:40，執行：static，falseData count：1132 
+2023-10-10 08:51:43，執行：static，onData OnData1 
+2023-10-10 08:52:35，執行：static，onData OnData2 
+2023-10-10 08:52:37，執行：static，isLiveSaveStatic 
+2023-10-10 08:52:40，執行：static，end 
+2023-10-10 08:52:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 08:52:43，執行：static，結束 
+2023-10-10 08:54:23，執行：static，開始 
+2023-10-10 08:54:24，執行：static，start 
+2023-10-10 08:54:36，執行：static，allTrueData count：2319 
+2023-10-10 08:54:37，執行：static，newTrueData count：44 
+2023-10-10 08:54:39，執行：static，falseData count：1132 
+2023-10-10 08:54:41，執行：static，onData OnData1 
+2023-10-10 08:55:33，執行：static，onData OnData2 
+2023-10-10 08:55:35，執行：static，isLiveSaveStatic 
+2023-10-10 08:55:38，執行：static，end 
+2023-10-10 08:55:39，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 08:55:41，執行：static，結束 
+2023-10-10 08:57:23，執行：static，開始 
+2023-10-10 08:57:24，執行：static，start 
+2023-10-10 08:57:37，執行：static，allTrueData count：2319 
+2023-10-10 08:57:38，執行：static，newTrueData count：44 
+2023-10-10 08:57:40，執行：static，falseData count：1132 
+2023-10-10 08:57:42，執行：static，onData OnData1 
+2023-10-10 08:58:31，執行：static，onData OnData2 
+2023-10-10 08:58:33，執行：static，isLiveSaveStatic 
+2023-10-10 08:58:36，執行：static，end 
+2023-10-10 08:58:37，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 08:58:39，執行：static，結束 
+2023-10-10 09:00:14，執行：static，開始 
+2023-10-10 09:00:15，執行：static，start 
+2023-10-10 09:00:27，執行：static，allTrueData count：2319 
+2023-10-10 09:00:28，執行：static，newTrueData count：44 
+2023-10-10 09:00:29，執行：static，falseData count：1132 
+2023-10-10 09:00:30，執行：static，onData OnData1 
+2023-10-10 09:01:19，執行：static，onData OnData2 
+2023-10-10 09:01:20，執行：static，isLiveSaveStatic 
+2023-10-10 09:01:23，執行：static，end 
+2023-10-10 09:01:24，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 09:01:25，執行：static，結束 
+2023-10-10 09:03:23，執行：static，開始 
+2023-10-10 09:03:25，執行：static，start 
+2023-10-10 09:03:37，執行：static，allTrueData count：2319 
+2023-10-10 09:03:40，執行：static，newTrueData count：44 
+2023-10-10 09:03:42，執行：static，falseData count：1132 
+2023-10-10 09:03:44，執行：static，onData OnData1 
+2023-10-10 09:04:33，執行：static，onData OnData2 
+2023-10-10 09:04:35，執行：static，isLiveSaveStatic 
+2023-10-10 09:04:38，執行：static，end 
+2023-10-10 09:04:39，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 09:04:41，執行：static，結束 
+2023-10-10 09:06:23，執行：static，開始 
+2023-10-10 09:06:24，執行：static，start 
+2023-10-10 09:06:37，執行：static，allTrueData count：2319 
+2023-10-10 09:06:38，執行：static，newTrueData count：44 
+2023-10-10 09:06:39，執行：static，falseData count：1132 
+2023-10-10 09:06:41，執行：static，onData OnData1 
+2023-10-10 09:07:34，執行：static，onData OnData2 
+2023-10-10 09:07:35，執行：static，isLiveSaveStatic 
+2023-10-10 09:07:38，執行：static，end 
+2023-10-10 09:07:39，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 09:07:40，執行：static，結束 
+2023-10-10 09:09:23，執行：static，開始 
+2023-10-10 09:09:24，執行：static，start 
+2023-10-10 09:09:37，執行：static，allTrueData count：2319 
+2023-10-10 09:09:38，執行：static，newTrueData count：44 
+2023-10-10 09:09:40，執行：static，falseData count：1132 
+2023-10-10 09:09:42，執行：static，onData OnData1 
+2023-10-10 09:10:31，執行：static，onData OnData2 
+2023-10-10 09:10:33，執行：static，isLiveSaveStatic 
+2023-10-10 09:10:36，執行：static，end 
+2023-10-10 09:10:37，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 09:10:39，執行：static，結束 
+2023-10-10 09:12:24，執行：static，開始 
+2023-10-10 09:12:26，執行：static，start 
+2023-10-10 09:12:39，執行：static，allTrueData count：2319 
+2023-10-10 09:12:40，執行：static，newTrueData count：44 
+2023-10-10 09:12:42，執行：static，falseData count：1132 
+2023-10-10 09:12:43，執行：static，onData OnData1 
+2023-10-10 09:13:35，執行：static，onData OnData2 
+2023-10-10 09:13:37，執行：static，isLiveSaveStatic 
+2023-10-10 09:13:40，執行：static，end 
+2023-10-10 09:13:41，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 09:13:43，執行：static，結束 
+2023-10-10 09:15:21，執行：static，開始 
+2023-10-10 09:15:23，執行：static，start 
+2023-10-10 09:15:35，執行：static，allTrueData count：2319 
+2023-10-10 09:15:37，執行：static，newTrueData count：44 
+2023-10-10 09:15:39，執行：static，falseData count：1132 
+2023-10-10 09:15:41，執行：static，onData OnData1 
+2023-10-10 09:16:31，執行：static，onData OnData2 
+2023-10-10 09:16:32，執行：static，isLiveSaveStatic 
+2023-10-10 09:16:35，執行：static，end 
+2023-10-10 09:16:37，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 09:16:38，執行：static，結束 
+2023-10-10 09:18:23，執行：static，開始 
+2023-10-10 09:18:25，執行：static，start 
+2023-10-10 09:18:37，執行：static，allTrueData count：2319 
+2023-10-10 09:18:39，執行：static，newTrueData count：44 
+2023-10-10 09:18:41，執行：static，falseData count：1132 
+2023-10-10 09:18:43，執行：static，onData OnData1 
+2023-10-10 09:19:30，執行：static，onData OnData2 
+2023-10-10 09:19:32，執行：static，isLiveSaveStatic 
+2023-10-10 09:19:34，執行：static，end 
+2023-10-10 09:19:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 09:19:37，執行：static，結束 
+2023-10-10 09:21:14，執行：static，開始 
+2023-10-10 09:21:15，執行：static，start 
+2023-10-10 09:21:27，執行：static，allTrueData count：2319 
+2023-10-10 09:21:28，執行：static，newTrueData count：44 
+2023-10-10 09:21:29，執行：static，falseData count：1132 
+2023-10-10 09:21:31，執行：static，onData OnData1 
+2023-10-10 09:22:20，執行：static，onData OnData2 
+2023-10-10 09:22:21，執行：static，isLiveSaveStatic 
+2023-10-10 09:22:23，執行：static，end 
+2023-10-10 09:22:25，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 09:22:26，執行：static，結束 
+2023-10-10 09:24:23，執行：static，開始 
+2023-10-10 09:24:24，執行：static，start 
+2023-10-10 09:24:37，執行：static，allTrueData count：2319 
+2023-10-10 09:24:38，執行：static，newTrueData count：44 
+2023-10-10 09:24:39，執行：static，falseData count：1132 
+2023-10-10 09:24:41，執行：static，onData OnData1 
+2023-10-10 09:25:32，執行：static，onData OnData2 
+2023-10-10 09:25:34，執行：static，isLiveSaveStatic 
+2023-10-10 09:25:38，執行：static，end 
+2023-10-10 09:25:39，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 09:25:43，執行：static，結束 
+2023-10-10 09:27:20，執行：static，開始 
+2023-10-10 09:27:22，執行：static，start 
+2023-10-10 09:27:34，執行：static，allTrueData count：2319 
+2023-10-10 09:27:35，執行：static，newTrueData count：44 
+2023-10-10 09:27:37，執行：static，falseData count：1132 
+2023-10-10 09:27:39，執行：static，onData OnData1 
+2023-10-10 09:28:29，執行：static，onData OnData2 
+2023-10-10 09:28:31，執行：static，isLiveSaveStatic 
+2023-10-10 09:28:34，執行：static，end 
+2023-10-10 09:28:36，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 09:28:37，執行：static，結束 
+2023-10-10 09:30:23，執行：static，開始 
+2023-10-10 09:30:24，執行：static，start 
+2023-10-10 09:30:37，執行：static，allTrueData count：2319 
+2023-10-10 09:30:39，執行：static，newTrueData count：44 
+2023-10-10 09:30:40，執行：static，falseData count：1132 
+2023-10-10 09:30:42，執行：static，onData OnData1 
+2023-10-10 09:31:32，執行：static，onData OnData2 
+2023-10-10 09:31:34，執行：static，isLiveSaveStatic 
+2023-10-10 09:31:37，執行：static，end 
+2023-10-10 09:31:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 09:31:40，執行：static，結束 
+2023-10-10 09:33:23，執行：static，開始 
+2023-10-10 09:33:24，執行：static，start 
+2023-10-10 09:33:36，執行：static，allTrueData count：2319 
+2023-10-10 09:33:37，執行：static，newTrueData count：44 
+2023-10-10 09:33:38，執行：static，falseData count：1132 
+2023-10-10 09:33:41，執行：static，onData OnData1 
+2023-10-10 09:34:30，執行：static，onData OnData2 
+2023-10-10 09:34:32，執行：static，isLiveSaveStatic 
+2023-10-10 09:34:35，執行：static，end 
+2023-10-10 09:34:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 09:34:37，執行：static，結束 
+2023-10-10 09:36:23，執行：static，開始 
+2023-10-10 09:36:25，執行：static，start 
+2023-10-10 09:36:37，執行：static，allTrueData count：2319 
+2023-10-10 09:36:39，執行：static，newTrueData count：44 
+2023-10-10 09:36:41，執行：static，falseData count：1132 
+2023-10-10 09:36:43，執行：static，onData OnData1 
+2023-10-10 09:37:28，執行：static，onData OnData2 
+2023-10-10 09:37:30，執行：static，isLiveSaveStatic 
+2023-10-10 09:37:33，執行：static，end 
+2023-10-10 09:37:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 09:37:35，執行：static，結束 
+2023-10-10 09:39:23，執行：static，開始 
+2023-10-10 09:39:25，執行：static，start 
+2023-10-10 09:39:37，執行：static，allTrueData count：2319 
+2023-10-10 09:39:38，執行：static，newTrueData count：44 
+2023-10-10 09:39:40，執行：static，falseData count：1132 
+2023-10-10 09:39:42，執行：static，onData OnData1 
+2023-10-10 09:40:31，執行：static，onData OnData2 
+2023-10-10 09:40:33，執行：static，isLiveSaveStatic 
+2023-10-10 09:40:36，執行：static，end 
+2023-10-10 09:40:37，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 09:40:39，執行：static，結束 
+2023-10-10 09:42:23，執行：static，開始 
+2023-10-10 09:42:24，執行：static，start 
+2023-10-10 09:42:37，執行：static，allTrueData count：2319 
+2023-10-10 09:42:38，執行：static，newTrueData count：44 
+2023-10-10 09:42:40，執行：static，falseData count：1132 
+2023-10-10 09:42:42，執行：static，onData OnData1 
+2023-10-10 09:43:30，執行：static，onData OnData2 
+2023-10-10 09:43:32，執行：static，isLiveSaveStatic 
+2023-10-10 09:43:35，執行：static，end 
+2023-10-10 09:43:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 09:43:37，執行：static，結束 
+2023-10-10 09:45:22，執行：static，開始 
+2023-10-10 09:45:23，執行：static，start 
+2023-10-10 09:45:36，執行：static，allTrueData count：2319 
+2023-10-10 09:45:38，執行：static，newTrueData count：44 
+2023-10-10 09:45:40，執行：static，falseData count：1132 
+2023-10-10 09:45:42，執行：static，onData OnData1 
+2023-10-10 09:46:27，執行：static，onData OnData2 
+2023-10-10 09:46:29，執行：static，isLiveSaveStatic 
+2023-10-10 09:46:32，執行：static，end 
+2023-10-10 09:46:33，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 09:46:34，執行：static，結束 
+2023-10-10 09:48:23，執行：static，開始 
+2023-10-10 09:48:25，執行：static，start 
+2023-10-10 09:48:37，執行：static，allTrueData count：2319 
+2023-10-10 09:48:38，執行：static，newTrueData count：44 
+2023-10-10 09:48:39，執行：static，falseData count：1132 
+2023-10-10 09:48:41，執行：static，onData OnData1 
+2023-10-10 09:49:25，執行：static，onData OnData2 
+2023-10-10 09:49:26，執行：static，isLiveSaveStatic 
+2023-10-10 09:49:29，執行：static，end 
+2023-10-10 09:49:31，執行：static，執行時間：0小時1分鐘7秒 
+2023-10-10 09:49:32，執行：static，結束 
+2023-10-10 09:51:23，執行：static，開始 
+2023-10-10 09:51:24，執行：static，start 
+2023-10-10 09:51:37，執行：static，allTrueData count：2319 
+2023-10-10 09:51:38，執行：static，newTrueData count：44 
+2023-10-10 09:51:39，執行：static，falseData count：1132 
+2023-10-10 09:51:41，執行：static，onData OnData1 
+2023-10-10 09:52:28，執行：static，onData OnData2 
+2023-10-10 09:52:30，執行：static，isLiveSaveStatic 
+2023-10-10 09:52:32，執行：static，end 
+2023-10-10 09:52:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 09:52:35，執行：static，結束 
+2023-10-10 09:54:23，執行：static，開始 
+2023-10-10 09:54:24，執行：static，start 
+2023-10-10 09:54:36，執行：static，allTrueData count：2319 
+2023-10-10 09:54:38，執行：static，newTrueData count：44 
+2023-10-10 09:54:40，執行：static，falseData count：1132 
+2023-10-10 09:54:42，執行：static，onData OnData1 
+2023-10-10 09:55:28，執行：static，onData OnData2 
+2023-10-10 09:55:30，執行：static，isLiveSaveStatic 
+2023-10-10 09:55:32，執行：static，end 
+2023-10-10 09:55:34，執行：static，執行時間：0小時1分鐘10秒 
+2023-10-10 09:55:35，執行：static，結束 
+2023-10-10 09:57:23，執行：static，開始 
+2023-10-10 09:57:24，執行：static，start 
+2023-10-10 09:57:37，執行：static，allTrueData count：2319 
+2023-10-10 09:57:38，執行：static，newTrueData count：44 
+2023-10-10 09:57:39，執行：static，falseData count：1132 
+2023-10-10 09:57:41，執行：static，onData OnData1 
+2023-10-10 09:58:29，執行：static，onData OnData2 
+2023-10-10 09:58:31，執行：static，isLiveSaveStatic 
+2023-10-10 09:58:34，執行：static，end 
+2023-10-10 09:58:35，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 09:58:37，執行：static，結束 
+2023-10-10 10:00:22，執行：static，開始 
+2023-10-10 10:00:24，執行：static，start 
+2023-10-10 10:00:37，執行：static，allTrueData count：2319 
+2023-10-10 10:00:38，執行：static，newTrueData count：44 
+2023-10-10 10:00:39，執行：static，falseData count：1132 
+2023-10-10 10:00:41，執行：static，onData OnData1 
+2023-10-10 10:01:30，執行：static，onData OnData2 
+2023-10-10 10:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 10:01:35，執行：static，end 
+2023-10-10 10:01:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 10:01:38，執行：static，結束 
+2023-10-10 10:03:21，執行：static，開始 
+2023-10-10 10:03:22，執行：static，start 
+2023-10-10 10:03:35，執行：static，allTrueData count：2319 
+2023-10-10 10:03:36，執行：static，newTrueData count：44 
+2023-10-10 10:03:37，執行：static，falseData count：1132 
+2023-10-10 10:03:39，執行：static，onData OnData1 
+2023-10-10 10:04:24，執行：static，onData OnData2 
+2023-10-10 10:04:25，執行：static，isLiveSaveStatic 
+2023-10-10 10:04:28，執行：static，end 
+2023-10-10 10:04:30，執行：static，執行時間：0小時1分鐘8秒 
+2023-10-10 10:04:31，執行：static，結束 
+2023-10-10 10:06:21，執行：static，開始 
+2023-10-10 10:06:22，執行：static，start 
+2023-10-10 10:06:35，執行：static，allTrueData count：2319 
+2023-10-10 10:06:36，執行：static，newTrueData count：44 
+2023-10-10 10:06:38，執行：static，falseData count：1132 
+2023-10-10 10:06:40，執行：static，onData OnData1 
+2023-10-10 10:07:27，執行：static，onData OnData2 
+2023-10-10 10:07:29，執行：static，isLiveSaveStatic 
+2023-10-10 10:07:32，執行：static，end 
+2023-10-10 10:07:34，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 10:07:36，執行：static，結束 
+2023-10-10 10:09:22，執行：static，開始 
+2023-10-10 10:09:23，執行：static，start 
+2023-10-10 10:09:36，執行：static，allTrueData count：2319 
+2023-10-10 10:09:37，執行：static，newTrueData count：44 
+2023-10-10 10:09:38，執行：static，falseData count：1132 
+2023-10-10 10:09:40，執行：static，onData OnData1 
+2023-10-10 10:10:30，執行：static，onData OnData2 
+2023-10-10 10:10:31，執行：static，isLiveSaveStatic 
+2023-10-10 10:10:34，執行：static，end 
+2023-10-10 10:10:36，執行：static，執行時間：0小時1分鐘13秒 
+2023-10-10 10:10:37，執行：static，結束 
+2023-10-10 10:12:22，執行：static，開始 
+2023-10-10 10:12:25，執行：static，start 
+2023-10-10 10:12:37，執行：static，allTrueData count：2319 
+2023-10-10 10:12:39，執行：static，newTrueData count：44 
+2023-10-10 10:12:41，執行：static，falseData count：1132 
+2023-10-10 10:12:42，執行：static，onData OnData1 
+2023-10-10 10:13:29，執行：static，onData OnData2 
+2023-10-10 10:13:30，執行：static，isLiveSaveStatic 
+2023-10-10 10:13:33，執行：static，end 
+2023-10-10 10:13:34，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 10:13:35，執行：static，結束 
+2023-10-10 10:15:23，執行：static，開始 
+2023-10-10 10:15:25，執行：static，start 
+2023-10-10 10:15:38，執行：static，allTrueData count：2319 
+2023-10-10 10:15:40，執行：static，newTrueData count：44 
+2023-10-10 10:15:41，執行：static，falseData count：1132 
+2023-10-10 10:15:43，執行：static，onData OnData1 
+2023-10-10 10:16:28，執行：static，onData OnData2 
+2023-10-10 10:16:30，執行：static，isLiveSaveStatic 
+2023-10-10 10:16:33，執行：static，end 
+2023-10-10 10:16:35，執行：static，執行時間：0小時1分鐘11秒 
+2023-10-10 10:16:36，執行：static，結束 
+2023-10-10 10:20:48，執行：static，開始 
+2023-10-10 10:20:50，執行：static，start 
+2023-10-10 10:21:03，執行：static，allTrueData count：2319 
+2023-10-10 10:21:04，執行：static，newTrueData count：44 
+2023-10-10 10:21:06，執行：static，falseData count：1132 
+2023-10-10 10:21:08，執行：static，onData OnData1 
+2023-10-10 10:21:57，執行：static，onData OnData2 
+2023-10-10 10:21:59，執行：static，isLiveSaveStatic 
+2023-10-10 10:22:02，執行：static，end 
+2023-10-10 10:22:03，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 10:22:05，執行：static，結束 
+2023-10-10 10:23:24，執行：static，開始 
+2023-10-10 10:23:26，執行：static，start 
+2023-10-10 10:23:38，執行：static，allTrueData count：2319 
+2023-10-10 10:23:39，執行：static，newTrueData count：44 
+2023-10-10 10:23:40，執行：static，falseData count：1132 
+2023-10-10 10:23:42，執行：static，onData OnData1 
+2023-10-10 10:24:32，執行：static，onData OnData2 
+2023-10-10 10:24:34，執行：static，isLiveSaveStatic 
+2023-10-10 10:24:38，執行：static，end 
+2023-10-10 10:24:40，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 10:24:41，執行：static，結束 
+2023-10-10 10:26:01，執行：static，開始 
+2023-10-10 10:26:03，執行：static，start 
+2023-10-10 10:26:17，執行：static，allTrueData count：2319 
+2023-10-10 10:26:19，執行：static，newTrueData count：44 
+2023-10-10 10:26:21，執行：static，falseData count：1132 
+2023-10-10 10:26:23，執行：static，onData OnData1 
+2023-10-10 10:27:16，執行：static，onData OnData2 
+2023-10-10 10:27:17，執行：static，isLiveSaveStatic 
+2023-10-10 10:27:20，執行：static，end 
+2023-10-10 10:27:22，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 10:27:23，執行：static，結束 
+2023-10-10 10:28:44，執行：static，開始 
+2023-10-10 10:28:46，執行：static，start 
+2023-10-10 10:28:58，執行：static，allTrueData count：2319 
+2023-10-10 10:28:59，執行：static，newTrueData count：44 
+2023-10-10 10:29:00，執行：static，falseData count：1132 
+2023-10-10 10:29:02，執行：static，onData OnData1 
+2023-10-10 10:29:52，執行：static，onData OnData2 
+2023-10-10 10:29:54，執行：static，isLiveSaveStatic 
+2023-10-10 10:29:57，執行：static，end 
+2023-10-10 10:29:58，執行：static，執行時間：0小時1分鐘14秒 
+2023-10-10 10:29:59，執行：static，結束 
+2023-10-10 10:31:17，執行：static，開始 
+2023-10-10 10:31:18，執行：static，start 
+2023-10-10 10:31:30，執行：static，allTrueData count：2319 
+2023-10-10 10:31:31，執行：static，newTrueData count：44 
+2023-10-10 10:31:33，執行：static，falseData count：1132 
+2023-10-10 10:31:34，執行：static，onData OnData1 
+2023-10-10 10:32:25，執行：static，onData OnData2 
+2023-10-10 10:32:27，執行：static，isLiveSaveStatic 
+2023-10-10 10:32:30，執行：static，end 
+2023-10-10 10:32:32，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 10:32:34，執行：static，結束 
+2023-10-10 10:33:47，執行：static，開始 
+2023-10-10 10:33:49，執行：static，start 
+2023-10-10 10:34:01，執行：static，allTrueData count：2319 
+2023-10-10 10:34:02，執行：static，newTrueData count：44 
+2023-10-10 10:34:03，執行：static，falseData count：1132 
+2023-10-10 10:34:05，執行：static，onData OnData1 
+2023-10-10 10:34:53，執行：static，onData OnData2 
+2023-10-10 10:34:55，執行：static，isLiveSaveStatic 
+2023-10-10 10:34:58，執行：static，end 
+2023-10-10 10:34:59，執行：static，執行時間：0小時1分鐘12秒 
+2023-10-10 10:35:01，執行：static，結束 
+2023-10-10 10:36:24，執行：static，開始 
+2023-10-10 10:36:26，執行：static，start 
+2023-10-10 10:36:39，執行：static，allTrueData count：2319 
+2023-10-10 10:36:41，執行：static，newTrueData count：44 
+2023-10-10 10:36:42，執行：static，falseData count：1132 
+2023-10-10 10:36:44，執行：static，onData OnData1 
+2023-10-10 10:37:36，執行：static，onData OnData2 
+2023-10-10 10:37:37，執行：static，isLiveSaveStatic 
+2023-10-10 10:37:40，執行：static，end 
+2023-10-10 10:37:41，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 10:37:43，執行：static，結束 
+2023-10-10 10:39:23，執行：static，開始 
+2023-10-10 10:39:24，執行：static，start 
+2023-10-10 10:39:36，執行：static，allTrueData count：2319 
+2023-10-10 10:39:38，執行：static，newTrueData count：44 
+2023-10-10 10:39:39，執行：static，falseData count：1132 
+2023-10-10 10:39:40，執行：static，onData OnData1 
+2023-10-10 10:40:32，執行：static，onData OnData2 
+2023-10-10 10:40:34，執行：static，isLiveSaveStatic 
+2023-10-10 10:40:37，執行：static，end 
+2023-10-10 10:40:39，執行：static，執行時間：0小時1分鐘15秒 
+2023-10-10 10:40:40，執行：static，結束 
+2023-10-10 10:42:24，執行：static，開始 
+2023-10-10 10:42:26，執行：static，start 
+2023-10-10 10:42:39，執行：static，allTrueData count：2319 
+2023-10-10 10:42:41，執行：static，newTrueData count：44 
+2023-10-10 10:42:42，執行：static，falseData count：1132 
+2023-10-10 10:42:44，執行：static，onData OnData1 
+2023-10-10 10:43:39，執行：static，onData OnData2 
+2023-10-10 10:43:41，執行：static，isLiveSaveStatic 
+2023-10-10 10:43:44，執行：static，end 
+2023-10-10 10:43:45，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 10:43:46，執行：static，結束 
+2023-10-10 10:45:23，執行：static，開始 
+2023-10-10 10:45:24，執行：static，start 
+2023-10-10 10:45:37，執行：static，allTrueData count：2319 
+2023-10-10 10:45:38，執行：static，newTrueData count：44 
+2023-10-10 10:45:39，執行：static，falseData count：1132 
+2023-10-10 10:45:41，執行：static，onData OnData1 
+2023-10-10 10:46:37，執行：static，onData OnData2 
+2023-10-10 10:46:39，執行：static，isLiveSaveStatic 
+2023-10-10 10:46:42，執行：static，end 
+2023-10-10 10:46:44，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 10:46:45，執行：static，結束 
+2023-10-10 10:48:14，執行：static，開始 
+2023-10-10 10:48:15，執行：static，start 
+2023-10-10 10:48:27，執行：static，allTrueData count：2319 
+2023-10-10 10:48:28，執行：static，newTrueData count：44 
+2023-10-10 10:48:29，執行：static，falseData count：1132 
+2023-10-10 10:48:31，執行：static，onData OnData1 
+2023-10-10 10:49:27，執行：static，onData OnData2 
+2023-10-10 10:49:28，執行：static，isLiveSaveStatic 
+2023-10-10 10:49:31，執行：static，end 
+2023-10-10 10:49:32，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 10:49:33，執行：static，結束 
+2023-10-10 10:51:20，執行：static，開始 
+2023-10-10 10:51:22，執行：static，start 
+2023-10-10 10:51:34，執行：static，allTrueData count：2319 
+2023-10-10 10:51:36，執行：static，newTrueData count：44 
+2023-10-10 10:51:37，執行：static，falseData count：1132 
+2023-10-10 10:51:39，執行：static，onData OnData1 
+2023-10-10 10:52:35，執行：static，onData OnData2 
+2023-10-10 10:52:37，執行：static，isLiveSaveStatic 
+2023-10-10 10:52:39，執行：static，end 
+2023-10-10 10:52:40，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 10:52:42，執行：static，結束 
+2023-10-10 10:54:23，執行：static，開始 
+2023-10-10 10:54:24，執行：static，start 
+2023-10-10 10:54:37，執行：static，allTrueData count：2319 
+2023-10-10 10:54:38，執行：static，newTrueData count：44 
+2023-10-10 10:54:39，執行：static，falseData count：1132 
+2023-10-10 10:54:41，執行：static，onData OnData1 
+2023-10-10 10:55:38，執行：static，onData OnData2 
+2023-10-10 10:55:39，執行：static，isLiveSaveStatic 
+2023-10-10 10:55:42，執行：static，end 
+2023-10-10 10:55:44，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 10:55:46，執行：static，結束 
+2023-10-10 10:57:23，執行：static，開始 
+2023-10-10 10:57:24，執行：static，start 
+2023-10-10 10:57:37，執行：static，allTrueData count：2319 
+2023-10-10 10:57:39，執行：static，newTrueData count：44 
+2023-10-10 10:57:40，執行：static，falseData count：1132 
+2023-10-10 10:57:43，執行：static，onData OnData1 
+2023-10-10 10:58:40，執行：static，onData OnData2 
+2023-10-10 10:58:41，執行：static，isLiveSaveStatic 
+2023-10-10 10:58:44，執行：static，end 
+2023-10-10 10:58:46，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 10:58:47，執行：static，結束 
+2023-10-10 11:00:22，執行：static，開始 
+2023-10-10 11:00:24，執行：static，start 
+2023-10-10 11:00:36，執行：static，allTrueData count：2319 
+2023-10-10 11:00:37，執行：static，newTrueData count：44 
+2023-10-10 11:00:39，執行：static，falseData count：1132 
+2023-10-10 11:00:41，執行：static，onData OnData1 
+2023-10-10 11:01:36，執行：static，onData OnData2 
+2023-10-10 11:01:37，執行：static，isLiveSaveStatic 
+2023-10-10 11:01:40，執行：static，end 
+2023-10-10 11:01:42，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 11:01:44，執行：static，結束 
+2023-10-10 11:03:21，執行：static，開始 
+2023-10-10 11:03:23，執行：static，start 
+2023-10-10 11:03:35，執行：static，allTrueData count：2319 
+2023-10-10 11:03:36，執行：static，newTrueData count：44 
+2023-10-10 11:03:37，執行：static，falseData count：1132 
+2023-10-10 11:03:40，執行：static，onData OnData1 
+2023-10-10 11:04:34，執行：static，onData OnData2 
+2023-10-10 11:04:35，執行：static，isLiveSaveStatic 
+2023-10-10 11:04:38，執行：static，end 
+2023-10-10 11:04:40，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 11:04:42，執行：static，結束 
+2023-10-10 11:06:14，執行：static，開始 
+2023-10-10 11:06:15，執行：static，start 
+2023-10-10 11:06:27，執行：static，allTrueData count：2319 
+2023-10-10 11:06:28，執行：static，newTrueData count：44 
+2023-10-10 11:06:30，執行：static，falseData count：1132 
+2023-10-10 11:06:32，執行：static，onData OnData1 
+2023-10-10 11:07:25，執行：static，onData OnData2 
+2023-10-10 11:07:26，執行：static，isLiveSaveStatic 
+2023-10-10 11:07:29，執行：static，end 
+2023-10-10 11:07:30，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 11:07:31，執行：static，結束 
+2023-10-10 11:09:24，執行：static，開始 
+2023-10-10 11:09:25，執行：static，start 
+2023-10-10 11:09:37，執行：static，allTrueData count：2319 
+2023-10-10 11:09:38，執行：static，newTrueData count：44 
+2023-10-10 11:09:40，執行：static，falseData count：1132 
+2023-10-10 11:09:42，執行：static，onData OnData1 
+2023-10-10 11:10:37，執行：static，onData OnData2 
+2023-10-10 11:10:39，執行：static，isLiveSaveStatic 
+2023-10-10 11:10:42，執行：static，end 
+2023-10-10 11:10:44，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 11:10:46，執行：static，結束 
+2023-10-10 11:12:22，執行：static，開始 
+2023-10-10 11:12:23，執行：static，start 
+2023-10-10 11:12:35，執行：static，allTrueData count：2319 
+2023-10-10 11:12:37，執行：static，newTrueData count：44 
+2023-10-10 11:12:38，執行：static，falseData count：1132 
+2023-10-10 11:12:40，執行：static，onData OnData1 
+2023-10-10 11:13:38，執行：static，onData OnData2 
+2023-10-10 11:13:40，執行：static，isLiveSaveStatic 
+2023-10-10 11:13:43，執行：static，end 
+2023-10-10 11:13:45，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 11:13:46，執行：static，結束 
+2023-10-10 11:15:24，執行：static，開始 
+2023-10-10 11:15:26，執行：static，start 
+2023-10-10 11:15:38，執行：static，allTrueData count：2319 
+2023-10-10 11:15:39，執行：static，newTrueData count：44 
+2023-10-10 11:15:41，執行：static，falseData count：1132 
+2023-10-10 11:15:43，執行：static，onData OnData1 
+2023-10-10 11:16:40，執行：static，onData OnData2 
+2023-10-10 11:16:42，執行：static，isLiveSaveStatic 
+2023-10-10 11:16:45，執行：static，end 
+2023-10-10 11:16:46，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 11:16:48，執行：static，結束 
+2023-10-10 11:18:24，執行：static，開始 
+2023-10-10 11:18:26，執行：static，start 
+2023-10-10 11:18:37，執行：static，allTrueData count：2319 
+2023-10-10 11:18:39，執行：static，newTrueData count：44 
+2023-10-10 11:18:40，執行：static，falseData count：1132 
+2023-10-10 11:18:43，執行：static，onData OnData1 
+2023-10-10 11:19:37，執行：static，onData OnData2 
+2023-10-10 11:19:39，執行：static，isLiveSaveStatic 
+2023-10-10 11:19:42，執行：static，end 
+2023-10-10 11:19:44，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 11:19:45，執行：static，結束 
+2023-10-10 11:21:23，執行：static，開始 
+2023-10-10 11:21:25，執行：static，start 
+2023-10-10 11:21:37，執行：static，allTrueData count：2319 
+2023-10-10 11:21:39，執行：static，newTrueData count：44 
+2023-10-10 11:21:40，執行：static，falseData count：1132 
+2023-10-10 11:21:42，執行：static，onData OnData1 
+2023-10-10 11:22:38，執行：static，onData OnData2 
+2023-10-10 11:22:40，執行：static，isLiveSaveStatic 
+2023-10-10 11:22:43，執行：static，end 
+2023-10-10 11:22:45，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 11:22:46，執行：static，結束 
+2023-10-10 11:24:23，執行：static，開始 
+2023-10-10 11:24:25，執行：static，start 
+2023-10-10 11:24:37，執行：static，allTrueData count：2319 
+2023-10-10 11:24:38，執行：static，newTrueData count：44 
+2023-10-10 11:24:40，執行：static，falseData count：1132 
+2023-10-10 11:24:41，執行：static，onData OnData1 
+2023-10-10 11:25:38，執行：static，onData OnData2 
+2023-10-10 11:25:40，執行：static，isLiveSaveStatic 
+2023-10-10 11:25:43，執行：static，end 
+2023-10-10 11:25:44，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 11:25:46，執行：static，結束 
+2023-10-10 11:27:16，執行：static，開始 
+2023-10-10 11:27:18，執行：static，start 
+2023-10-10 11:27:30，執行：static，allTrueData count：2319 
+2023-10-10 11:27:31，執行：static，newTrueData count：44 
+2023-10-10 11:27:32，執行：static，falseData count：1132 
+2023-10-10 11:27:34，執行：static，onData OnData1 
+2023-10-10 11:28:30，執行：static，onData OnData2 
+2023-10-10 11:28:31，執行：static，isLiveSaveStatic 
+2023-10-10 11:28:34，執行：static，end 
+2023-10-10 11:28:35，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 11:28:36，執行：static，結束 
+2023-10-10 11:30:21，執行：static，開始 
+2023-10-10 11:30:23，執行：static，start 
+2023-10-10 11:30:35，執行：static，allTrueData count：2319 
+2023-10-10 11:30:37，執行：static，newTrueData count：44 
+2023-10-10 11:30:38，執行：static，falseData count：1132 
+2023-10-10 11:30:40，執行：static，onData OnData1 
+2023-10-10 11:31:35，執行：static，onData OnData2 
+2023-10-10 11:31:37，執行：static，isLiveSaveStatic 
+2023-10-10 11:31:40，執行：static，end 
+2023-10-10 11:31:42，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 11:31:43，執行：static，結束 
+2023-10-10 11:33:22，執行：static，開始 
+2023-10-10 11:33:24，執行：static，start 
+2023-10-10 11:33:36，執行：static，allTrueData count：2319 
+2023-10-10 11:33:37，執行：static，newTrueData count：44 
+2023-10-10 11:33:38，執行：static，falseData count：1132 
+2023-10-10 11:33:40，執行：static，onData OnData1 
+2023-10-10 11:34:34，執行：static，onData OnData2 
+2023-10-10 11:34:37，執行：static，isLiveSaveStatic 
+2023-10-10 11:34:40，執行：static，end 
+2023-10-10 11:34:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 11:34:43，執行：static，結束 
+2023-10-10 11:36:20，執行：static，開始 
+2023-10-10 11:36:22，執行：static，start 
+2023-10-10 11:36:34，執行：static，allTrueData count：2319 
+2023-10-10 11:36:35，執行：static，newTrueData count：44 
+2023-10-10 11:36:37，執行：static，falseData count：1132 
+2023-10-10 11:36:39，執行：static，onData OnData1 
+2023-10-10 11:37:32，執行：static，onData OnData2 
+2023-10-10 11:37:33，執行：static，isLiveSaveStatic 
+2023-10-10 11:37:37，執行：static，end 
+2023-10-10 11:37:38，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 11:37:39，執行：static，結束 
+2023-10-10 11:39:23，執行：static，開始 
+2023-10-10 11:39:25，執行：static，start 
+2023-10-10 11:39:37，執行：static，allTrueData count：2319 
+2023-10-10 11:39:38，執行：static，newTrueData count：44 
+2023-10-10 11:39:39，執行：static，falseData count：1132 
+2023-10-10 11:39:41，執行：static，onData OnData1 
+2023-10-10 11:40:37，執行：static，onData OnData2 
+2023-10-10 11:40:38，執行：static，isLiveSaveStatic 
+2023-10-10 11:40:42，執行：static，end 
+2023-10-10 11:40:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 11:40:45，執行：static，結束 
+2023-10-10 11:42:23，執行：static，開始 
+2023-10-10 11:42:25，執行：static，start 
+2023-10-10 11:42:38，執行：static，allTrueData count：2319 
+2023-10-10 11:42:40，執行：static，newTrueData count：44 
+2023-10-10 11:42:42，執行：static，falseData count：1132 
+2023-10-10 11:42:44，執行：static，onData OnData1 
+2023-10-10 11:43:41，執行：static，onData OnData2 
+2023-10-10 11:43:43，執行：static，isLiveSaveStatic 
+2023-10-10 11:43:46，執行：static，end 
+2023-10-10 11:43:48，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 11:43:50，執行：static，結束 
+2023-10-10 11:45:24，執行：static，開始 
+2023-10-10 11:45:25，執行：static，start 
+2023-10-10 11:45:37，執行：static，allTrueData count：2319 
+2023-10-10 11:45:38，執行：static，newTrueData count：44 
+2023-10-10 11:45:40，執行：static，falseData count：1132 
+2023-10-10 11:45:43，執行：static，onData OnData1 
+2023-10-10 11:46:37，執行：static，onData OnData2 
+2023-10-10 11:46:39，執行：static，isLiveSaveStatic 
+2023-10-10 11:46:42，執行：static，end 
+2023-10-10 11:46:43，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 11:46:44，執行：static，結束 
+2023-10-10 11:48:14，執行：static，開始 
+2023-10-10 11:48:15，執行：static，start 
+2023-10-10 11:48:27，執行：static，allTrueData count：2319 
+2023-10-10 11:48:28，執行：static，newTrueData count：44 
+2023-10-10 11:48:29，執行：static，falseData count：1132 
+2023-10-10 11:48:31，執行：static，onData OnData1 
+2023-10-10 11:49:27，執行：static，onData OnData2 
+2023-10-10 11:49:28，執行：static，isLiveSaveStatic 
+2023-10-10 11:49:31，執行：static，end 
+2023-10-10 11:49:32，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 11:49:33，執行：static，結束 
+2023-10-10 11:51:18，執行：static，開始 
+2023-10-10 11:51:20，執行：static，start 
+2023-10-10 11:51:33，執行：static，allTrueData count：2319 
+2023-10-10 11:51:34，執行：static，newTrueData count：44 
+2023-10-10 11:51:36，執行：static，falseData count：1132 
+2023-10-10 11:51:38，執行：static，onData OnData1 
+2023-10-10 11:52:35，執行：static，onData OnData2 
+2023-10-10 11:52:36，執行：static，isLiveSaveStatic 
+2023-10-10 11:52:39，執行：static，end 
+2023-10-10 11:52:40，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 11:52:41，執行：static，結束 
+2023-10-10 11:54:22，執行：static，開始 
+2023-10-10 11:54:23，執行：static，start 
+2023-10-10 11:54:36，執行：static，allTrueData count：2319 
+2023-10-10 11:54:38，執行：static，newTrueData count：44 
+2023-10-10 11:54:39，執行：static，falseData count：1132 
+2023-10-10 11:54:42，執行：static，onData OnData1 
+2023-10-10 11:55:36，執行：static，onData OnData2 
+2023-10-10 11:55:38，執行：static，isLiveSaveStatic 
+2023-10-10 11:55:41，執行：static，end 
+2023-10-10 11:55:43，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 11:55:45，執行：static，結束 
+2023-10-10 11:57:22，執行：static，開始 
+2023-10-10 11:57:24，執行：static，start 
+2023-10-10 11:57:36，執行：static，allTrueData count：2319 
+2023-10-10 11:57:38，執行：static，newTrueData count：44 
+2023-10-10 11:57:39，執行：static，falseData count：1132 
+2023-10-10 11:57:41，執行：static，onData OnData1 
+2023-10-10 11:58:37，執行：static，onData OnData2 
+2023-10-10 11:58:40，執行：static，isLiveSaveStatic 
+2023-10-10 11:58:43，執行：static，end 
+2023-10-10 11:58:45，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 11:58:46，執行：static，結束 
+2023-10-10 12:00:18，執行：static，開始 
+2023-10-10 12:00:20，執行：static，start 
+2023-10-10 12:00:32，執行：static，allTrueData count：2319 
+2023-10-10 12:00:33，執行：static，newTrueData count：44 
+2023-10-10 12:00:35，執行：static，falseData count：1132 
+2023-10-10 12:00:37，執行：static，onData OnData1 
+2023-10-10 12:01:29，執行：static，onData OnData2 
+2023-10-10 12:01:31，執行：static，isLiveSaveStatic 
+2023-10-10 12:01:33，執行：static，end 
+2023-10-10 12:01:34，執行：static，執行時間：0小時1分鐘16秒 
+2023-10-10 12:01:36，執行：static，結束 
+2023-10-10 12:03:20，執行：static，開始 
+2023-10-10 12:03:22，執行：static，start 
+2023-10-10 12:03:34，執行：static，allTrueData count：2319 
+2023-10-10 12:03:35，執行：static，newTrueData count：44 
+2023-10-10 12:03:37，執行：static，falseData count：1132 
+2023-10-10 12:03:39，執行：static，onData OnData1 
+2023-10-10 12:04:34，執行：static，onData OnData2 
+2023-10-10 12:04:35，執行：static，isLiveSaveStatic 
+2023-10-10 12:04:38，執行：static，end 
+2023-10-10 12:04:39，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 12:04:41，執行：static，結束 
+2023-10-10 12:06:22，執行：static，開始 
+2023-10-10 12:06:23，執行：static，start 
+2023-10-10 12:06:35，執行：static，allTrueData count：2319 
+2023-10-10 12:06:37，執行：static，newTrueData count：44 
+2023-10-10 12:06:38，執行：static，falseData count：1132 
+2023-10-10 12:06:40，執行：static，onData OnData1 
+2023-10-10 12:07:35，執行：static，onData OnData2 
+2023-10-10 12:07:38，執行：static，isLiveSaveStatic 
+2023-10-10 12:07:41，執行：static，end 
+2023-10-10 12:07:42，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 12:07:44，執行：static，結束 
+2023-10-10 12:09:16，執行：static，開始 
+2023-10-10 12:09:18，執行：static，start 
+2023-10-10 12:09:29，執行：static，allTrueData count：2319 
+2023-10-10 12:09:30，執行：static，newTrueData count：44 
+2023-10-10 12:09:32，執行：static，falseData count：1132 
+2023-10-10 12:09:33，執行：static，onData OnData1 
+2023-10-10 12:10:27，執行：static，onData OnData2 
+2023-10-10 12:10:29，執行：static，isLiveSaveStatic 
+2023-10-10 12:10:32，執行：static，end 
+2023-10-10 12:10:33，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 12:10:35，執行：static，結束 
+2023-10-10 12:12:20，執行：static，開始 
+2023-10-10 12:12:21，執行：static，start 
+2023-10-10 12:12:34，執行：static，allTrueData count：2319 
+2023-10-10 12:12:35，執行：static，newTrueData count：44 
+2023-10-10 12:12:36，執行：static，falseData count：1132 
+2023-10-10 12:12:38，執行：static，onData OnData1 
+2023-10-10 12:13:35，執行：static，onData OnData2 
+2023-10-10 12:13:37，執行：static，isLiveSaveStatic 
+2023-10-10 12:13:40，執行：static，end 
+2023-10-10 12:13:42，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 12:13:44，執行：static，結束 
+2023-10-10 12:15:21，執行：static，開始 
+2023-10-10 12:15:23，執行：static，start 
+2023-10-10 12:15:35，執行：static，allTrueData count：2319 
+2023-10-10 12:15:37，執行：static，newTrueData count：44 
+2023-10-10 12:15:38，執行：static，falseData count：1132 
+2023-10-10 12:15:40，執行：static，onData OnData1 
+2023-10-10 12:16:37，執行：static，onData OnData2 
+2023-10-10 12:16:38，執行：static，isLiveSaveStatic 
+2023-10-10 12:16:41，執行：static，end 
+2023-10-10 12:16:42，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 12:16:44，執行：static，結束 
+2023-10-10 12:18:19，執行：static，開始 
+2023-10-10 12:18:21，執行：static，start 
+2023-10-10 12:18:34，執行：static，allTrueData count：2319 
+2023-10-10 12:18:35，執行：static，newTrueData count：44 
+2023-10-10 12:18:37，執行：static，falseData count：1132 
+2023-10-10 12:18:39，執行：static，onData OnData1 
+2023-10-10 12:19:38，執行：static，onData OnData2 
+2023-10-10 12:19:40，執行：static，isLiveSaveStatic 
+2023-10-10 12:19:43，執行：static，end 
+2023-10-10 12:19:44，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 12:19:46，執行：static，結束 
+2023-10-10 12:21:20，執行：static，開始 
+2023-10-10 12:21:22，執行：static，start 
+2023-10-10 12:21:34，執行：static，allTrueData count：2319 
+2023-10-10 12:21:35，執行：static，newTrueData count：44 
+2023-10-10 12:21:36，執行：static，falseData count：1132 
+2023-10-10 12:21:38，執行：static，onData OnData1 
+2023-10-10 12:22:33，執行：static，onData OnData2 
+2023-10-10 12:22:35，執行：static，isLiveSaveStatic 
+2023-10-10 12:22:38，執行：static，end 
+2023-10-10 12:22:39，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 12:22:41，執行：static，結束 
+2023-10-10 12:24:22，執行：static，開始 
+2023-10-10 12:24:23，執行：static，start 
+2023-10-10 12:24:36，執行：static，allTrueData count：2319 
+2023-10-10 12:24:37，執行：static，newTrueData count：44 
+2023-10-10 12:24:38，執行：static，falseData count：1132 
+2023-10-10 12:24:41，執行：static，onData OnData1 
+2023-10-10 12:25:36，執行：static，onData OnData2 
+2023-10-10 12:25:38，執行：static，isLiveSaveStatic 
+2023-10-10 12:25:41，執行：static，end 
+2023-10-10 12:25:42，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 12:25:43，執行：static，結束 
+2023-10-10 12:27:23，執行：static，開始 
+2023-10-10 12:27:24，執行：static，start 
+2023-10-10 12:27:37，執行：static，allTrueData count：2319 
+2023-10-10 12:27:38，執行：static，newTrueData count：44 
+2023-10-10 12:27:40，執行：static，falseData count：1132 
+2023-10-10 12:27:42，執行：static，onData OnData1 
+2023-10-10 12:28:42，執行：static，onData OnData2 
+2023-10-10 12:28:44，執行：static，isLiveSaveStatic 
+2023-10-10 12:28:47，執行：static，end 
+2023-10-10 12:28:49，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 12:28:51，執行：static，結束 
+2023-10-10 12:30:19，執行：static，開始 
+2023-10-10 12:30:21，執行：static，start 
+2023-10-10 12:30:34，執行：static，allTrueData count：2319 
+2023-10-10 12:30:35，執行：static，newTrueData count：44 
+2023-10-10 12:30:37，執行：static，falseData count：1132 
+2023-10-10 12:30:39，執行：static，onData OnData1 
+2023-10-10 12:31:37，執行：static，onData OnData2 
+2023-10-10 12:31:38，執行：static，isLiveSaveStatic 
+2023-10-10 12:31:41，執行：static，end 
+2023-10-10 12:31:42，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 12:31:43，執行：static，結束 
+2023-10-10 12:33:21，執行：static，開始 
+2023-10-10 12:33:23，執行：static，start 
+2023-10-10 12:33:35，執行：static，allTrueData count：2319 
+2023-10-10 12:33:37，執行：static，newTrueData count：44 
+2023-10-10 12:33:38，執行：static，falseData count：1132 
+2023-10-10 12:33:40，執行：static，onData OnData1 
+2023-10-10 12:34:38，執行：static，onData OnData2 
+2023-10-10 12:34:40，執行：static，isLiveSaveStatic 
+2023-10-10 12:34:43，執行：static，end 
+2023-10-10 12:34:45，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 12:34:46，執行：static，結束 
+2023-10-10 12:36:22，執行：static，開始 
+2023-10-10 12:36:24，執行：static，start 
+2023-10-10 12:36:35，執行：static，allTrueData count：2319 
+2023-10-10 12:36:37，執行：static，newTrueData count：44 
+2023-10-10 12:36:38，執行：static，falseData count：1132 
+2023-10-10 12:36:40，執行：static，onData OnData1 
+2023-10-10 12:37:34，執行：static，onData OnData2 
+2023-10-10 12:37:35，執行：static，isLiveSaveStatic 
+2023-10-10 12:37:38，執行：static，end 
+2023-10-10 12:37:40，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 12:37:41，執行：static，結束 
+2023-10-10 12:39:20，執行：static，開始 
+2023-10-10 12:39:21，執行：static，start 
+2023-10-10 12:39:33，執行：static，allTrueData count：2319 
+2023-10-10 12:39:35，執行：static，newTrueData count：44 
+2023-10-10 12:39:36，執行：static，falseData count：1132 
+2023-10-10 12:39:38，執行：static，onData OnData1 
+2023-10-10 12:40:32，執行：static，onData OnData2 
+2023-10-10 12:40:35，執行：static，isLiveSaveStatic 
+2023-10-10 12:40:37，執行：static，end 
+2023-10-10 12:40:39，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 12:40:40，執行：static，結束 
+2023-10-10 12:42:22，執行：static，開始 
+2023-10-10 12:42:24，執行：static，start 
+2023-10-10 12:42:36，執行：static，allTrueData count：2319 
+2023-10-10 12:42:37，執行：static，newTrueData count：44 
+2023-10-10 12:42:39，執行：static，falseData count：1132 
+2023-10-10 12:42:41，執行：static，onData OnData1 
+2023-10-10 12:43:35，執行：static，onData OnData2 
+2023-10-10 12:43:36，執行：static，isLiveSaveStatic 
+2023-10-10 12:43:40，執行：static，end 
+2023-10-10 12:43:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 12:43:42，執行：static，結束 
+2023-10-10 12:45:23，執行：static，開始 
+2023-10-10 12:45:24，執行：static，start 
+2023-10-10 12:45:37，執行：static，allTrueData count：2319 
+2023-10-10 12:45:39，執行：static，newTrueData count：44 
+2023-10-10 12:45:40，執行：static，falseData count：1132 
+2023-10-10 12:45:42，執行：static，onData OnData1 
+2023-10-10 12:46:41，執行：static，onData OnData2 
+2023-10-10 12:46:43，執行：static，isLiveSaveStatic 
+2023-10-10 12:46:46，執行：static，end 
+2023-10-10 12:46:48，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 12:46:49，執行：static，結束 
+2023-10-10 12:48:22，執行：static，開始 
+2023-10-10 12:48:24，執行：static，start 
+2023-10-10 12:48:37，執行：static，allTrueData count：2319 
+2023-10-10 12:48:38，執行：static，newTrueData count：44 
+2023-10-10 12:48:39，執行：static，falseData count：1132 
+2023-10-10 12:48:41，執行：static，onData OnData1 
+2023-10-10 12:49:39，執行：static，onData OnData2 
+2023-10-10 12:49:40，執行：static，isLiveSaveStatic 
+2023-10-10 12:49:43，執行：static，end 
+2023-10-10 12:49:44，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 12:49:45，執行：static，結束 
+2023-10-10 12:51:21，執行：static，開始 
+2023-10-10 12:51:23，執行：static，start 
+2023-10-10 12:51:35，執行：static，allTrueData count：2319 
+2023-10-10 12:51:37，執行：static，newTrueData count：44 
+2023-10-10 12:51:38，執行：static，falseData count：1132 
+2023-10-10 12:51:40，執行：static，onData OnData1 
+2023-10-10 12:52:35，執行：static，onData OnData2 
+2023-10-10 12:52:37，執行：static，isLiveSaveStatic 
+2023-10-10 12:52:40，執行：static，end 
+2023-10-10 12:52:42，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 12:52:44，執行：static，結束 
+2023-10-10 12:54:22，執行：static，開始 
+2023-10-10 12:54:24，執行：static，start 
+2023-10-10 12:54:36，執行：static，allTrueData count：2319 
+2023-10-10 12:54:37，執行：static，newTrueData count：44 
+2023-10-10 12:54:39，執行：static，falseData count：1132 
+2023-10-10 12:54:41，執行：static，onData OnData1 
+2023-10-10 12:55:34，執行：static，onData OnData2 
+2023-10-10 12:55:36，執行：static，isLiveSaveStatic 
+2023-10-10 12:55:39，執行：static，end 
+2023-10-10 12:55:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 12:55:42，執行：static，結束 
+2023-10-10 12:57:21，執行：static，開始 
+2023-10-10 12:57:22，執行：static，start 
+2023-10-10 12:57:34，執行：static，allTrueData count：2319 
+2023-10-10 12:57:36，執行：static，newTrueData count：44 
+2023-10-10 12:57:37，執行：static，falseData count：1132 
+2023-10-10 12:57:39，執行：static，onData OnData1 
+2023-10-10 12:58:35，執行：static，onData OnData2 
+2023-10-10 12:58:37，執行：static，isLiveSaveStatic 
+2023-10-10 12:58:39，執行：static，end 
+2023-10-10 12:58:41，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 12:58:42，執行：static，結束 
+2023-10-10 13:00:21，執行：static，開始 
+2023-10-10 13:00:23，執行：static，start 
+2023-10-10 13:00:35，執行：static，allTrueData count：2319 
+2023-10-10 13:00:37，執行：static，newTrueData count：44 
+2023-10-10 13:00:38，執行：static，falseData count：1132 
+2023-10-10 13:00:40，執行：static，onData OnData1 
+2023-10-10 13:01:36，執行：static，onData OnData2 
+2023-10-10 13:01:38，執行：static，isLiveSaveStatic 
+2023-10-10 13:01:41，執行：static，end 
+2023-10-10 13:01:42，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:01:44，執行：static，結束 
+2023-10-10 13:03:22，執行：static，開始 
+2023-10-10 13:03:24，執行：static，start 
+2023-10-10 13:03:37，執行：static，allTrueData count：2319 
+2023-10-10 13:03:38，執行：static，newTrueData count：44 
+2023-10-10 13:03:40，執行：static，falseData count：1132 
+2023-10-10 13:03:42，執行：static，onData OnData1 
+2023-10-10 13:04:38，執行：static，onData OnData2 
+2023-10-10 13:04:40，執行：static，isLiveSaveStatic 
+2023-10-10 13:04:42，執行：static，end 
+2023-10-10 13:04:43，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:04:45，執行：static，結束 
+2023-10-10 13:06:22，執行：static，開始 
+2023-10-10 13:06:24，執行：static，start 
+2023-10-10 13:06:36，執行：static，allTrueData count：2319 
+2023-10-10 13:06:37，執行：static，newTrueData count：44 
+2023-10-10 13:06:39，執行：static，falseData count：1132 
+2023-10-10 13:06:41，執行：static，onData OnData1 
+2023-10-10 13:07:36，執行：static，onData OnData2 
+2023-10-10 13:07:38，執行：static，isLiveSaveStatic 
+2023-10-10 13:07:41，執行：static，end 
+2023-10-10 13:07:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 13:07:44，執行：static，結束 
+2023-10-10 13:09:23，執行：static，開始 
+2023-10-10 13:09:25，執行：static，start 
+2023-10-10 13:09:37，執行：static，allTrueData count：2319 
+2023-10-10 13:09:39，執行：static，newTrueData count：44 
+2023-10-10 13:09:40，執行：static，falseData count：1132 
+2023-10-10 13:09:43，執行：static，onData OnData1 
+2023-10-10 13:10:34，執行：static，onData OnData2 
+2023-10-10 13:10:37，執行：static，isLiveSaveStatic 
+2023-10-10 13:10:40，執行：static，end 
+2023-10-10 13:10:42，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 13:10:44，執行：static，結束 
+2023-10-10 13:12:23，執行：static，開始 
+2023-10-10 13:12:24，執行：static，start 
+2023-10-10 13:12:37，執行：static，allTrueData count：2319 
+2023-10-10 13:12:39，執行：static，newTrueData count：44 
+2023-10-10 13:12:41，執行：static，falseData count：1132 
+2023-10-10 13:12:43，執行：static，onData OnData1 
+2023-10-10 13:13:40，執行：static，onData OnData2 
+2023-10-10 13:13:42，執行：static，isLiveSaveStatic 
+2023-10-10 13:13:45，執行：static，end 
+2023-10-10 13:13:47，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 13:13:48，執行：static，結束 
+2023-10-10 13:15:24，執行：static，開始 
+2023-10-10 13:15:25，執行：static，start 
+2023-10-10 13:15:37，執行：static，allTrueData count：2319 
+2023-10-10 13:15:39，執行：static，newTrueData count：44 
+2023-10-10 13:15:41，執行：static，falseData count：1132 
+2023-10-10 13:15:43，執行：static，onData OnData1 
+2023-10-10 13:16:40，執行：static，onData OnData2 
+2023-10-10 13:16:43，執行：static，isLiveSaveStatic 
+2023-10-10 13:16:46，執行：static，end 
+2023-10-10 13:16:48，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 13:16:49，執行：static，結束 
+2023-10-10 13:18:21，執行：static，開始 
+2023-10-10 13:18:22，執行：static，start 
+2023-10-10 13:18:34，執行：static，allTrueData count：2319 
+2023-10-10 13:18:36，執行：static，newTrueData count：44 
+2023-10-10 13:18:37，執行：static，falseData count：1132 
+2023-10-10 13:18:39，執行：static，onData OnData1 
+2023-10-10 13:19:32，執行：static，onData OnData2 
+2023-10-10 13:19:34，執行：static，isLiveSaveStatic 
+2023-10-10 13:19:37，執行：static，end 
+2023-10-10 13:19:38，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 13:19:40，執行：static，結束 
+2023-10-10 13:21:23，執行：static，開始 
+2023-10-10 13:21:24，執行：static，start 
+2023-10-10 13:21:37，執行：static，allTrueData count：2319 
+2023-10-10 13:21:38，執行：static，newTrueData count：44 
+2023-10-10 13:21:40，執行：static，falseData count：1132 
+2023-10-10 13:21:42，執行：static，onData OnData1 
+2023-10-10 13:22:39，執行：static，onData OnData2 
+2023-10-10 13:22:41，執行：static，isLiveSaveStatic 
+2023-10-10 13:22:43，執行：static，end 
+2023-10-10 13:22:45，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:22:46，執行：static，結束 
+2023-10-10 13:24:24，執行：static，開始 
+2023-10-10 13:24:25，執行：static，start 
+2023-10-10 13:24:38，執行：static，allTrueData count：2319 
+2023-10-10 13:24:40，執行：static，newTrueData count：44 
+2023-10-10 13:24:42，執行：static，falseData count：1132 
+2023-10-10 13:24:44，執行：static，onData OnData1 
+2023-10-10 13:25:39，執行：static，onData OnData2 
+2023-10-10 13:25:40，執行：static，isLiveSaveStatic 
+2023-10-10 13:25:43，執行：static，end 
+2023-10-10 13:25:44，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 13:25:45，執行：static，結束 
+2023-10-10 13:27:21，執行：static，開始 
+2023-10-10 13:27:23，執行：static，start 
+2023-10-10 13:27:35，執行：static，allTrueData count：2319 
+2023-10-10 13:27:37，執行：static，newTrueData count：44 
+2023-10-10 13:27:39，執行：static，falseData count：1132 
+2023-10-10 13:27:41，執行：static，onData OnData1 
+2023-10-10 13:28:38，執行：static，onData OnData2 
+2023-10-10 13:28:39，執行：static，isLiveSaveStatic 
+2023-10-10 13:28:41，執行：static，end 
+2023-10-10 13:28:43，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 13:28:45，執行：static，結束 
+2023-10-10 13:30:14，執行：static，開始 
+2023-10-10 13:30:16，執行：static，start 
+2023-10-10 13:30:28，執行：static，allTrueData count：2319 
+2023-10-10 13:30:29，執行：static，newTrueData count：44 
+2023-10-10 13:30:31，執行：static，falseData count：1132 
+2023-10-10 13:30:33，執行：static，onData OnData1 
+2023-10-10 13:31:30，執行：static，onData OnData2 
+2023-10-10 13:31:31，執行：static，isLiveSaveStatic 
+2023-10-10 13:31:34，執行：static，end 
+2023-10-10 13:31:35，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:31:37，執行：static，結束 
+2023-10-10 13:33:17，執行：static，開始 
+2023-10-10 13:33:19，執行：static，start 
+2023-10-10 13:33:32，執行：static，allTrueData count：2319 
+2023-10-10 13:33:33，執行：static，newTrueData count：44 
+2023-10-10 13:33:34，執行：static，falseData count：1132 
+2023-10-10 13:33:36，執行：static，onData OnData1 
+2023-10-10 13:34:30，執行：static，onData OnData2 
+2023-10-10 13:34:32，執行：static，isLiveSaveStatic 
+2023-10-10 13:34:35，執行：static，end 
+2023-10-10 13:34:36，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 13:34:37，執行：static，結束 
+2023-10-10 13:36:19，執行：static，開始 
+2023-10-10 13:36:21，執行：static，start 
+2023-10-10 13:36:33，執行：static，allTrueData count：2319 
+2023-10-10 13:36:35，執行：static，newTrueData count：44 
+2023-10-10 13:36:37，執行：static，falseData count：1132 
+2023-10-10 13:36:39，執行：static，onData OnData1 
+2023-10-10 13:37:35，執行：static，onData OnData2 
+2023-10-10 13:37:37，執行：static，isLiveSaveStatic 
+2023-10-10 13:37:39，執行：static，end 
+2023-10-10 13:37:41，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:37:42，執行：static，結束 
+2023-10-10 13:39:22，執行：static，開始 
+2023-10-10 13:39:24，執行：static，start 
+2023-10-10 13:39:37，執行：static，allTrueData count：2319 
+2023-10-10 13:39:38，執行：static，newTrueData count：44 
+2023-10-10 13:39:39，執行：static，falseData count：1132 
+2023-10-10 13:39:41，執行：static，onData OnData1 
+2023-10-10 13:40:38，執行：static，onData OnData2 
+2023-10-10 13:40:41，執行：static，isLiveSaveStatic 
+2023-10-10 13:40:44，執行：static，end 
+2023-10-10 13:40:46，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 13:40:48，執行：static，結束 
+2023-10-10 13:42:13，執行：static，開始 
+2023-10-10 13:42:15，執行：static，start 
+2023-10-10 13:42:27，執行：static，allTrueData count：2319 
+2023-10-10 13:42:29，執行：static，newTrueData count：44 
+2023-10-10 13:42:30，執行：static，falseData count：1132 
+2023-10-10 13:42:32，執行：static，onData OnData1 
+2023-10-10 13:43:30，執行：static，onData OnData2 
+2023-10-10 13:43:31，執行：static，isLiveSaveStatic 
+2023-10-10 13:43:34，執行：static，end 
+2023-10-10 13:43:35，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 13:43:37，執行：static，結束 
+2023-10-10 13:45:22，執行：static，開始 
+2023-10-10 13:45:24，執行：static，start 
+2023-10-10 13:45:37，執行：static，allTrueData count：2319 
+2023-10-10 13:45:38，執行：static，newTrueData count：44 
+2023-10-10 13:45:40，執行：static，falseData count：1132 
+2023-10-10 13:45:42，執行：static，onData OnData1 
+2023-10-10 13:46:37，執行：static，onData OnData2 
+2023-10-10 13:46:38，執行：static，isLiveSaveStatic 
+2023-10-10 13:46:41，執行：static，end 
+2023-10-10 13:46:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 13:46:44，執行：static，結束 
+2023-10-10 13:48:14，執行：static，開始 
+2023-10-10 13:48:16，執行：static，start 
+2023-10-10 13:48:29，執行：static，allTrueData count：2319 
+2023-10-10 13:48:30，執行：static，newTrueData count：44 
+2023-10-10 13:48:32，執行：static，falseData count：1132 
+2023-10-10 13:48:33，執行：static，onData OnData1 
+2023-10-10 13:49:30，執行：static，onData OnData2 
+2023-10-10 13:49:32，執行：static，isLiveSaveStatic 
+2023-10-10 13:49:34，執行：static，end 
+2023-10-10 13:49:36，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 13:49:37，執行：static，結束 
+2023-10-10 13:51:24，執行：static，開始 
+2023-10-10 13:51:25，執行：static，start 
+2023-10-10 13:51:38，執行：static，allTrueData count：2319 
+2023-10-10 13:51:39，執行：static，newTrueData count：44 
+2023-10-10 13:51:41，執行：static，falseData count：1132 
+2023-10-10 13:51:43，執行：static，onData OnData1 
+2023-10-10 13:52:36，執行：static，onData OnData2 
+2023-10-10 13:52:38，執行：static，isLiveSaveStatic 
+2023-10-10 13:52:42，執行：static，end 
+2023-10-10 13:52:43，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 13:52:45，執行：static，結束 
+2023-10-10 13:54:23，執行：static，開始 
+2023-10-10 13:54:24，執行：static，start 
+2023-10-10 13:54:37，執行：static，allTrueData count：2319 
+2023-10-10 13:54:38，執行：static，newTrueData count：44 
+2023-10-10 13:54:40，執行：static，falseData count：1132 
+2023-10-10 13:54:42，執行：static，onData OnData1 
+2023-10-10 13:55:36，執行：static，onData OnData2 
+2023-10-10 13:55:37，執行：static，isLiveSaveStatic 
+2023-10-10 13:55:40，執行：static，end 
+2023-10-10 13:55:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 13:55:43，執行：static，結束 
+2023-10-10 13:57:24，執行：static，開始 
+2023-10-10 13:57:25，執行：static，start 
+2023-10-10 13:57:38，執行：static，allTrueData count：2319 
+2023-10-10 13:57:40，執行：static，newTrueData count：44 
+2023-10-10 13:57:41，執行：static，falseData count：1132 
+2023-10-10 13:57:44，執行：static，onData OnData1 
+2023-10-10 13:58:40，執行：static，onData OnData2 
+2023-10-10 13:58:43，執行：static，isLiveSaveStatic 
+2023-10-10 13:58:46，執行：static，end 
+2023-10-10 13:58:48，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 13:58:49，執行：static，結束 
+2023-10-10 14:00:15，執行：static，開始 
+2023-10-10 14:00:16，執行：static，start 
+2023-10-10 14:00:29，執行：static，allTrueData count：2319 
+2023-10-10 14:00:30，執行：static，newTrueData count：44 
+2023-10-10 14:00:32，執行：static，falseData count：1132 
+2023-10-10 14:00:33，執行：static，onData OnData1 
+2023-10-10 14:01:31，執行：static，onData OnData2 
+2023-10-10 14:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 14:01:35，執行：static，end 
+2023-10-10 14:01:36，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 14:01:37，執行：static，結束 
+2023-10-10 14:03:23，執行：static，開始 
+2023-10-10 14:03:24，執行：static，start 
+2023-10-10 14:03:37，執行：static，allTrueData count：2319 
+2023-10-10 14:03:39，執行：static，newTrueData count：44 
+2023-10-10 14:03:41，執行：static，falseData count：1132 
+2023-10-10 14:03:43，執行：static，onData OnData1 
+2023-10-10 14:04:40，執行：static，onData OnData2 
+2023-10-10 14:04:42，執行：static，isLiveSaveStatic 
+2023-10-10 14:04:45，執行：static，end 
+2023-10-10 14:04:47，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 14:04:49，執行：static，結束 
+2023-10-10 14:06:14，執行：static，開始 
+2023-10-10 14:06:16，執行：static，start 
+2023-10-10 14:06:28，執行：static，allTrueData count：2319 
+2023-10-10 14:06:30，執行：static，newTrueData count：44 
+2023-10-10 14:06:31，執行：static，falseData count：1132 
+2023-10-10 14:06:33，執行：static，onData OnData1 
+2023-10-10 14:07:27，執行：static，onData OnData2 
+2023-10-10 14:07:28，執行：static，isLiveSaveStatic 
+2023-10-10 14:07:31，執行：static，end 
+2023-10-10 14:07:33，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 14:07:34，執行：static，結束 
+2023-10-10 14:09:24，執行：static，開始 
+2023-10-10 14:09:25，執行：static，start 
+2023-10-10 14:09:38，執行：static，allTrueData count：2319 
+2023-10-10 14:09:39，執行：static，newTrueData count：44 
+2023-10-10 14:09:41，執行：static，falseData count：1132 
+2023-10-10 14:09:43，執行：static，onData OnData1 
+2023-10-10 14:10:41，執行：static，onData OnData2 
+2023-10-10 14:10:44，執行：static，isLiveSaveStatic 
+2023-10-10 14:10:47，執行：static，end 
+2023-10-10 14:10:49，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 14:10:50，執行：static，結束 
+2023-10-10 14:12:23，執行：static，開始 
+2023-10-10 14:12:25，執行：static，start 
+2023-10-10 14:12:37，執行：static，allTrueData count：2319 
+2023-10-10 14:12:38，執行：static，newTrueData count：44 
+2023-10-10 14:12:40，執行：static，falseData count：1132 
+2023-10-10 14:12:42，執行：static，onData OnData1 
+2023-10-10 14:13:39，執行：static，onData OnData2 
+2023-10-10 14:13:41，執行：static，isLiveSaveStatic 
+2023-10-10 14:13:44，執行：static，end 
+2023-10-10 14:13:45，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 14:13:47，執行：static，結束 
+2023-10-10 14:15:21，執行：static，開始 
+2023-10-10 14:15:23，執行：static，start 
+2023-10-10 14:15:35，執行：static，allTrueData count：2319 
+2023-10-10 14:15:37，執行：static，newTrueData count：44 
+2023-10-10 14:15:38，執行：static，falseData count：1132 
+2023-10-10 14:15:41，執行：static，onData OnData1 
+2023-10-10 14:16:36，執行：static，onData OnData2 
+2023-10-10 14:16:38，執行：static，isLiveSaveStatic 
+2023-10-10 14:16:41，執行：static，end 
+2023-10-10 14:16:42，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 14:16:44，執行：static，結束 
+2023-10-10 14:18:14，執行：static，開始 
+2023-10-10 14:18:15，執行：static，start 
+2023-10-10 14:18:27，執行：static，allTrueData count：2319 
+2023-10-10 14:18:28，執行：static，newTrueData count：44 
+2023-10-10 14:18:30，執行：static，falseData count：1132 
+2023-10-10 14:18:32，執行：static，onData OnData1 
+2023-10-10 14:19:26，執行：static，onData OnData2 
+2023-10-10 14:19:27，執行：static，isLiveSaveStatic 
+2023-10-10 14:19:30，執行：static，end 
+2023-10-10 14:19:31，執行：static，執行時間：0小時1分鐘17秒 
+2023-10-10 14:19:33，執行：static，結束 
+2023-10-10 14:21:23，執行：static，開始 
+2023-10-10 14:21:25，執行：static，start 
+2023-10-10 14:21:37，執行：static，allTrueData count：2319 
+2023-10-10 14:21:38，執行：static，newTrueData count：44 
+2023-10-10 14:21:40，執行：static，falseData count：1132 
+2023-10-10 14:21:43，執行：static，onData OnData1 
+2023-10-10 14:22:38，執行：static，onData OnData2 
+2023-10-10 14:22:39，執行：static，isLiveSaveStatic 
+2023-10-10 14:22:42，執行：static，end 
+2023-10-10 14:22:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 14:22:44，執行：static，結束 
+2023-10-10 14:24:19，執行：static，開始 
+2023-10-10 14:24:21，執行：static，start 
+2023-10-10 14:24:34，執行：static，allTrueData count：2319 
+2023-10-10 14:24:35，執行：static，newTrueData count：44 
+2023-10-10 14:24:36，執行：static，falseData count：1132 
+2023-10-10 14:24:38，執行：static，onData OnData1 
+2023-10-10 14:25:33，執行：static，onData OnData2 
+2023-10-10 14:25:34，執行：static，isLiveSaveStatic 
+2023-10-10 14:25:37，執行：static，end 
+2023-10-10 14:25:39，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 14:25:40，執行：static，結束 
+2023-10-10 14:27:17，執行：static，開始 
+2023-10-10 14:27:19，執行：static，start 
+2023-10-10 14:27:32，執行：static，allTrueData count：2319 
+2023-10-10 14:27:33，執行：static，newTrueData count：44 
+2023-10-10 14:27:35，執行：static，falseData count：1132 
+2023-10-10 14:27:37，執行：static，onData OnData1 
+2023-10-10 14:28:35，執行：static，onData OnData2 
+2023-10-10 14:28:36，執行：static，isLiveSaveStatic 
+2023-10-10 14:28:39，執行：static，end 
+2023-10-10 14:28:41，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 14:28:42，執行：static，結束 
+2023-10-10 14:30:21，執行：static，開始 
+2023-10-10 14:30:22，執行：static，start 
+2023-10-10 14:30:36，執行：static，allTrueData count：2319 
+2023-10-10 14:30:37，執行：static，newTrueData count：44 
+2023-10-10 14:30:38，執行：static，falseData count：1132 
+2023-10-10 14:30:40，執行：static，onData OnData1 
+2023-10-10 14:31:38，執行：static，onData OnData2 
+2023-10-10 14:31:40，執行：static，isLiveSaveStatic 
+2023-10-10 14:31:43，執行：static，end 
+2023-10-10 14:31:45，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 14:31:46，執行：static，結束 
+2023-10-10 14:33:23，執行：static，開始 
+2023-10-10 14:33:24，執行：static，start 
+2023-10-10 14:33:37，執行：static，allTrueData count：2319 
+2023-10-10 14:33:38，執行：static，newTrueData count：44 
+2023-10-10 14:33:40，執行：static，falseData count：1132 
+2023-10-10 14:33:42，執行：static，onData OnData1 
+2023-10-10 14:34:37，執行：static，onData OnData2 
+2023-10-10 14:34:39，執行：static，isLiveSaveStatic 
+2023-10-10 14:34:42，執行：static，end 
+2023-10-10 14:34:44，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 14:34:46，執行：static，結束 
+2023-10-10 14:36:23，執行：static，開始 
+2023-10-10 14:36:24，執行：static，start 
+2023-10-10 14:36:37，執行：static，allTrueData count：2319 
+2023-10-10 14:36:38，執行：static，newTrueData count：44 
+2023-10-10 14:36:39，執行：static，falseData count：1132 
+2023-10-10 14:36:42，執行：static，onData OnData1 
+2023-10-10 14:37:37，執行：static，onData OnData2 
+2023-10-10 14:37:39，執行：static，isLiveSaveStatic 
+2023-10-10 14:37:42，執行：static，end 
+2023-10-10 14:37:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 14:37:45，執行：static，結束 
+2023-10-10 14:39:23，執行：static，開始 
+2023-10-10 14:39:24，執行：static，start 
+2023-10-10 14:39:37，執行：static，allTrueData count：2319 
+2023-10-10 14:39:39，執行：static，newTrueData count：44 
+2023-10-10 14:39:40，執行：static，falseData count：1132 
+2023-10-10 14:39:42，執行：static，onData OnData1 
+2023-10-10 14:40:39，執行：static，onData OnData2 
+2023-10-10 14:40:40，執行：static，isLiveSaveStatic 
+2023-10-10 14:40:43，執行：static，end 
+2023-10-10 14:40:45，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 14:40:47，執行：static，結束 
+2023-10-10 14:42:22，執行：static，開始 
+2023-10-10 14:42:24，執行：static，start 
+2023-10-10 14:42:37，執行：static，allTrueData count：2319 
+2023-10-10 14:42:39，執行：static，newTrueData count：44 
+2023-10-10 14:42:40，執行：static，falseData count：1132 
+2023-10-10 14:42:43，執行：static，onData OnData1 
+2023-10-10 14:43:38，執行：static，onData OnData2 
+2023-10-10 14:43:41，執行：static，isLiveSaveStatic 
+2023-10-10 14:43:44，執行：static，end 
+2023-10-10 14:43:46，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 14:43:47，執行：static，結束 
+2023-10-10 14:45:24，執行：static，開始 
+2023-10-10 14:45:25，執行：static，start 
+2023-10-10 14:45:38，執行：static，allTrueData count：2319 
+2023-10-10 14:45:39，執行：static，newTrueData count：44 
+2023-10-10 14:45:41，執行：static，falseData count：1132 
+2023-10-10 14:45:42，執行：static，onData OnData1 
+2023-10-10 14:46:36，執行：static，onData OnData2 
+2023-10-10 14:46:38，執行：static，isLiveSaveStatic 
+2023-10-10 14:46:41，執行：static，end 
+2023-10-10 14:46:43，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 14:46:44，執行：static，結束 
+2023-10-10 14:48:13，執行：static，開始 
+2023-10-10 14:48:15，執行：static，start 
+2023-10-10 14:48:28，執行：static，allTrueData count：2319 
+2023-10-10 14:48:29，執行：static，newTrueData count：44 
+2023-10-10 14:48:31，執行：static，falseData count：1132 
+2023-10-10 14:48:32，執行：static，onData OnData1 
+2023-10-10 14:49:29，執行：static，onData OnData2 
+2023-10-10 14:49:31，執行：static，isLiveSaveStatic 
+2023-10-10 14:49:33，執行：static，end 
+2023-10-10 14:49:34，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 14:49:36，執行：static，結束 
+2023-10-10 14:51:21，執行：static，開始 
+2023-10-10 14:51:23，執行：static，start 
+2023-10-10 14:51:35，執行：static，allTrueData count：2319 
+2023-10-10 14:51:37，執行：static，newTrueData count：44 
+2023-10-10 14:51:38，執行：static，falseData count：1132 
+2023-10-10 14:51:40，執行：static，onData OnData1 
+2023-10-10 14:52:35，執行：static，onData OnData2 
+2023-10-10 14:52:36，執行：static，isLiveSaveStatic 
+2023-10-10 14:52:39，執行：static，end 
+2023-10-10 14:52:40，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 14:52:41，執行：static，結束 
+2023-10-10 14:54:23，執行：static，開始 
+2023-10-10 14:54:25，執行：static，start 
+2023-10-10 14:54:37，執行：static，allTrueData count：2319 
+2023-10-10 14:54:38，執行：static，newTrueData count：44 
+2023-10-10 14:54:40，執行：static，falseData count：1132 
+2023-10-10 14:54:42，執行：static，onData OnData1 
+2023-10-10 14:55:35，執行：static，onData OnData2 
+2023-10-10 14:55:37，執行：static，isLiveSaveStatic 
+2023-10-10 14:55:41，執行：static，end 
+2023-10-10 14:55:42，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 14:55:44，執行：static，結束 
+2023-10-10 14:57:23，執行：static，開始 
+2023-10-10 14:57:25，執行：static，start 
+2023-10-10 14:57:37，執行：static，allTrueData count：2319 
+2023-10-10 14:57:38，執行：static，newTrueData count：44 
+2023-10-10 14:57:40，執行：static，falseData count：1132 
+2023-10-10 14:57:42，執行：static，onData OnData1 
+2023-10-10 14:58:36，執行：static，onData OnData2 
+2023-10-10 14:58:38，執行：static，isLiveSaveStatic 
+2023-10-10 14:58:41，執行：static，end 
+2023-10-10 14:58:43，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 14:58:44，執行：static，結束 
+2023-10-10 15:00:16，執行：static，開始 
+2023-10-10 15:00:17，執行：static，start 
+2023-10-10 15:00:30，執行：static，allTrueData count：2319 
+2023-10-10 15:00:31，執行：static，newTrueData count：44 
+2023-10-10 15:00:32，執行：static，falseData count：1132 
+2023-10-10 15:00:34，執行：static，onData OnData1 
+2023-10-10 15:01:30，執行：static，onData OnData2 
+2023-10-10 15:01:32，執行：static，isLiveSaveStatic 
+2023-10-10 15:01:34，執行：static，end 
+2023-10-10 15:01:36，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 15:01:38，執行：static，結束 
+2023-10-10 15:03:19，執行：static，開始 
+2023-10-10 15:03:21，執行：static，start 
+2023-10-10 15:03:33，執行：static，allTrueData count：2319 
+2023-10-10 15:03:34，執行：static，newTrueData count：44 
+2023-10-10 15:03:36，執行：static，falseData count：1132 
+2023-10-10 15:03:38，執行：static，onData OnData1 
+2023-10-10 15:04:32，執行：static，onData OnData2 
+2023-10-10 15:04:34，執行：static，isLiveSaveStatic 
+2023-10-10 15:04:37，執行：static，end 
+2023-10-10 15:04:38，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 15:04:40，執行：static，結束 
+2023-10-10 15:06:22，執行：static，開始 
+2023-10-10 15:06:23，執行：static，start 
+2023-10-10 15:06:36，執行：static，allTrueData count：2319 
+2023-10-10 15:06:38，執行：static，newTrueData count：44 
+2023-10-10 15:06:40，執行：static，falseData count：1132 
+2023-10-10 15:06:42，執行：static，onData OnData1 
+2023-10-10 15:07:37，執行：static，onData OnData2 
+2023-10-10 15:07:40，執行：static，isLiveSaveStatic 
+2023-10-10 15:07:43，執行：static，end 
+2023-10-10 15:07:44，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 15:07:46，執行：static，結束 
+2023-10-10 15:09:19，執行：static，開始 
+2023-10-10 15:09:21，執行：static，start 
+2023-10-10 15:09:33，執行：static，allTrueData count：2319 
+2023-10-10 15:09:35，執行：static，newTrueData count：44 
+2023-10-10 15:09:36，執行：static，falseData count：1132 
+2023-10-10 15:09:38，執行：static，onData OnData1 
+2023-10-10 15:10:34，執行：static，onData OnData2 
+2023-10-10 15:10:35，執行：static，isLiveSaveStatic 
+2023-10-10 15:10:38，執行：static，end 
+2023-10-10 15:10:40，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 15:10:41，執行：static，結束 
+2023-10-10 15:12:22，執行：static，開始 
+2023-10-10 15:12:24，執行：static，start 
+2023-10-10 15:12:37，執行：static，allTrueData count：2319 
+2023-10-10 15:12:38，執行：static，newTrueData count：44 
+2023-10-10 15:12:40，執行：static，falseData count：1132 
+2023-10-10 15:12:42，執行：static，onData OnData1 
+2023-10-10 15:13:35，執行：static，onData OnData2 
+2023-10-10 15:13:36，執行：static，isLiveSaveStatic 
+2023-10-10 15:13:40，執行：static，end 
+2023-10-10 15:13:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 15:13:42，執行：static，結束 
+2023-10-10 15:15:23，執行：static，開始 
+2023-10-10 15:15:24，執行：static，start 
+2023-10-10 15:15:37，執行：static，allTrueData count：2319 
+2023-10-10 15:15:38，執行：static，newTrueData count：44 
+2023-10-10 15:15:39，執行：static，falseData count：1132 
+2023-10-10 15:15:42，執行：static，onData OnData1 
+2023-10-10 15:16:35，執行：static，onData OnData2 
+2023-10-10 15:16:38，執行：static，isLiveSaveStatic 
+2023-10-10 15:16:41，執行：static，end 
+2023-10-10 15:16:42，執行：static，執行時間：0小時1分鐘19秒 
+2023-10-10 15:16:44，執行：static，結束 
+2023-10-10 15:18:23，執行：static，開始 
+2023-10-10 15:18:24，執行：static，start 
+2023-10-10 15:18:37，執行：static，allTrueData count：2319 
+2023-10-10 15:18:38，執行：static，newTrueData count：44 
+2023-10-10 15:18:40，執行：static，falseData count：1132 
+2023-10-10 15:18:41，執行：static，onData OnData1 
+2023-10-10 15:19:39，執行：static，onData OnData2 
+2023-10-10 15:19:41，執行：static，isLiveSaveStatic 
+2023-10-10 15:19:43，執行：static，end 
+2023-10-10 15:19:44，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 15:19:46，執行：static，結束 
+2023-10-10 15:21:23，執行：static，開始 
+2023-10-10 15:21:24，執行：static，start 
+2023-10-10 15:21:37，執行：static，allTrueData count：2319 
+2023-10-10 15:21:38，執行：static，newTrueData count：44 
+2023-10-10 15:21:40，執行：static，falseData count：1132 
+2023-10-10 15:21:42，執行：static，onData OnData1 
+2023-10-10 15:22:37，執行：static，onData OnData2 
+2023-10-10 15:22:39，執行：static，isLiveSaveStatic 
+2023-10-10 15:22:42，執行：static，end 
+2023-10-10 15:22:44，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 15:22:45，執行：static，結束 
+2023-10-10 15:24:23，執行：static，開始 
+2023-10-10 15:24:25，執行：static，start 
+2023-10-10 15:24:37，執行：static，allTrueData count：2319 
+2023-10-10 15:24:39，執行：static，newTrueData count：44 
+2023-10-10 15:24:40，執行：static，falseData count：1132 
+2023-10-10 15:24:42，執行：static，onData OnData1 
+2023-10-10 15:25:36，執行：static，onData OnData2 
+2023-10-10 15:25:38，執行：static，isLiveSaveStatic 
+2023-10-10 15:25:41，執行：static，end 
+2023-10-10 15:25:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 15:25:45，執行：static，結束 
+2023-10-10 15:27:23，執行：static，開始 
+2023-10-10 15:27:25，執行：static，start 
+2023-10-10 15:27:37，執行：static，allTrueData count：2319 
+2023-10-10 15:27:39，執行：static，newTrueData count：44 
+2023-10-10 15:27:41，執行：static，falseData count：1132 
+2023-10-10 15:27:43，執行：static，onData OnData1 
+2023-10-10 15:28:37，執行：static，onData OnData2 
+2023-10-10 15:28:40，執行：static，isLiveSaveStatic 
+2023-10-10 15:28:43，執行：static，end 
+2023-10-10 15:28:45，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 15:28:46，執行：static，結束 
+2023-10-10 15:30:21，執行：static，開始 
+2023-10-10 15:30:22，執行：static，start 
+2023-10-10 15:30:35，執行：static，allTrueData count：2319 
+2023-10-10 15:30:36，執行：static，newTrueData count：44 
+2023-10-10 15:30:38，執行：static，falseData count：1132 
+2023-10-10 15:30:39，執行：static，onData OnData1 
+2023-10-10 15:31:37，執行：static，onData OnData2 
+2023-10-10 15:31:39，執行：static，isLiveSaveStatic 
+2023-10-10 15:31:42，執行：static，end 
+2023-10-10 15:31:44，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 15:31:45，執行：static，結束 
+2023-10-10 15:33:23，執行：static，開始 
+2023-10-10 15:33:25，執行：static，start 
+2023-10-10 15:33:37，執行：static，allTrueData count：2319 
+2023-10-10 15:33:39，執行：static，newTrueData count：44 
+2023-10-10 15:33:41，執行：static，falseData count：1132 
+2023-10-10 15:33:44，執行：static，onData OnData1 
+2023-10-10 15:34:43，執行：static，onData OnData2 
+2023-10-10 15:34:44，執行：static，isLiveSaveStatic 
+2023-10-10 15:34:47，執行：static，end 
+2023-10-10 15:34:48，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 15:34:49，執行：static，結束 
+2023-10-10 15:36:23，執行：static，開始 
+2023-10-10 15:36:24，執行：static，start 
+2023-10-10 15:36:38，執行：static，allTrueData count：2319 
+2023-10-10 15:36:40，執行：static，newTrueData count：44 
+2023-10-10 15:36:41，執行：static，falseData count：1132 
+2023-10-10 15:36:44，執行：static，onData OnData1 
+2023-10-10 15:37:41，執行：static，onData OnData2 
+2023-10-10 15:37:43，執行：static，isLiveSaveStatic 
+2023-10-10 15:37:47，執行：static，end 
+2023-10-10 15:37:49，執行：static，執行時間：0小時1分鐘25秒 
+2023-10-10 15:37:50，執行：static，結束 
+2023-10-10 15:39:13，執行：static，開始 
+2023-10-10 15:39:15，執行：static，start 
+2023-10-10 15:39:27，執行：static，allTrueData count：2319 
+2023-10-10 15:39:29，執行：static，newTrueData count：44 
+2023-10-10 15:39:30，執行：static，falseData count：1132 
+2023-10-10 15:39:32，執行：static，onData OnData1 
+2023-10-10 15:40:29，執行：static，onData OnData2 
+2023-10-10 15:40:30，執行：static，isLiveSaveStatic 
+2023-10-10 15:40:33，執行：static，end 
+2023-10-10 15:40:34，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 15:40:36，執行：static，結束 
+2023-10-10 15:42:22，執行：static，開始 
+2023-10-10 15:42:24，執行：static，start 
+2023-10-10 15:42:37，執行：static，allTrueData count：2319 
+2023-10-10 15:42:38，執行：static，newTrueData count：44 
+2023-10-10 15:42:39，執行：static，falseData count：1132 
+2023-10-10 15:42:42，執行：static，onData OnData1 
+2023-10-10 15:43:36，執行：static，onData OnData2 
+2023-10-10 15:43:37，執行：static，isLiveSaveStatic 
+2023-10-10 15:43:39，執行：static，end 
+2023-10-10 15:43:41，執行：static，執行時間：0小時1分鐘18秒 
+2023-10-10 15:43:42，執行：static，結束 
+2023-10-10 15:46:17，執行：static，開始 
+2023-10-10 15:46:19，執行：static，start 
+2023-10-10 15:46:33，執行：static，allTrueData count：2319 
+2023-10-10 15:46:35，執行：static，newTrueData count：44 
+2023-10-10 15:46:36，執行：static，falseData count：1132 
+2023-10-10 15:46:39，執行：static，onData OnData1 
+2023-10-10 15:47:34，執行：static，onData OnData2 
+2023-10-10 15:47:36，執行：static，isLiveSaveStatic 
+2023-10-10 15:47:39，執行：static，end 
+2023-10-10 15:47:41，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 15:47:42，執行：static，結束 
+2023-10-10 15:50:22，執行：static，開始 
+2023-10-10 15:50:24，執行：static，start 
+2023-10-10 15:50:37，執行：static，allTrueData count：2319 
+2023-10-10 15:50:38，執行：static，newTrueData count：44 
+2023-10-10 15:50:39，執行：static，falseData count：1132 
+2023-10-10 15:50:41，執行：static，onData OnData1 
+2023-10-10 15:51:38，執行：static，onData OnData2 
+2023-10-10 15:51:40，執行：static，isLiveSaveStatic 
+2023-10-10 15:51:43，執行：static，end 
+2023-10-10 15:51:45，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 15:51:46，執行：static，結束 
+2023-10-10 16:00:15，執行：static，開始 
+2023-10-10 16:00:17，執行：static，start 
+2023-10-10 16:00:30，執行：static，allTrueData count：2319 
+2023-10-10 16:00:32，執行：static，newTrueData count：44 
+2023-10-10 16:00:33，執行：static，falseData count：1132 
+2023-10-10 16:00:35，執行：static，onData OnData1 
+2023-10-10 16:01:32，執行：static，onData OnData2 
+2023-10-10 16:01:34，執行：static，isLiveSaveStatic 
+2023-10-10 16:01:36，執行：static，end 
+2023-10-10 16:01:38，執行：static，執行時間：0小時1分鐘22秒 
+2023-10-10 16:01:39，執行：static，結束 
+2023-10-10 16:04:53，執行：static，開始 
+2023-10-10 16:04:54，執行：static，start 
+2023-10-10 16:05:07，執行：static，allTrueData count：2319 
+2023-10-10 16:05:08，執行：static，newTrueData count：44 
+2023-10-10 16:05:10，執行：static，falseData count：1132 
+2023-10-10 16:05:12，執行：static，onData OnData1 
+2023-10-10 16:06:10，執行：static，onData OnData2 
+2023-10-10 16:06:11，執行：static，isLiveSaveStatic 
+2023-10-10 16:06:15，執行：static，end 
+2023-10-10 16:06:16，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 16:06:18，執行：static，結束 
+2023-10-10 16:09:30，執行：static，開始 
+2023-10-10 16:09:32，執行：static，start 
+2023-10-10 16:09:45，執行：static，allTrueData count：2319 
+2023-10-10 16:09:46，執行：static，newTrueData count：44 
+2023-10-10 16:09:47，執行：static，falseData count：1132 
+2023-10-10 16:09:49，執行：static，onData OnData1 
+2023-10-10 18:54:22，執行：static，開始 
+2023-10-10 18:54:25，執行：static，start 
+2023-10-10 18:54:37，執行：static，allTrueData count：2319 
+2023-10-10 18:54:39，執行：static，newTrueData count：44 
+2023-10-10 18:54:40，執行：static，falseData count：1132 
+2023-10-10 18:54:42，執行：static，onData OnData1 
+2023-10-10 18:55:39，執行：static，onData OnData2 
+2023-10-10 18:55:42，執行：static，isLiveSaveStatic 
+2023-10-10 18:55:45，執行：static，end 
+2023-10-10 18:55:46，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 18:55:48，執行：static，結束 
+2023-10-10 18:59:04，執行：static，開始 
+2023-10-10 18:59:06，執行：static，start 
+2023-10-10 18:59:18，執行：static，allTrueData count：2319 
+2023-10-10 18:59:19，執行：static，newTrueData count：44 
+2023-10-10 18:59:21，執行：static，falseData count：1132 
+2023-10-10 18:59:24，執行：static，onData OnData1 
+2023-10-10 19:00:18，執行：static，onData OnData2 
+2023-10-10 19:00:20，執行：static，isLiveSaveStatic 
+2023-10-10 19:00:24，執行：static，end 
+2023-10-10 19:00:25，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 19:00:27，執行：static，結束 
+2023-10-10 19:03:48，執行：static，開始 
+2023-10-10 19:03:50，執行：static，start 
+2023-10-10 19:04:03，執行：static，allTrueData count：2319 
+2023-10-10 19:04:04，執行：static，newTrueData count：44 
+2023-10-10 19:04:05，執行：static，falseData count：1132 
+2023-10-10 19:04:08，執行：static，onData OnData1 
+2023-10-10 19:05:05，執行：static，onData OnData2 
+2023-10-10 19:05:07，執行：static，isLiveSaveStatic 
+2023-10-10 19:05:10，執行：static，end 
+2023-10-10 19:05:12，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 19:05:14，執行：static，結束 
+2023-10-10 19:08:14，執行：static，開始 
+2023-10-10 19:08:15，執行：static，start 
+2023-10-10 19:08:29，執行：static，allTrueData count：2319 
+2023-10-10 19:08:30，執行：static，newTrueData count：44 
+2023-10-10 19:08:31，執行：static，falseData count：1132 
+2023-10-10 19:08:33，執行：static，onData OnData1 
+2023-10-10 19:09:30，執行：static，onData OnData2 
+2023-10-10 19:09:31，執行：static，isLiveSaveStatic 
+2023-10-10 19:09:34，執行：static，end 
+2023-10-10 19:09:35，執行：static，執行時間：0小時1分鐘21秒 
+2023-10-10 19:09:37，執行：static，結束 
+2023-10-10 19:12:53，執行：static，開始 
+2023-10-10 19:12:54，執行：static，start 
+2023-10-10 19:13:07，執行：static，allTrueData count：2319 
+2023-10-10 19:13:09，執行：static，newTrueData count：44 
+2023-10-10 19:13:10，執行：static，falseData count：1132 
+2023-10-10 19:13:13，執行：static，onData OnData1 
+2023-10-10 19:15:22，執行：static，開始 
+2023-10-10 19:15:23，執行：static，start 
+2023-10-10 19:15:36，執行：static，allTrueData count：2319 
+2023-10-10 19:15:37，執行：static，newTrueData count：44 
+2023-10-10 19:15:39，執行：static，falseData count：1132 
+2023-10-10 19:15:40，執行：static，onData OnData1 
+2023-10-10 19:16:36，執行：static，onData OnData2 
+2023-10-10 19:16:38，執行：static，isLiveSaveStatic 
+2023-10-10 19:16:41，執行：static，end 
+2023-10-10 19:16:43，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 19:16:44，執行：static，結束 
+2023-10-10 19:20:31，執行：static，開始 
+2023-10-10 19:20:33，執行：static，start 
+2023-10-10 19:20:46，執行：static，allTrueData count：2319 
+2023-10-10 19:20:48，執行：static，newTrueData count：44 
+2023-10-10 19:20:50，執行：static，falseData count：1132 
+2023-10-10 19:20:52，執行：static，onData OnData1 
+2023-10-10 19:21:49，執行：static，onData OnData2 
+2023-10-10 19:21:50，執行：static，isLiveSaveStatic 
+2023-10-10 19:21:53，執行：static，end 
+2023-10-10 19:21:55，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 19:21:57，執行：static，結束 
+2023-10-10 19:25:44，執行：static，開始 
+2023-10-10 19:25:46，執行：static，start 
+2023-10-10 19:26:00，執行：static，allTrueData count：2319 
+2023-10-10 19:26:01，執行：static，newTrueData count：44 
+2023-10-10 19:26:03，執行：static，falseData count：1132 
+2023-10-10 19:26:04，執行：static，onData OnData1 
+2023-10-10 19:27:02，執行：static，onData OnData2 
+2023-10-10 19:27:03，執行：static，isLiveSaveStatic 
+2023-10-10 19:27:06，執行：static，end 
+2023-10-10 19:27:08，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 19:27:09，執行：static，結束 
+2023-10-10 19:31:01，執行：static，開始 
+2023-10-10 19:31:02，執行：static，start 
+2023-10-10 19:31:17，執行：static，allTrueData count：2319 
+2023-10-10 19:31:18，執行：static，newTrueData count：44 
+2023-10-10 19:31:19，執行：static，falseData count：1132 
+2023-10-10 19:31:21，執行：static，onData OnData1 
+2023-10-10 19:32:18，執行：static，onData OnData2 
+2023-10-10 19:32:19，執行：static，isLiveSaveStatic 
+2023-10-10 19:32:22，執行：static，end 
+2023-10-10 19:32:24，執行：static，執行時間：0小時1分鐘24秒 
+2023-10-10 19:32:26，執行：static，結束 
+2023-10-10 19:36:14，執行：static，開始 
+2023-10-10 19:36:16，執行：static，start 
+2023-10-10 19:36:31，執行：static，allTrueData count：2319 
+2023-10-10 19:36:33，執行：static，newTrueData count：44 
+2023-10-10 19:36:35，執行：static，falseData count：1132 
+2023-10-10 19:36:37，執行：static，onData OnData1 
+2023-10-10 19:37:34，執行：static，onData OnData2 
+2023-10-10 19:37:37，執行：static，isLiveSaveStatic 
+2023-10-10 19:37:40，執行：static，end 
+2023-10-10 19:37:41，執行：static，執行時間：0小時1分鐘28秒 
+2023-10-10 19:37:43，執行：static，結束 
+2023-10-10 19:41:32，執行：static，開始 
+2023-10-10 19:41:34，執行：static，start 
+2023-10-10 19:41:47，執行：static，allTrueData count：2319 
+2023-10-10 19:41:49，執行：static，newTrueData count：44 
+2023-10-10 19:41:50，執行：static，falseData count：1132 
+2023-10-10 19:41:52，執行：static，onData OnData1 
+2023-10-10 19:42:46，執行：static，onData OnData2 
+2023-10-10 19:42:48，執行：static，isLiveSaveStatic 
+2023-10-10 19:42:50，執行：static，end 
+2023-10-10 19:42:52，執行：static，執行時間：0小時1分鐘20秒 
+2023-10-10 19:42:54，執行：static，結束 
+2023-10-10 19:46:43，執行：static，開始 
+2023-10-10 19:46:44，執行：static，start 
+2023-10-10 19:46:57，執行：static，allTrueData count：2319 
+2023-10-10 19:46:59，執行：static，newTrueData count：44 
+2023-10-10 19:47:01，執行：static，falseData count：1132 
+2023-10-10 19:47:03，執行：static，onData OnData1 
+2023-10-10 19:48:00，執行：static，onData OnData2 
+2023-10-10 19:48:02，執行：static，isLiveSaveStatic 
+2023-10-10 19:48:05，執行：static，end 
+2023-10-10 19:48:06，執行：static，執行時間：0小時1分鐘23秒 
+2023-10-10 19:48:08，執行：static，結束 
+2023-10-10 19:51:23，執行：static，開始 
+2023-10-10 19:51:25，執行：static，start 
+2023-10-10 19:51:59，執行：static，allTrueData count：2319 
+2023-10-10 19:52:01，執行：static，newTrueData count：44 
+2023-10-10 19:52:03，執行：static，falseData count：1132 
+2023-10-10 19:52:06，執行：static，onData OnData1 
+2023-10-10 19:54:45，執行：static，onData OnData2 
+2023-10-10 19:54:46，執行：static，isLiveSaveStatic 
+2023-10-10 19:54:49，執行：static，end 
+2023-10-10 19:54:50，執行：static，執行時間：0小時3分鐘27秒 
+2023-10-10 19:54:52，執行：static，結束 

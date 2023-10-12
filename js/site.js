@@ -1,6 +1,6 @@
 ﻿//開發階段
 function GetApiUrl() {
-    return "${PUBLIC_WEBAPI_URL};
+    return "https://www-api.moda.gov.tw";
 }
 $(document).on("click", "a", function (e) {
     if ($(this).find('span').length > 0) {
@@ -378,8 +378,7 @@ function LeftMenuAjax(obj) {
         method: 'POST',
         contentType: 'application/json',
         dataType: 'html',
-        async: true,
-		timeout: 3000,
+        async: false,
         success: function (res) {
             innerHtml = res;
             $('.leftMenu').remove();

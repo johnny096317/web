@@ -224,7 +224,7 @@ function SearchJsonData(p) {
 
 
             S1 = S1.replace(new RegExp("雙語詞彙", 'g'), "Bilingual");
-            S1 = S1.replace(new RegExp("序號", 'g'), "No");
+            S1 = S1.replace(new RegExp("序號", 'g'), "No.");
             S1 = S1.replace(new RegExp("詞彙", 'g'), "English");
             S1 = S1.replace(new RegExp("英譯文", 'g'), "Chinese"); 
         }
@@ -287,7 +287,7 @@ function NewListReJson(str, obj) {
     $.each(Object.keys(obj), function (i, item) {
         str = str.replace(new RegExp("#".concat(item), 'g'), obj[item] == null ? "" : obj[item]);
     });
-    console.log(str);
+   
     return str;
 }
 function JsPagination(p) {

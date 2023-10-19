@@ -1,3 +1,3 @@
 ﻿function GetApiUrl() {
-    return "https://web.donba.date";
+    return "https://api.donba.date";
 }

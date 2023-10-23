@@ -72,7 +72,6 @@ function NewList(sqn) {
         $("#Chief").val(objJson.CF);
         if ($("#QryDateS").val() != "" || $("#QryDateE").val() != "" || $("#QryKeyword").val() != "" ||
             $("#Condition4").val() != "" || $("#Condition5").val() != "" || $("#Condition6").val() != "" || $("#CustomizeTags").val() != "" || $("#SysZipCode").val() != "") {
-           
             $(".searchSwitch").click();
         }
 
@@ -184,7 +183,17 @@ function SearchAjax(obj) {
                 $('html').stop().animate({ scrollTop: 0 }, 100, 'linear');
             });
         }, complete: function (data) {
-            $(".searchSwitch").click();
+            var IsAnykey = false;
+            var missKey = ['key', 'displaycount', 'p'];
+            $.each(Object.keys(obj), function (i, item) {
+                if (missKey.filter(x => x == item).length == 0 && obj[item] != '') {
+                    IsAnykey = true;
+                    return;
+                }
+            });
+            if (IsAnykey) {
+                $(".searchSwitch").click();
+            }
             FECommon.basicLoadingOff();
         }
     });

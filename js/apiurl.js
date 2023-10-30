@@ -1,3 +1,3 @@
 ﻿function GetApiUrl() {
-    return "https://api.donba.date";
+    return "https://i-w1030-api.moda.gov.tw";
 }

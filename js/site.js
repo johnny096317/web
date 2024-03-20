@@ -180,7 +180,6 @@ function SearchAjax(obj) {
         "P": parseInt(obj.p),
         "DisplayCount": parseInt(obj.displaycount)
     };
-    console.log(data);
     $.ajax({
         url: Url,
         method: 'POST',
@@ -246,28 +245,30 @@ function SearchJsonData(p) {
         var S1 = $("#ns")[0].innerHTML;
         var S2 = $("#ca")[0].innerHTML;
         var lang = $(".webSitelanguage").attr("lang");
-        if (lang == "en") {
-            S1 = S1.replace(new RegExp("連結此問答", 'g'), "Link in context");
+        switch (lang) {
+            case "en":
+                S1 = S1.replace(new RegExp("連結此問答", 'g'), "Link in context");
+                S1 = S1.replace(new RegExp('lang="en"', 'g'), "");
+                if (_Module == "Bilingual") {
+                    S1 = S1.replace(new RegExp("#zhtw", 'g'), "#1en");
+                    S1 = S1.replace(new RegExp("#en", 'g'), "#zhtw0");
+                    S1 = S1.replace(new RegExp("#1en", 'g'), "#en");
+                    S1 = S1.replace(new RegExp("#zhtw0", 'g'), "#zhtw");
+                    S1 = S1.replace(new RegExp("#bzh", 'g'), "#b1en");
+                    S1 = S1.replace(new RegExp("#ben", 'g'), "#b1zh");
+                    S1 = S1.replace(new RegExp("#b1en", 'g'), "#ben");
+                    S1 = S1.replace(new RegExp("#b1zh", 'g'), "#bzh");
+                    S1 = S1.replace(new RegExp("雙語詞彙", 'g'), "Bilingual");
+                    S1 = S1.replace(new RegExp("序號", 'g'), "No.");
+                    S1 = S1.replace(new RegExp("詞彙", 'g'), "English");
+                    S1 = S1.replace(new RegExp("英譯文", 'g'), "Chinese");
+                }
+                break;
+            case "zh-tw":
+                S1 = S1.replace(new RegExp('lang="zh-tw"', 'g'), "");
+                break;
         }
-        if (_Module == "Bilingual" && lang == "en") {
-            S1 = S1.replace(new RegExp("#zhtw", 'g'), "#1en");
-            S1 = S1.replace(new RegExp("#en", 'g'), "#zhtw0");
-
-            S1 = S1.replace(new RegExp("#1en", 'g'), "#en");
-            S1 = S1.replace(new RegExp("#zhtw0", 'g'), "#zhtw");
-
-            S1 = S1.replace(new RegExp("#bzh", 'g'), "#b1en");
-            S1 = S1.replace(new RegExp("#ben", 'g'), "#b1zh");
-
-            S1 = S1.replace(new RegExp("#b1en", 'g'), "#ben");
-            S1 = S1.replace(new RegExp("#b1zh", 'g'), "#bzh");
-
-
-            S1 = S1.replace(new RegExp("雙語詞彙", 'g'), "Bilingual");
-            S1 = S1.replace(new RegExp("序號", 'g'), "No.");
-            S1 = S1.replace(new RegExp("詞彙", 'g'), "English");
-            S1 = S1.replace(new RegExp("英譯文", 'g'), "Chinese");
-        }
+        
         var displaycount = 15;
         if ($("#perPageShow").length > 0) {
             displaycount = $("#perPageShow").find(':selected').val();

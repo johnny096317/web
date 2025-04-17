@@ -1,0 +1,3 @@
+[submodule "copyright"]
+	path = copyright
+	url = https://github.com/johnny096317/copyright.git
